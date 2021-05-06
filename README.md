@@ -21,10 +21,10 @@ Besides backends, I also work on frontends with the framework [Angular](https://
 ### 👷 Check out what I'm currently working on
 
 - [MarcelCoding/luna](https://github.com/MarcelCoding/luna) -  (1 day ago)
-- [themorpheustutorials/status-web](https://github.com/themorpheustutorials/status-web) -  (1 day ago)
-- [themorpheustutorials/status](https://github.com/themorpheustutorials/status) - The Moprheus Tutorials Statuspage (2 days ago)
-- [getnova/framework](https://github.com/getnova/framework) - This is the Nova framework, which is the base for Nova. (3 days ago)
-- [SRZ-Jahresarbeit/docs](https://github.com/SRZ-Jahresarbeit/docs) -  (5 days ago)
+- [themorpheustutorials/status-web](https://github.com/themorpheustutorials/status-web) -  (2 days ago)
+- [themorpheustutorials/status](https://github.com/themorpheustutorials/status) - The Moprheus Tutorials Statuspage (3 days ago)
+- [getnova/framework](https://github.com/getnova/framework) - This is the Nova framework, which is the base for Nova. (4 days ago)
+- [SRZ-Jahresarbeit/docs](https://github.com/SRZ-Jahresarbeit/docs) -  (6 days ago)
 
 ### 🌱 My latest projects
 
