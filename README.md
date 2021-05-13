@@ -20,11 +20,11 @@ Besides backends, I also work on frontends with the framework [Angular](https://
 
 ### 👷 Check out what I'm currently working on
 
-- [cryptic-game/cdn](https://github.com/cryptic-game/cdn) - Repository for images and other static assets, delivered using Cloudflare pages. (1 day ago)
-- [felbinger/AdminGuide](https://github.com/felbinger/AdminGuide) - Linux Server Administrator Guide (1 day ago)
 - [themorpheustutorials/status](https://github.com/themorpheustutorials/status) - The Moprheus Tutorials Statuspage (1 day ago)
-- [themorpheustutorials/status-web](https://github.com/themorpheustutorials/status-web) -  (1 day ago)
-- [themorpheustutorials/website](https://github.com/themorpheustutorials/website) - Website of The Morpheus Tutorials (3 days ago)
+- [cryptic-game/cdn](https://github.com/cryptic-game/cdn) - Repository for images and other static assets, delivered using Cloudflare pages. (2 days ago)
+- [felbinger/AdminGuide](https://github.com/felbinger/AdminGuide) - Linux Server Administrator Guide (2 days ago)
+- [themorpheustutorials/status-web](https://github.com/themorpheustutorials/status-web) -  (2 days ago)
+- [themorpheustutorials/website](https://github.com/themorpheustutorials/website) - Website of The Morpheus Tutorials (4 days ago)
 
 ### 🌱 My latest projects
 
