@@ -20,11 +20,11 @@ Besides backends, I also work on frontends with the framework [Angular](https://
 
 ### 👷 Check out what I'm currently working on
 
-- [MarcelCoding/luna](https://github.com/MarcelCoding/luna) -  (1 day ago)
-- [MarcelCoding/luna-web](https://github.com/MarcelCoding/luna-web) -  (1 day ago)
-- [MarcelCoding/marcelcoding.pages.dev](https://github.com/MarcelCoding/marcelcoding.pages.dev) - My personal small font page. (2 days ago)
-- [cryptic-game/java-backend](https://github.com/cryptic-game/java-backend) - This is the Java Backend of the Cryptic project. (2 days ago)
-- [cryptic-game/website](https://github.com/cryptic-game/website) - The official website of cryptic-game (2 days ago)
+- [MarcelCoding/luna](https://github.com/MarcelCoding/luna) -  (2 days ago)
+- [MarcelCoding/luna-web](https://github.com/MarcelCoding/luna-web) -  (2 days ago)
+- [MarcelCoding/marcelcoding.pages.dev](https://github.com/MarcelCoding/marcelcoding.pages.dev) - My personal small font page. (3 days ago)
+- [cryptic-game/java-backend](https://github.com/cryptic-game/java-backend) - This is the Java Backend of the Cryptic project. (3 days ago)
+- [cryptic-game/website](https://github.com/cryptic-game/website) - The official website of cryptic-game (3 days ago)
 
 ### 🌱 My latest projects
 
@@ -36,9 +36,9 @@ Besides backends, I also work on frontends with the framework [Angular](https://
 
 ### 🔭 Latest releases I've contributed to
 
-- [MarcelCoding/node-red-docker](https://github.com/MarcelCoding/node-red-docker) ([v0.2.8](https://github.com/MarcelCoding/node-red-docker/releases/tag/v0.2.8), 2 weeks ago) - Node-RED Docker image with dashboard nodes and a dark theme
+- [MarcelCoding/node-red-docker](https://github.com/MarcelCoding/node-red-docker) ([v0.2.8](https://github.com/MarcelCoding/node-red-docker/releases/tag/v0.2.8), 3 weeks ago) - Node-RED Docker image with dashboard nodes and a dark theme
 - [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) ([v1.0.3](https://github.com/MarcelCoding/jitsi-openid/releases/tag/v1.0.3), 3 weeks ago) - Jitsi OpenID is an authentication adapter to provide jitsi the ability to use single sign on via OpenID Connect.
-- [spring-projects-experimental/spring-native](https://github.com/spring-projects-experimental/spring-native) ([0.9.2](https://github.com/spring-projects-experimental/spring-native/releases/tag/0.9.2), 4 weeks ago) - Spring Native provides beta support for compiling Spring applications to native executables using GraalVM native-image compiler.
+- [spring-projects-experimental/spring-native](https://github.com/spring-projects-experimental/spring-native) ([0.9.2](https://github.com/spring-projects-experimental/spring-native/releases/tag/0.9.2), 1 month ago) - Spring Native provides beta support for compiling Spring applications to native executables using GraalVM native-image compiler.
 - [MarcelCoding/onedrive-docker](https://github.com/MarcelCoding/onedrive-docker) ([v2.4.11](https://github.com/MarcelCoding/onedrive-docker/releases/tag/v2.4.11), 1 month ago) - Pre build onedrive docker images.
 - [MarcelCoding/docker-desktop-vnc](https://github.com/MarcelCoding/docker-desktop-vnc) ([v0.2.0](https://github.com/MarcelCoding/docker-desktop-vnc/releases/tag/v0.2.0), 1 month ago) - A dockerized development environment that can be accessed through a browser.
 
