@@ -20,11 +20,11 @@ Besides backends, I also work on frontends with the framework [Angular](https://
 
 ### 👷 Check out what I'm currently working on
 
+- [MarcelCoding/ghcr-cleaner](https://github.com/MarcelCoding/ghcr-cleaner) -  (today)
+- [getnova/framework](https://github.com/getnova/framework) - This is the Nova framework, which is the base for Nova. (1 day ago)
 - [SRZ-Jahresarbeit/docker](https://github.com/SRZ-Jahresarbeit/docker) -  (1 day ago)
-- [SRZ-Jahresarbeit/docs](https://github.com/SRZ-Jahresarbeit/docs) -  (1 day ago)
-- [SRZ-Jahresarbeit/backend](https://github.com/SRZ-Jahresarbeit/backend) -  (1 day ago)
-- [SRZ-Jahresarbeit/Frontend](https://github.com/SRZ-Jahresarbeit/Frontend) -  (1 day ago)
-- [MarcelCoding/luna-web](https://github.com/MarcelCoding/luna-web) -  (1 day ago)
+- [SRZ-Jahresarbeit/controller](https://github.com/SRZ-Jahresarbeit/controller) -  (1 day ago)
+- [cryptic-game/java-backend](https://github.com/cryptic-game/java-backend) - This is the Java Backend of the Cryptic project. (1 day ago)
 
 ### 🌱 My latest projects
 
@@ -36,9 +36,9 @@ Besides backends, I also work on frontends with the framework [Angular](https://
 
 ### 🔭 Latest releases I've contributed to
 
-- [cryptic-game/frontend](https://github.com/cryptic-game/frontend) ([v0.2.1](https://github.com/cryptic-game/frontend/releases/tag/v0.2.1), 4 days ago) - The official frontend of Cryptic
-- [cryptic-game/server](https://github.com/cryptic-game/server) ([v0.2.2](https://github.com/cryptic-game/server/releases/tag/v0.2.2), 4 days ago) - official game-server of cryptic-game
-- [actions/setup-java](https://github.com/actions/setup-java) ([v2.1.0](https://github.com/actions/setup-java/releases/tag/v2.1.0), 4 days ago) - Set up your GitHub Actions workflow with a specific version of Java
+- [cryptic-game/frontend](https://github.com/cryptic-game/frontend) ([v0.2.1](https://github.com/cryptic-game/frontend/releases/tag/v0.2.1), 5 days ago) - The official frontend of Cryptic
+- [cryptic-game/server](https://github.com/cryptic-game/server) ([v0.2.2](https://github.com/cryptic-game/server/releases/tag/v0.2.2), 5 days ago) - official game-server of cryptic-game
+- [actions/setup-java](https://github.com/actions/setup-java) ([v2.1.0](https://github.com/actions/setup-java/releases/tag/v2.1.0), 5 days ago) - Set up your GitHub Actions workflow with a specific version of Java
 - [MarcelCoding/node-red-docker](https://github.com/MarcelCoding/node-red-docker) ([v0.2.8](https://github.com/MarcelCoding/node-red-docker/releases/tag/v0.2.8), 3 weeks ago) - Node-RED Docker image with dashboard nodes and a dark theme
 - [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) ([v1.0.3](https://github.com/MarcelCoding/jitsi-openid/releases/tag/v1.0.3), 1 month ago) - Jitsi OpenID is an authentication adapter to provide jitsi the ability to use single sign on via OpenID Connect.
 
