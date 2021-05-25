@@ -20,11 +20,11 @@ Besides backends, I also work on frontends with the framework [Angular](https://
 
 ### 👷 Check out what I'm currently working on
 
-- [cryptic-game/java-backend](https://github.com/cryptic-game/java-backend) - This is the Java Backend of the Cryptic project. (1 day ago)
-- [MarcelCoding/ghcr-cleaner](https://github.com/MarcelCoding/ghcr-cleaner) -  (2 days ago)
-- [MarcelCoding/luna](https://github.com/MarcelCoding/luna) -  (2 days ago)
-- [SRZ-Jahresarbeit/backend](https://github.com/SRZ-Jahresarbeit/backend) -  (2 days ago)
-- [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) - Jitsi OpenID is an authentication adapter to provide jitsi the ability to use single sign on via OpenID Connect. (2 days ago)
+- [SRZ-Jahresarbeit/backend](https://github.com/SRZ-Jahresarbeit/backend) -  (1 day ago)
+- [cryptic-game/java-backend](https://github.com/cryptic-game/java-backend) - This is the Java Backend of the Cryptic project. (2 days ago)
+- [MarcelCoding/ghcr-cleaner](https://github.com/MarcelCoding/ghcr-cleaner) -  (3 days ago)
+- [MarcelCoding/luna](https://github.com/MarcelCoding/luna) -  (3 days ago)
+- [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) - Jitsi OpenID is an authentication adapter to provide jitsi the ability to use single sign on via OpenID Connect. (3 days ago)
 
 ### 🌱 My latest projects
 
@@ -39,7 +39,7 @@ Besides backends, I also work on frontends with the framework [Angular](https://
 - [cryptic-game/frontend](https://github.com/cryptic-game/frontend) ([v0.2.1](https://github.com/cryptic-game/frontend/releases/tag/v0.2.1), 1 week ago) - The official frontend of Cryptic
 - [cryptic-game/server](https://github.com/cryptic-game/server) ([v0.2.2](https://github.com/cryptic-game/server/releases/tag/v0.2.2), 1 week ago) - official game-server of cryptic-game
 - [actions/setup-java](https://github.com/actions/setup-java) ([v2.1.0](https://github.com/actions/setup-java/releases/tag/v2.1.0), 1 week ago) - Set up your GitHub Actions workflow with a specific version of Java
-- [MarcelCoding/node-red-docker](https://github.com/MarcelCoding/node-red-docker) ([v0.2.8](https://github.com/MarcelCoding/node-red-docker/releases/tag/v0.2.8), 4 weeks ago) - Node-RED Docker image with dashboard nodes and a dark theme
+- [MarcelCoding/node-red-docker](https://github.com/MarcelCoding/node-red-docker) ([v0.2.8](https://github.com/MarcelCoding/node-red-docker/releases/tag/v0.2.8), 1 month ago) - Node-RED Docker image with dashboard nodes and a dark theme
 - [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) ([v1.0.3](https://github.com/MarcelCoding/jitsi-openid/releases/tag/v1.0.3), 1 month ago) - Jitsi OpenID is an authentication adapter to provide jitsi the ability to use single sign on via OpenID Connect.
 
 
