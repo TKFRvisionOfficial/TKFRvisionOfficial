@@ -20,11 +20,11 @@ Besides backends, I also work on frontends with the framework [Angular](https://
 
 ### 👷 Check out what I'm currently working on
 
-- [cryptic-game/java-backend](https://github.com/cryptic-game/java-backend) - This is the Java Backend of the Cryptic project. (1 day ago)
-- [SRZ-Jahresarbeit/Frontend](https://github.com/SRZ-Jahresarbeit/Frontend) -  (2 days ago)
-- [SRZ-Jahresarbeit/controller](https://github.com/SRZ-Jahresarbeit/controller) -  (2 days ago)
-- [SRZ-Jahresarbeit/backend](https://github.com/SRZ-Jahresarbeit/backend) -  (2 days ago)
-- [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) - Jitsi OpenID is an authentication adapter to provide jitsi the ability to use single sign on via OpenID Connect. (5 days ago)
+- [SRZ-Jahresarbeit/Frontend](https://github.com/SRZ-Jahresarbeit/Frontend) -  (1 day ago)
+- [cryptic-game/java-backend](https://github.com/cryptic-game/java-backend) - This is the Java Backend of the Cryptic project. (2 days ago)
+- [SRZ-Jahresarbeit/controller](https://github.com/SRZ-Jahresarbeit/controller) -  (3 days ago)
+- [SRZ-Jahresarbeit/backend](https://github.com/SRZ-Jahresarbeit/backend) -  (3 days ago)
+- [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) - Jitsi OpenID is an authentication adapter to provide jitsi the ability to use single sign on via OpenID Connect. (6 days ago)
 
 ### 🌱 My latest projects
 
