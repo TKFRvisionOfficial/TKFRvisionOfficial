@@ -20,11 +20,11 @@ Besides backends, I also work on frontends with the framework [Angular](https://
 
 ### 👷 Check out what I'm currently working on
 
-- [SRZ-Jahresarbeit/Frontend](https://github.com/SRZ-Jahresarbeit/Frontend) -  (2 days ago)
-- [felbinger/AdminGuide](https://github.com/felbinger/AdminGuide) - Linux Server Administrator Guide (3 days ago)
-- [cryptic-game/java-backend](https://github.com/cryptic-game/java-backend) - This is the Java Backend of the Cryptic project. (4 days ago)
-- [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) - Jitsi OpenID is an authentication adapter to provide jitsi the ability to use single sign on via OpenID Connect. (6 days ago)
-- [MarcelCoding/docker-desktop-hdmi](https://github.com/MarcelCoding/docker-desktop-hdmi) - Docker Desktop HDMI is a Linux Xfce4 desktop environment inside a docker container. You can access it with the host ports (e.g. hdmi, usb, ...). (6 days ago)
+- [SRZ-Jahresarbeit/backend](https://github.com/SRZ-Jahresarbeit/backend) -  (1 day ago)
+- [SRZ-Jahresarbeit/Frontend](https://github.com/SRZ-Jahresarbeit/Frontend) -  (3 days ago)
+- [felbinger/AdminGuide](https://github.com/felbinger/AdminGuide) - Linux Server Administrator Guide (4 days ago)
+- [cryptic-game/java-backend](https://github.com/cryptic-game/java-backend) - This is the Java Backend of the Cryptic project. (5 days ago)
+- [MarcelCoding/docker-desktop-hdmi](https://github.com/MarcelCoding/docker-desktop-hdmi) - Docker Desktop HDMI is a Linux Xfce4 desktop environment inside a docker container. You can access it with the host ports (e.g. hdmi, usb, ...). (1 week ago)
 
 ### 🌱 My latest projects
 
@@ -36,7 +36,7 @@ Besides backends, I also work on frontends with the framework [Angular](https://
 
 ### 🔭 Latest releases I've contributed to
 
-- [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) ([v1.0.4](https://github.com/MarcelCoding/jitsi-openid/releases/tag/v1.0.4), 4 days ago) - Jitsi OpenID is an authentication adapter to provide jitsi the ability to use single sign on via OpenID Connect.
+- [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) ([v1.0.4](https://github.com/MarcelCoding/jitsi-openid/releases/tag/v1.0.4), 5 days ago) - Jitsi OpenID is an authentication adapter to provide jitsi the ability to use single sign on via OpenID Connect.
 - [MarcelCoding/onedrive-docker](https://github.com/MarcelCoding/onedrive-docker) ([v2.4.12](https://github.com/MarcelCoding/onedrive-docker/releases/tag/v2.4.12), 1 week ago) - Pre build onedrive docker images.
 - [cryptic-game/frontend](https://github.com/cryptic-game/frontend) ([v0.2.1](https://github.com/cryptic-game/frontend/releases/tag/v0.2.1), 2 weeks ago) - The official frontend of Cryptic
 - [cryptic-game/server](https://github.com/cryptic-game/server) ([v0.2.2](https://github.com/cryptic-game/server/releases/tag/v0.2.2), 2 weeks ago) - official game-server of cryptic-game
