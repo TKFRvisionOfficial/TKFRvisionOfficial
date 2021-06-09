@@ -20,11 +20,11 @@ Besides backends, I also work on frontends with the framework [Angular](https://
 
 ### 👷 Check out what I'm currently working on
 
-- [getnova/framework](https://github.com/getnova/framework) - This is the Nova framework, which is the base for Nova. (2 days ago)
-- [MarcelCoding/luna](https://github.com/MarcelCoding/luna) -  (2 days ago)
-- [cryptic-game/java-backend](https://github.com/cryptic-game/java-backend) - This is the Java Backend of the Cryptic project. (2 days ago)
-- [MarcelCoding/luna-web](https://github.com/MarcelCoding/luna-web) -  (2 days ago)
-- [SRZ-Jahresarbeit/backend](https://github.com/SRZ-Jahresarbeit/backend) -  (3 days ago)
+- [MarcelCoding/luna-web](https://github.com/MarcelCoding/luna-web) -  (1 day ago)
+- [getnova/framework](https://github.com/getnova/framework) - This is the Nova framework, which is the base for Nova. (3 days ago)
+- [MarcelCoding/luna](https://github.com/MarcelCoding/luna) -  (3 days ago)
+- [cryptic-game/java-backend](https://github.com/cryptic-game/java-backend) - This is the Java Backend of the Cryptic project. (3 days ago)
+- [SRZ-Jahresarbeit/backend](https://github.com/SRZ-Jahresarbeit/backend) -  (4 days ago)
 
 ### 🌱 My latest projects
 
