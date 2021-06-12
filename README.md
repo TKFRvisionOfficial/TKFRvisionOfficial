@@ -20,11 +20,11 @@ Besides backends, I also work on frontends with the framework [Angular](https://
 
 ### 👷 Check out what I'm currently working on
 
-- [cryptic-game/cdn](https://github.com/cryptic-game/cdn) - Repository for images and other static assets, delivered using Cloudflare pages. (1 day ago)
-- [cryptic-game/java-backend](https://github.com/cryptic-game/java-backend) - This is the Java Backend of the Cryptic project. (1 day ago)
-- [cryptic-game/admin-panel](https://github.com/cryptic-game/admin-panel) - This is the official admin panel of Cryptic. (1 day ago)
-- [cryptic-game/website](https://github.com/cryptic-game/website) - The official website of cryptic-game (2 days ago)
-- [MarcelCoding/luna-web](https://github.com/MarcelCoding/luna-web) -  (3 days ago)
+- [felbinger/AdminGuide](https://github.com/felbinger/AdminGuide) - Linux Server Administrator Guide (1 day ago)
+- [cryptic-game/docs](https://github.com/cryptic-game/docs) -  (1 day ago)
+- [themorpheustutorials/status](https://github.com/themorpheustutorials/status) - The Moprheus Tutorials Statuspage (1 day ago)
+- [cryptic-game/admin-panel](https://github.com/cryptic-game/admin-panel) - This is the official admin panel of Cryptic. (2 days ago)
+- [cryptic-game/java-backend](https://github.com/cryptic-game/java-backend) - This is the Java Backend of the Cryptic project. (2 days ago)
 
 ### 🌱 My latest projects
 
