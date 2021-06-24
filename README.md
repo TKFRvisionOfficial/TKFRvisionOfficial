@@ -20,11 +20,11 @@ Besides backends, I also work on frontends with the framework [Angular](https://
 
 ### 👷 Check out what I'm currently working on
 
-- [MarcelCoding/luna-web](https://github.com/MarcelCoding/luna-web) -  (1 day ago)
-- [cryptic-game/admin-panel](https://github.com/cryptic-game/admin-panel) - This is the official admin panel of Cryptic. (1 day ago)
-- [MarcelCoding/luna](https://github.com/MarcelCoding/luna) -  (2 days ago)
-- [cryptic-game/java-backend](https://github.com/cryptic-game/java-backend) - This is the Java Backend of the Cryptic project. (2 days ago)
-- [themorpheustutorials/status-web](https://github.com/themorpheustutorials/status-web) -  (2 days ago)
+- [cryptic-game/java-backend](https://github.com/cryptic-game/java-backend) - This is the Java Backend of the Cryptic project. (1 day ago)
+- [MarcelCoding/marcelcoding.pages.dev](https://github.com/MarcelCoding/marcelcoding.pages.dev) - My personal small font page. (1 day ago)
+- [MarcelCoding/luna-web](https://github.com/MarcelCoding/luna-web) -  (2 days ago)
+- [cryptic-game/admin-panel](https://github.com/cryptic-game/admin-panel) - This is the official admin panel of Cryptic. (2 days ago)
+- [MarcelCoding/luna](https://github.com/MarcelCoding/luna) -  (3 days ago)
 
 ### 🌱 My latest projects
 
