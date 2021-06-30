@@ -20,9 +20,9 @@ Besides backends, I also work on frontends with the framework [Angular](https://
 
 ### 👷 Check out what I'm currently working on
 
-- [getnova/maven](https://github.com/getnova/maven) - This repository contains all compiled maven artifacts. (1 day ago)
-- [MarcelCoding/marcelcoding.pages.dev](https://github.com/MarcelCoding/marcelcoding.pages.dev) - My personal small font page. (6 days ago)
-- [cryptic-game/java-backend](https://github.com/cryptic-game/java-backend) - This is the Java Backend of the Cryptic project. (6 days ago)
+- [cryptic-game/java-backend](https://github.com/cryptic-game/java-backend) - This is the Java Backend of the Cryptic project. (1 day ago)
+- [getnova/maven](https://github.com/getnova/maven) - This repository contains all compiled maven artifacts. (2 days ago)
+- [MarcelCoding/marcelcoding.pages.dev](https://github.com/MarcelCoding/marcelcoding.pages.dev) - My personal small font page. (1 week ago)
 - [cryptic-game/admin-panel](https://github.com/cryptic-game/admin-panel) - This is the official admin panel of Cryptic. (1 week ago)
 - [MarcelCoding/luna-web](https://github.com/MarcelCoding/luna-web) -  (1 week ago)
 
@@ -36,7 +36,7 @@ Besides backends, I also work on frontends with the framework [Angular](https://
 
 ### 🔭 Latest releases I've contributed to
 
-- [spring-projects-experimental/spring-native](https://github.com/spring-projects-experimental/spring-native) ([0.10.1](https://github.com/spring-projects-experimental/spring-native/releases/tag/0.10.1), 1 day ago) - Spring Native provides beta support for compiling Spring applications to native executables using GraalVM native-image compiler.
+- [spring-projects-experimental/spring-native](https://github.com/spring-projects-experimental/spring-native) ([0.10.1](https://github.com/spring-projects-experimental/spring-native/releases/tag/0.10.1), 2 days ago) - Spring Native provides beta support for compiling Spring applications to native executables using GraalVM native-image compiler.
 - [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) ([v1.0.5](https://github.com/MarcelCoding/jitsi-openid/releases/tag/v1.0.5), 2 weeks ago) - Jitsi OpenID is an authentication adapter to provide jitsi the ability to use single sign on via OpenID Connect.
 - [MarcelCoding/onedrive-docker](https://github.com/MarcelCoding/onedrive-docker) ([v2.4.12](https://github.com/MarcelCoding/onedrive-docker/releases/tag/v2.4.12), 1 month ago) - Pre-Build OneDrive Docker Images.
 - [cryptic-game/frontend](https://github.com/cryptic-game/frontend) ([v0.2.1](https://github.com/cryptic-game/frontend/releases/tag/v0.2.1), 1 month ago) - The official frontend of Cryptic
