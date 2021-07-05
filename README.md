@@ -20,11 +20,11 @@ Besides backends, I also work on frontends with the framework [Angular](https://
 
 ### 👷 Check out what I'm currently working on
 
-- [themorpheustutorials/status](https://github.com/themorpheustutorials/status) - The Moprheus Tutorials Statuspage (3 days ago)
-- [secshellnet/docs](https://github.com/secshellnet/docs) - Documentation (3 days ago)
-- [themorpheustutorials/status-web](https://github.com/themorpheustutorials/status-web) -  (3 days ago)
-- [cryptic-game/java-backend](https://github.com/cryptic-game/java-backend) - This is the Java Backend of the Cryptic project. (4 days ago)
-- [MarcelCoding/luna-web](https://github.com/MarcelCoding/luna-web) -  (4 days ago)
+- [getnova/framework](https://github.com/getnova/framework) - This is the Nova framework, which is the base for Nova. (1 day ago)
+- [MarcelCoding/luna](https://github.com/MarcelCoding/luna) -  (1 day ago)
+- [themorpheustutorials/status](https://github.com/themorpheustutorials/status) - The Moprheus Tutorials Statuspage (1 day ago)
+- [secshellnet/docs](https://github.com/secshellnet/docs) - Documentation (4 days ago)
+- [themorpheustutorials/status-web](https://github.com/themorpheustutorials/status-web) -  (4 days ago)
 
 ### 🌱 My latest projects
 
@@ -36,7 +36,7 @@ Besides backends, I also work on frontends with the framework [Angular](https://
 
 ### 🔭 Latest releases I've contributed to
 
-- [spring-projects-experimental/spring-native](https://github.com/spring-projects-experimental/spring-native) ([0.10.1](https://github.com/spring-projects-experimental/spring-native/releases/tag/0.10.1), 6 days ago) - Spring Native provides beta support for compiling Spring applications to native executables using GraalVM native-image compiler.
+- [spring-projects-experimental/spring-native](https://github.com/spring-projects-experimental/spring-native) ([0.10.1](https://github.com/spring-projects-experimental/spring-native/releases/tag/0.10.1), 1 week ago) - Spring Native provides beta support for compiling Spring applications to native executables using GraalVM native-image compiler.
 - [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) ([v1.0.5](https://github.com/MarcelCoding/jitsi-openid/releases/tag/v1.0.5), 2 weeks ago) - Jitsi OpenID is an authentication adapter to provide jitsi the ability to use single sign on via OpenID Connect.
 - [MarcelCoding/onedrive-docker](https://github.com/MarcelCoding/onedrive-docker) ([v2.4.12](https://github.com/MarcelCoding/onedrive-docker/releases/tag/v2.4.12), 1 month ago) - Pre-Build OneDrive Docker Images.
 - [cryptic-game/frontend](https://github.com/cryptic-game/frontend) ([v0.2.1](https://github.com/cryptic-game/frontend/releases/tag/v0.2.1), 1 month ago) - The official frontend of Cryptic
