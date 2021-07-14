@@ -20,11 +20,11 @@ Besides backends, I also work on frontends with the framework [Angular](https://
 
 ### 👷 Check out what I'm currently working on
 
-- [cryptic-game/docs](https://github.com/cryptic-game/docs) - Official Documentation of the Cryptic Game (1 day ago)
-- [secshellnet/docs](https://github.com/secshellnet/docs) - Documentation (1 day ago)
-- [influxdata/influxdb-client-java](https://github.com/influxdata/influxdb-client-java) - InfluxDB 2 JVM Based Clients (1 day ago)
-- [felbinger/AdminGuide](https://github.com/felbinger/AdminGuide) - Linux Server Administrator Guide (1 day ago)
-- [an2ic3/keycloak-extensions](https://github.com/an2ic3/keycloak-extensions) - This is a collections of keycloak extensions, and a docker image with all extensions pre-installed. (1 day ago)
+- [getnova/framework](https://github.com/getnova/framework) - This is the Nova framework, which is the base for Nova. (1 day ago)
+- [MarcelCoding/luna](https://github.com/MarcelCoding/luna) -  (1 day ago)
+- [cryptic-game/java-backend](https://github.com/cryptic-game/java-backend) - This is the Java Backend of the Cryptic project. (1 day ago)
+- [MarcelCoding/onedrive-docker](https://github.com/MarcelCoding/onedrive-docker) - Pre-Build OneDrive Docker Images. (1 day ago)
+- [secshellnet/docs](https://github.com/secshellnet/docs) - Documentation (2 days ago)
 
 ### 🌱 My latest projects
 
@@ -36,10 +36,10 @@ Besides backends, I also work on frontends with the framework [Angular](https://
 
 ### 🔭 Latest releases I've contributed to
 
-- [influxdata/influxdb-client-java](https://github.com/influxdata/influxdb-client-java) ([v3.0.0](https://github.com/influxdata/influxdb-client-java/releases/tag/v3.0.0), 4 days ago) - InfluxDB 2 JVM Based Clients
+- [MarcelCoding/onedrive-docker](https://github.com/MarcelCoding/onedrive-docker) ([v2.4.13](https://github.com/MarcelCoding/onedrive-docker/releases/tag/v2.4.13), 1 day ago) - Pre-Build OneDrive Docker Images.
+- [influxdata/influxdb-client-java](https://github.com/influxdata/influxdb-client-java) ([v3.0.0](https://github.com/influxdata/influxdb-client-java/releases/tag/v3.0.0), 5 days ago) - InfluxDB 2 JVM Based Clients
 - [spring-projects-experimental/spring-native](https://github.com/spring-projects-experimental/spring-native) ([0.10.1](https://github.com/spring-projects-experimental/spring-native/releases/tag/0.10.1), 2 weeks ago) - Spring Native provides beta support for compiling Spring applications to native executables using GraalVM native-image compiler.
 - [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) ([v1.0.5](https://github.com/MarcelCoding/jitsi-openid/releases/tag/v1.0.5), 4 weeks ago) - Jitsi OpenID is an authentication adapter to provide jitsi the ability to use single sign on via OpenID Connect.
-- [MarcelCoding/onedrive-docker](https://github.com/MarcelCoding/onedrive-docker) ([v2.4.12](https://github.com/MarcelCoding/onedrive-docker/releases/tag/v2.4.12), 1 month ago) - Pre-Build OneDrive Docker Images.
 - [cryptic-game/frontend](https://github.com/cryptic-game/frontend) ([v0.2.1](https://github.com/cryptic-game/frontend/releases/tag/v0.2.1), 1 month ago) - The official frontend of Cryptic
 
 
