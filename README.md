@@ -20,11 +20,11 @@ Besides backends, I also work on frontends with the framework [Angular](https://
 
 ### 👷 Check out what I'm currently working on
 
-- [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) - Jitsi OpenID is an authentication adapter to provide jitsi the ability to use single sign on via OpenID Connect. (1 day ago)
-- [MarcelCoding/node-red-docker](https://github.com/MarcelCoding/node-red-docker) - Node-RED Docker image with dashboard nodes and a dark theme (2 days ago)
-- [felbinger/AdminGuide](https://github.com/felbinger/AdminGuide) - Linux Server Administrator Guide (4 days ago)
-- [MarcelCoding/luna](https://github.com/MarcelCoding/luna) -  (6 days ago)
-- [cryptic-game/java-backend](https://github.com/cryptic-game/java-backend) - This is the Java Backend of the Cryptic project. (6 days ago)
+- [MarcelCoding/luna](https://github.com/MarcelCoding/luna) -  (1 day ago)
+- [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) - Jitsi OpenID is an authentication adapter to provide jitsi the ability to use single sign on via OpenID Connect. (2 days ago)
+- [MarcelCoding/node-red-docker](https://github.com/MarcelCoding/node-red-docker) - Node-RED Docker image with dashboard nodes and a dark theme (3 days ago)
+- [felbinger/AdminGuide](https://github.com/felbinger/AdminGuide) - Linux Server Administrator Guide (5 days ago)
+- [cryptic-game/java-backend](https://github.com/cryptic-game/java-backend) - This is the Java Backend of the Cryptic project. (1 week ago)
 
 ### 🌱 My latest projects
 
