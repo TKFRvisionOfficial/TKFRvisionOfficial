@@ -20,9 +20,9 @@ Besides backends, I also work on frontends with the framework [Angular](https://
 
 ### 👷 Check out what I'm currently working on
 
-- [MarcelCoding/luna](https://github.com/MarcelCoding/luna) -  (3 days ago)
-- [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect. (4 days ago)
-- [MarcelCoding/node-red-docker](https://github.com/MarcelCoding/node-red-docker) - Node-RED Docker image with dashboard nodes and a dark theme (5 days ago)
+- [MarcelCoding/node-red-docker](https://github.com/MarcelCoding/node-red-docker) - Node-RED Docker image with dashboard nodes and a dark theme (1 day ago)
+- [MarcelCoding/luna](https://github.com/MarcelCoding/luna) -  (4 days ago)
+- [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect. (5 days ago)
 - [felbinger/AdminGuide](https://github.com/felbinger/AdminGuide) - Linux Server Administrator Guide (1 week ago)
 - [themorpheustutorials/resources](https://github.com/themorpheustutorials/resources) - Resources from the community, for the community. (1 week ago)
 
@@ -36,10 +36,10 @@ Besides backends, I also work on frontends with the framework [Angular](https://
 
 ### 🔭 Latest releases I've contributed to
 
-- [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) ([v1.0.6](https://github.com/MarcelCoding/jitsi-openid/releases/tag/v1.0.6), 2 days ago) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect.
+- [MarcelCoding/node-red-docker](https://github.com/MarcelCoding/node-red-docker) ([v0.3.0](https://github.com/MarcelCoding/node-red-docker/releases/tag/v0.3.0), 1 day ago) - Node-RED Docker image with dashboard nodes and a dark theme
+- [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) ([v1.0.6](https://github.com/MarcelCoding/jitsi-openid/releases/tag/v1.0.6), 3 days ago) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect.
 - [influxdata/influxdb-client-java](https://github.com/influxdata/influxdb-client-java) ([v3.0.1](https://github.com/influxdata/influxdb-client-java/releases/tag/v3.0.1), 1 week ago) - InfluxDB 2 JVM Based Clients
-- [MarcelCoding/onedrive-docker](https://github.com/MarcelCoding/onedrive-docker) ([v2.4.13](https://github.com/MarcelCoding/onedrive-docker/releases/tag/v2.4.13), 1 week ago) - Pre-Build OneDrive Docker Images.
+- [MarcelCoding/onedrive-docker](https://github.com/MarcelCoding/onedrive-docker) ([v2.4.13](https://github.com/MarcelCoding/onedrive-docker/releases/tag/v2.4.13), 2 weeks ago) - Pre-Build OneDrive Docker Images.
 - [spring-projects-experimental/spring-native](https://github.com/spring-projects-experimental/spring-native) ([0.10.1](https://github.com/spring-projects-experimental/spring-native/releases/tag/0.10.1), 4 weeks ago) - Spring Native provides beta support for compiling Spring applications to native executables using GraalVM native-image compiler.
-- [cryptic-game/frontend](https://github.com/cryptic-game/frontend) ([v0.2.1](https://github.com/cryptic-game/frontend/releases/tag/v0.2.1), 2 months ago) - The official frontend of Cryptic
 
 
