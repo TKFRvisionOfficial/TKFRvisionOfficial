@@ -20,11 +20,11 @@ Besides backends, I also work on frontends with the framework [Angular](https://
 
 ### 👷 Check out what I'm currently working on
 
-- [MarcelCoding/docker-keycloak-ssh](https://github.com/MarcelCoding/docker-keycloak-ssh) -  (today)
-- [secshellnet/docs](https://github.com/secshellnet/docs) -  (today)
-- [secshellnet/keycloak-configurator](https://github.com/secshellnet/keycloak-configurator) - Application to adjust keycloak xml configuration (1 day ago)
-- [themorpheustutorials/status](https://github.com/themorpheustutorials/status) - The Moprheus Tutorials Statuspage (2 days ago)
-- [PyDrocsid/cogs](https://github.com/PyDrocsid/cogs) -  (2 days ago)
+- [cryptic-game/website](https://github.com/cryptic-game/website) - The official website of cryptic-game (1 day ago)
+- [secshellnet/docs](https://github.com/secshellnet/docs) -  (1 day ago)
+- [MarcelCoding/docker-keycloak-ssh](https://github.com/MarcelCoding/docker-keycloak-ssh) - SSH Daemon connected with Keycloak. (1 day ago)
+- [marcel-repos/deb](https://github.com/marcel-repos/deb) - Personal Debian Package Repository (1 day ago)
+- [secshellnet/keycloak-configurator](https://github.com/secshellnet/keycloak-configurator) - Application to adjust keycloak xml configuration (2 days ago)
 
 ### 🌱 My latest projects
 
@@ -36,8 +36,8 @@ Besides backends, I also work on frontends with the framework [Angular](https://
 
 ### 🔭 Latest releases I've contributed to
 
-- [secshellnet/keycloak-configurator](https://github.com/secshellnet/keycloak-configurator) ([v1.0.3](https://github.com/secshellnet/keycloak-configurator/releases/tag/v1.0.3), 1 day ago) - Application to adjust keycloak xml configuration
-- [actions/setup-java](https://github.com/actions/setup-java) ([v2.3.0](https://github.com/actions/setup-java/releases/tag/v2.3.0), 5 days ago) - Set up your GitHub Actions workflow with a specific version of Java
+- [secshellnet/keycloak-configurator](https://github.com/secshellnet/keycloak-configurator) ([v1.0.3](https://github.com/secshellnet/keycloak-configurator/releases/tag/v1.0.3), 2 days ago) - Application to adjust keycloak xml configuration
+- [actions/setup-java](https://github.com/actions/setup-java) ([v2.3.0](https://github.com/actions/setup-java/releases/tag/v2.3.0), 6 days ago) - Set up your GitHub Actions workflow with a specific version of Java
 - [spring-projects-experimental/spring-native](https://github.com/spring-projects-experimental/spring-native) ([0.10.3](https://github.com/spring-projects-experimental/spring-native/releases/tag/0.10.3), 1 week ago) - Spring Native provides beta support for compiling Spring applications to native executables using GraalVM native-image compiler.
 - [influxdata/influxdb-client-java](https://github.com/influxdata/influxdb-client-java) ([v3.2.0](https://github.com/influxdata/influxdb-client-java/releases/tag/v3.2.0), 1 week ago) - InfluxDB 2 JVM Based Clients
 - [MarcelCoding/docker-ssh-tunnel](https://github.com/MarcelCoding/docker-ssh-tunnel) ([v1.0.0](https://github.com/MarcelCoding/docker-ssh-tunnel/releases/tag/v1.0.0), 1 week ago) - Docker SSH Tunnel is a pre configured SSH Daemon to tunnel a local port.
