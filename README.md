@@ -20,11 +20,11 @@ Besides backends, I also work on frontends with the framework [Angular](https://
 
 ### 👷 Check out what I'm currently working on
 
-- [MarcelCoding/.well-known](https://github.com/MarcelCoding/.well-known) - .well-known configuration for m4rc3l.de (1 day ago)
-- [MarcelCoding/luna](https://github.com/MarcelCoding/luna) -  (2 days ago)
-- [cryptic-game/java-backend](https://github.com/cryptic-game/java-backend) - This is the Java Backend of the Cryptic project. (2 days ago)
-- [felbinger/AdminGuide](https://github.com/felbinger/AdminGuide) - Linux Server Administrator Guide (2 days ago)
-- [themorpheustutorials/status](https://github.com/themorpheustutorials/status) - The Moprheus Tutorials Statuspage (3 days ago)
+- [MarcelCoding/luna-web](https://github.com/MarcelCoding/luna-web) -  (1 day ago)
+- [cryptic-game/website](https://github.com/cryptic-game/website) - The official website of cryptic-game (1 day ago)
+- [themorpheustutorials/status](https://github.com/themorpheustutorials/status) - The Moprheus Tutorials Statuspage (1 day ago)
+- [MarcelCoding/.well-known](https://github.com/MarcelCoding/.well-known) - .well-known configuration for m4rc3l.de (2 days ago)
+- [MarcelCoding/luna](https://github.com/MarcelCoding/luna) -  (3 days ago)
 
 ### 🌱 My latest projects
 
@@ -36,10 +36,10 @@ Besides backends, I also work on frontends with the framework [Angular](https://
 
 ### 🔭 Latest releases I've contributed to
 
-- [secshellnet/keycloak-configurator](https://github.com/secshellnet/keycloak-configurator) ([v1.0.3](https://github.com/secshellnet/keycloak-configurator/releases/tag/v1.0.3), 5 days ago) - Application to adjust keycloak xml configuration
+- [secshellnet/keycloak-configurator](https://github.com/secshellnet/keycloak-configurator) ([v1.0.3](https://github.com/secshellnet/keycloak-configurator/releases/tag/v1.0.3), 6 days ago) - Application to adjust keycloak xml configuration
 - [actions/setup-java](https://github.com/actions/setup-java) ([v2.3.0](https://github.com/actions/setup-java/releases/tag/v2.3.0), 1 week ago) - Set up your GitHub Actions workflow with a specific version of Java
 - [spring-projects-experimental/spring-native](https://github.com/spring-projects-experimental/spring-native) ([0.10.3](https://github.com/spring-projects-experimental/spring-native/releases/tag/0.10.3), 1 week ago) - Spring Native provides beta support for compiling Spring applications to native executables using GraalVM native-image compiler.
 - [influxdata/influxdb-client-java](https://github.com/influxdata/influxdb-client-java) ([v3.2.0](https://github.com/influxdata/influxdb-client-java/releases/tag/v3.2.0), 1 week ago) - InfluxDB 2 JVM Based Clients
-- [MarcelCoding/docker-ssh-tunnel](https://github.com/MarcelCoding/docker-ssh-tunnel) ([v1.0.0](https://github.com/MarcelCoding/docker-ssh-tunnel/releases/tag/v1.0.0), 1 week ago) - Docker SSH Tunnel is a pre configured SSH Daemon to tunnel a local port.
+- [MarcelCoding/docker-ssh-tunnel](https://github.com/MarcelCoding/docker-ssh-tunnel) ([v1.0.0](https://github.com/MarcelCoding/docker-ssh-tunnel/releases/tag/v1.0.0), 2 weeks ago) - Docker SSH Tunnel is a pre configured SSH Daemon to tunnel a local port.
 
 
