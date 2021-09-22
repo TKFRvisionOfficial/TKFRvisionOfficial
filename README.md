@@ -20,11 +20,11 @@ Besides backends, I also work on frontends with the framework [Angular](https://
 
 ### 👷 Check out what I'm currently working on
 
-- [getnova/framework](https://github.com/getnova/framework) - This is the Nova framework, which is the base for Nova. (1 day ago)
-- [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) (2 days ago)
-- [cryptic-game/java-backend](https://github.com/cryptic-game/java-backend) - This is the Java Backend of the Cryptic project. (2 days ago)
-- [cryptic-game/cdn](https://github.com/cryptic-game/cdn) - Repository for images and other static assets, delivered using Cloudflare pages. (2 days ago)
-- [cryptic-game/frontend](https://github.com/cryptic-game/frontend) - The official frontend of Cryptic (2 days ago)
+- [cryptic-game/website](https://github.com/cryptic-game/website) - The official website of cryptic-game (1 day ago)
+- [getnova/framework](https://github.com/getnova/framework) - This is the Nova framework, which is the base for Nova. (2 days ago)
+- [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) (3 days ago)
+- [cryptic-game/java-backend](https://github.com/cryptic-game/java-backend) - This is the Java Backend of the Cryptic project. (3 days ago)
+- [cryptic-game/cdn](https://github.com/cryptic-game/cdn) - Repository for images and other static assets, delivered using Cloudflare pages. (3 days ago)
 
 ### 🌱 My latest projects
 
@@ -36,7 +36,7 @@ Besides backends, I also work on frontends with the framework [Angular](https://
 
 ### 🔭 Latest releases I've contributed to
 
-- [influxdata/influxdb-client-java](https://github.com/influxdata/influxdb-client-java) ([v3.3.0](https://github.com/influxdata/influxdb-client-java/releases/tag/v3.3.0), 4 days ago) - InfluxDB 2 JVM Based Clients
+- [influxdata/influxdb-client-java](https://github.com/influxdata/influxdb-client-java) ([v3.3.0](https://github.com/influxdata/influxdb-client-java/releases/tag/v3.3.0), 5 days ago) - InfluxDB 2 JVM Based Clients
 - [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) ([v1.2.0](https://github.com/MarcelCoding/bszet-vplan/releases/tag/v1.2.0), 1 week ago)
 - [MarcelCoding/rpm-manager](https://github.com/MarcelCoding/rpm-manager) ([v0.0.1](https://github.com/MarcelCoding/rpm-manager/releases/tag/v0.0.1), 2 weeks ago)
 - [MarcelCoding/node-red-docker](https://github.com/MarcelCoding/node-red-docker) ([v0.3.3](https://github.com/MarcelCoding/node-red-docker/releases/tag/v0.3.3), 2 weeks ago) - Node-RED Docker image with dashboard nodes and a dark theme
