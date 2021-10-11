@@ -20,9 +20,9 @@ Besides backends, I also work on frontends with the framework [Angular](https://
 
 ### 👷 Check out what I'm currently working on
 
-- [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) (1 day ago)
-- [cryptic-game/website](https://github.com/cryptic-game/website) - The official website of cryptic-game (1 day ago)
-- [getnova/framework](https://github.com/getnova/framework) - This is the Nova framework, which is the base for Nova. (6 days ago)
+- [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) (2 days ago)
+- [cryptic-game/website](https://github.com/cryptic-game/website) - The official website of cryptic-game (2 days ago)
+- [getnova/framework](https://github.com/getnova/framework) - This is the Nova framework, which is the base for Nova. (1 week ago)
 - [MarcelCoding/vvo-proxy](https://github.com/MarcelCoding/vvo-proxy) (2 weeks ago)
 - [cryptic-game/admin-panel](https://github.com/cryptic-game/admin-panel) - This is the official admin panel of Cryptic. (2 weeks ago)
 
@@ -36,8 +36,8 @@ Besides backends, I also work on frontends with the framework [Angular](https://
 
 ### 🔭 Latest releases I've contributed to
 
-- [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) ([v1.1.1](https://github.com/MarcelCoding/bszet-vplan/releases/tag/v1.1.1), 1 day ago)
-- [spring-projects-experimental/spring-native](https://github.com/spring-projects-experimental/spring-native) ([0.11.0-M1](https://github.com/spring-projects-experimental/spring-native/releases/tag/0.11.0-M1), 5 days ago) - Spring Native provides beta support for compiling Spring applications to native executables using GraalVM native-image compiler.
+- [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) ([v1.1.1](https://github.com/MarcelCoding/bszet-vplan/releases/tag/v1.1.1), 2 days ago)
+- [spring-projects-experimental/spring-native](https://github.com/spring-projects-experimental/spring-native) ([0.11.0-M1](https://github.com/spring-projects-experimental/spring-native/releases/tag/0.11.0-M1), 6 days ago) - Spring Native provides beta support for compiling Spring applications to native executables using GraalVM native-image compiler.
 - [many-passwords/many-passwords](https://github.com/many-passwords/many-passwords) ([400](https://github.com/many-passwords/many-passwords/releases/tag/400), 1 week ago) - Default password for each devices. 🐱‍💻 Leave a star if you like this project! (that motivates me)⭐️
 - [actions/setup-java](https://github.com/actions/setup-java) ([v2.3.1](https://github.com/actions/setup-java/releases/tag/v2.3.1), 1 week ago) - Set up your GitHub Actions workflow with a specific version of Java
 - [influxdata/influxdb-client-java](https://github.com/influxdata/influxdb-client-java) ([v3.3.0](https://github.com/influxdata/influxdb-client-java/releases/tag/v3.3.0), 3 weeks ago) - InfluxDB 2 JVM Based Clients
