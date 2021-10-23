@@ -20,11 +20,11 @@ Besides backends, I also work on frontends with the framework [Angular](https://
 
 ### 👷 Check out what I'm currently working on
 
-- [MarcelCoding/underscore](https://github.com/MarcelCoding/underscore) - url shortener (1 day ago)
-- [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) (4 days ago)
-- [MarcelCoding/.well-known](https://github.com/MarcelCoding/.well-known) - .well-known configuration for m4rc3l.de (4 days ago)
-- [cryptic-game/website](https://github.com/cryptic-game/website) - The official website of cryptic-game (1 week ago)
-- [getnova/framework](https://github.com/getnova/framework) - This is the Nova framework, which is the base for Nova. (2 weeks ago)
+- [MarcelCoding/m4rc3l.de](https://github.com/MarcelCoding/m4rc3l.de) - My personal small font page. (1 day ago)
+- [MarcelCoding/underscore](https://github.com/MarcelCoding/underscore) - url shortener (2 days ago)
+- [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) (5 days ago)
+- [MarcelCoding/.well-known](https://github.com/MarcelCoding/.well-known) - .well-known configuration for m4rc3l.de (5 days ago)
+- [cryptic-game/website](https://github.com/cryptic-game/website) - The official website of cryptic-game (2 weeks ago)
 
 ### 🌱 My latest projects
 
@@ -36,10 +36,10 @@ Besides backends, I also work on frontends with the framework [Angular](https://
 
 ### 🔭 Latest releases I've contributed to
 
+- [many-passwords/many-passwords](https://github.com/many-passwords/many-passwords) ([500](https://github.com/many-passwords/many-passwords/releases/tag/500), 1 day ago) - Default password for each devices. 🐱‍💻 Leave a star if you like this project! (that motivates me)⭐️
+- [MarcelCoding/node-red-docker](https://github.com/MarcelCoding/node-red-docker) ([v0.3.4](https://github.com/MarcelCoding/node-red-docker/releases/tag/v0.3.4), 1 day ago) - Node-RED Docker image with dashboard nodes and a dark theme
+- [influxdata/influxdb-client-java](https://github.com/influxdata/influxdb-client-java) ([v3.4.0](https://github.com/influxdata/influxdb-client-java/releases/tag/v3.4.0), 1 day ago) - InfluxDB 2 JVM Based Clients
 - [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) ([v1.1.3](https://github.com/MarcelCoding/bszet-vplan/releases/tag/v1.1.3), 1 week ago)
 - [spring-projects-experimental/spring-native](https://github.com/spring-projects-experimental/spring-native) ([0.11.0-M1](https://github.com/spring-projects-experimental/spring-native/releases/tag/0.11.0-M1), 2 weeks ago) - Spring Native provides beta support for compiling Spring applications to native executables using GraalVM native-image compiler.
-- [many-passwords/many-passwords](https://github.com/many-passwords/many-passwords) ([400](https://github.com/many-passwords/many-passwords/releases/tag/400), 2 weeks ago) - Default password for each devices. 🐱‍💻 Leave a star if you like this project! (that motivates me)⭐️
-- [actions/setup-java](https://github.com/actions/setup-java) ([v2.3.1](https://github.com/actions/setup-java/releases/tag/v2.3.1), 3 weeks ago) - Set up your GitHub Actions workflow with a specific version of Java
-- [influxdata/influxdb-client-java](https://github.com/influxdata/influxdb-client-java) ([v3.3.0](https://github.com/influxdata/influxdb-client-java/releases/tag/v3.3.0), 1 month ago) - InfluxDB 2 JVM Based Clients
 
 
