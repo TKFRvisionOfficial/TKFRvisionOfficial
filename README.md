@@ -20,11 +20,11 @@ Besides backends, I also work on frontends with the framework [Angular](https://
 
 ### 👷 Check out what I'm currently working on
 
-- [themorpheustutorials/status](https://github.com/themorpheustutorials/status) - The Moprheus Tutorials Statuspage (1 day ago)
-- [MarcelCoding/luna](https://github.com/MarcelCoding/luna) (2 days ago)
-- [MarcelCoding/hub.m4rc3l.de](https://github.com/MarcelCoding/hub.m4rc3l.de) (2 days ago)
-- [MarcelCoding/luna-web](https://github.com/MarcelCoding/luna-web) (2 days ago)
-- [themorpheustutorials/ip-worker](https://github.com/themorpheustutorials/ip-worker) (3 days ago)
+- [themorpheustutorials/status](https://github.com/themorpheustutorials/status) - The Moprheus Tutorials Statuspage (2 days ago)
+- [MarcelCoding/luna](https://github.com/MarcelCoding/luna) (3 days ago)
+- [MarcelCoding/hub.m4rc3l.de](https://github.com/MarcelCoding/hub.m4rc3l.de) (3 days ago)
+- [MarcelCoding/luna-web](https://github.com/MarcelCoding/luna-web) (3 days ago)
+- [themorpheustutorials/ip-worker](https://github.com/themorpheustutorials/ip-worker) (4 days ago)
 
 ### 🌱 My latest projects
 
@@ -36,10 +36,10 @@ Besides backends, I also work on frontends with the framework [Angular](https://
 
 ### 🔭 Latest releases I've contributed to
 
-- [spring-projects-experimental/spring-native](https://github.com/spring-projects-experimental/spring-native) ([0.11.0-M2](https://github.com/spring-projects-experimental/spring-native/releases/tag/0.11.0-M2), 6 days ago) - Spring Native provides beta support for compiling Spring applications to native executables using GraalVM native-image compiler.
+- [spring-projects-experimental/spring-native](https://github.com/spring-projects-experimental/spring-native) ([0.11.0-M2](https://github.com/spring-projects-experimental/spring-native/releases/tag/0.11.0-M2), 1 week ago) - Spring Native provides beta support for compiling Spring applications to native executables using GraalVM native-image compiler.
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.8.0-alpha1](https://github.com/jellyfin/jellyfin/releases/tag/v10.8.0-alpha1), 1 week ago) - The Free Software Media System
-- [MarcelCoding/node-red-docker](https://github.com/MarcelCoding/node-red-docker) ([v0.3.6](https://github.com/MarcelCoding/node-red-docker/releases/tag/v0.3.6), 1 week ago) - Node-RED Docker image with dashboard nodes and a dark theme
+- [MarcelCoding/node-red-docker](https://github.com/MarcelCoding/node-red-docker) ([v0.3.6](https://github.com/MarcelCoding/node-red-docker/releases/tag/v0.3.6), 2 weeks ago) - Node-RED Docker image with dashboard nodes and a dark theme
 - [influxdata/influxdb-client-java](https://github.com/influxdata/influxdb-client-java) ([v3.4.0](https://github.com/influxdata/influxdb-client-java/releases/tag/v3.4.0), 2 weeks ago) - InfluxDB 2 JVM Based Clients
-- [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) ([v1.1.3](https://github.com/MarcelCoding/bszet-vplan/releases/tag/v1.1.3), 3 weeks ago)
+- [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) ([v1.1.3](https://github.com/MarcelCoding/bszet-vplan/releases/tag/v1.1.3), 4 weeks ago)
 
 
