@@ -20,11 +20,11 @@ Besides backends, I also work on frontends with the framework [Angular](https://
 
 ### 👷 Check out what I'm currently working on
 
-- [MarcelCoding/luna](https://github.com/MarcelCoding/luna) (1 day ago)
 - [MarcelCoding/nova](https://github.com/MarcelCoding/nova) - Nova is a framework on top of spring boot. It aims to provide nice additions to the spring ecosystem. (1 day ago)
-- [MarcelCoding/.well-known](https://github.com/MarcelCoding/.well-known) - .well-known configuration for m4rc3l.de (1 day ago)
+- [MarcelCoding/luna](https://github.com/MarcelCoding/luna) (1 day ago)
 - [cryptic-game/java-backend](https://github.com/cryptic-game/java-backend) - This is the Java Backend of the Cryptic project. (1 day ago)
-- [marcel-repos/mvn](https://github.com/marcel-repos/mvn) - Personal Maven Package Repository (1 day ago)
+- [marcel-repos/mvn](https://github.com/marcel-repos/mvn) - Personal Maven Package Repository (2 days ago)
+- [MarcelCoding/.well-known](https://github.com/MarcelCoding/.well-known) - .well-known configuration for m4rc3l.de (2 days ago)
 
 ### 🌱 My latest projects
 
@@ -36,10 +36,10 @@ Besides backends, I also work on frontends with the framework [Angular](https://
 
 ### 🔭 Latest releases I've contributed to
 
-- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.8.0-alpha3](https://github.com/jellyfin/jellyfin/releases/tag/v10.8.0-alpha3), 1 day ago) - The Free Software Media System
-- [MarcelCoding/nova](https://github.com/MarcelCoding/nova) ([v3.0.0](https://github.com/MarcelCoding/nova/releases/tag/v3.0.0), 1 day ago) - Nova is a framework on top of spring boot. It aims to provide nice additions to the spring ecosystem.
-- [MarcelCoding/luna](https://github.com/MarcelCoding/luna) ([v1.0.0](https://github.com/MarcelCoding/luna/releases/tag/v1.0.0), 1 day ago)
-- [cryptic-game/cryptic-network](https://github.com/cryptic-game/cryptic-network) ([0.2.1](https://github.com/cryptic-game/cryptic-network/releases/tag/0.2.1), 1 day ago) - The official network microservice of cryptic-game
-- [cryptic-game/server](https://github.com/cryptic-game/server) ([v0.2.3](https://github.com/cryptic-game/server/releases/tag/v0.2.3), 2 days ago) - official game-server of cryptic-game
+- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.8.0-alpha3](https://github.com/jellyfin/jellyfin/releases/tag/v10.8.0-alpha3), 2 days ago) - The Free Software Media System
+- [MarcelCoding/nova](https://github.com/MarcelCoding/nova) ([v3.0.0](https://github.com/MarcelCoding/nova/releases/tag/v3.0.0), 2 days ago) - Nova is a framework on top of spring boot. It aims to provide nice additions to the spring ecosystem.
+- [MarcelCoding/luna](https://github.com/MarcelCoding/luna) ([v1.0.0](https://github.com/MarcelCoding/luna/releases/tag/v1.0.0), 2 days ago)
+- [cryptic-game/cryptic-network](https://github.com/cryptic-game/cryptic-network) ([0.2.1](https://github.com/cryptic-game/cryptic-network/releases/tag/0.2.1), 2 days ago) - The official network microservice of cryptic-game
+- [cryptic-game/server](https://github.com/cryptic-game/server) ([v0.2.3](https://github.com/cryptic-game/server/releases/tag/v0.2.3), 3 days ago) - official game-server of cryptic-game
 
 
