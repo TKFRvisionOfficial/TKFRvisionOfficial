@@ -20,11 +20,11 @@ Besides backends, I also work on frontends with the framework [Angular](https://
 
 ### 👷 Check out what I'm currently working on
 
-- [MarcelCoding/dust](https://github.com/MarcelCoding/dust) (3 days ago)
-- [MarcelCoding/docker-network-viewer](https://github.com/MarcelCoding/docker-network-viewer) - Liste docker networks and according subnet. (5 days ago)
-- [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) (5 days ago)
-- [marcel-repos/deb](https://github.com/marcel-repos/deb) - Personal Debian Package Repository (5 days ago)
-- [marcel-repos/mvn](https://github.com/marcel-repos/mvn) - Personal Maven Package Repository (6 days ago)
+- [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) (1 day ago)
+- [MarcelCoding/luna-web](https://github.com/MarcelCoding/luna-web) (1 day ago)
+- [MarcelCoding/dust](https://github.com/MarcelCoding/dust) (4 days ago)
+- [MarcelCoding/docker-network-viewer](https://github.com/MarcelCoding/docker-network-viewer) - Liste docker networks and according subnet. (6 days ago)
+- [marcel-repos/deb](https://github.com/marcel-repos/deb) - Personal Debian Package Repository (6 days ago)
 
 ### 🌱 My latest projects
 
@@ -36,10 +36,10 @@ Besides backends, I also work on frontends with the framework [Angular](https://
 
 ### 🔭 Latest releases I've contributed to
 
-- [MarcelCoding/docker-network-viewer](https://github.com/MarcelCoding/docker-network-viewer) ([v1.1.2](https://github.com/MarcelCoding/docker-network-viewer/releases/tag/v1.1.2), 5 days ago) - Liste docker networks and according subnet.
+- [actions/setup-java](https://github.com/actions/setup-java) ([v2.5.0](https://github.com/actions/setup-java/releases/tag/v2.5.0), 1 day ago) - Set up your GitHub Actions workflow with a specific version of Java
+- [MarcelCoding/docker-network-viewer](https://github.com/MarcelCoding/docker-network-viewer) ([v1.1.2](https://github.com/MarcelCoding/docker-network-viewer/releases/tag/v1.1.2), 6 days ago) - Liste docker networks and according subnet.
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.8.0-alpha3](https://github.com/jellyfin/jellyfin/releases/tag/v10.8.0-alpha3), 1 week ago) - The Free Software Media System
 - [MarcelCoding/nova](https://github.com/MarcelCoding/nova) ([v3.0.0](https://github.com/MarcelCoding/nova/releases/tag/v3.0.0), 1 week ago) - Nova is a framework on top of spring boot. It aims to provide nice additions to the spring ecosystem.
 - [MarcelCoding/luna](https://github.com/MarcelCoding/luna) ([v1.0.0](https://github.com/MarcelCoding/luna/releases/tag/v1.0.0), 1 week ago)
-- [cryptic-game/cryptic-network](https://github.com/cryptic-game/cryptic-network) ([0.2.1](https://github.com/cryptic-game/cryptic-network/releases/tag/0.2.1), 1 week ago) - The official network microservice of cryptic-game
 
 
