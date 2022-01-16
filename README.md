@@ -20,11 +20,11 @@ Besides backends, I also work on frontends with the framework [Angular](https://
 
 ### 👷 Check out what I'm currently working on
 
-- [MarcelCoding/docker-desktop-vnc](https://github.com/MarcelCoding/docker-desktop-vnc) - A dockerized development environment that can be accessed through a browser. (6 days ago)
+- [MarcelCoding/docker-desktop-vnc](https://github.com/MarcelCoding/docker-desktop-vnc) - A dockerized development environment that can be accessed through a browser. (1 week ago)
 - [marcel-repos/deb](https://github.com/marcel-repos/deb) - Personal Debian Package Repository (1 week ago)
 - [MarcelCoding/status-node](https://github.com/MarcelCoding/status-node) (1 week ago)
 - [themorpheustutorials/status](https://github.com/themorpheustutorials/status) - The Moprheus Tutorials Statuspage (1 week ago)
-- [MarcelCoding/onedrive-docker](https://github.com/MarcelCoding/onedrive-docker) - Pre-Build OneDrive Docker Images. (1 week ago)
+- [MarcelCoding/onedrive-docker](https://github.com/MarcelCoding/onedrive-docker) - Pre-Build OneDrive Docker Images. (2 weeks ago)
 
 ### 🌱 My latest projects
 
@@ -36,9 +36,9 @@ Besides backends, I also work on frontends with the framework [Angular](https://
 
 ### 🔭 Latest releases I've contributed to
 
-- [MarcelCoding/node-red-docker](https://github.com/MarcelCoding/node-red-docker) ([v0.3.8](https://github.com/MarcelCoding/node-red-docker/releases/tag/v0.3.8), 1 day ago) - Node-RED Docker image with dashboard nodes and a dark theme
+- [MarcelCoding/node-red-docker](https://github.com/MarcelCoding/node-red-docker) ([v0.3.8](https://github.com/MarcelCoding/node-red-docker/releases/tag/v0.3.8), 2 days ago) - Node-RED Docker image with dashboard nodes and a dark theme
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.8.0-alpha5](https://github.com/jellyfin/jellyfin/releases/tag/v10.8.0-alpha5), 1 week ago) - The Free Software Media System
-- [MarcelCoding/onedrive-docker](https://github.com/MarcelCoding/onedrive-docker) ([v2.4.15](https://github.com/MarcelCoding/onedrive-docker/releases/tag/v2.4.15), 1 week ago) - Pre-Build OneDrive Docker Images.
+- [MarcelCoding/onedrive-docker](https://github.com/MarcelCoding/onedrive-docker) ([v2.4.15](https://github.com/MarcelCoding/onedrive-docker/releases/tag/v2.4.15), 2 weeks ago) - Pre-Build OneDrive Docker Images.
 - [abraunegg/onedrive](https://github.com/abraunegg/onedrive) ([v2.4.15](https://github.com/abraunegg/onedrive/releases/tag/v2.4.15), 2 weeks ago) - #1 Free OneDrive Client for Linux
 - [MarcelCoding/luna](https://github.com/MarcelCoding/luna) ([v1.0.1](https://github.com/MarcelCoding/luna/releases/tag/v1.0.1), 2 weeks ago)
 
