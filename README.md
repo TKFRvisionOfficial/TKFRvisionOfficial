@@ -20,11 +20,11 @@ Besides backends, I also work on frontends with the framework [Angular](https://
 
 ### 👷 Check out what I'm currently working on
 
+- [cryptic-game/website](https://github.com/cryptic-game/website) - The official website of cryptic-game (1 day ago)
 - [MarcelCoding/dvb](https://github.com/MarcelCoding/dvb) (1 day ago)
-- [MarcelCoding/luna-web](https://github.com/MarcelCoding/luna-web) (3 days ago)
-- [MarcelCoding/nova](https://github.com/MarcelCoding/nova) - Nova is a framework on top of spring boot. It aims to provide nice additions to the spring ecosystem. (3 days ago)
-- [MarcelCoding/.well-known](https://github.com/MarcelCoding/.well-known) - .well-known configuration for m4rc3l.de (3 days ago)
-- [MarcelCoding/github-proxy](https://github.com/MarcelCoding/github-proxy) - Cloudflare Workers Proxy for GitHub releases to support IPv6. (3 days ago)
+- [MarcelCoding/nova](https://github.com/MarcelCoding/nova) - Nova is a framework on top of spring boot. It aims to provide nice additions to the spring ecosystem. (4 days ago)
+- [MarcelCoding/.well-known](https://github.com/MarcelCoding/.well-known) - .well-known configuration for m4rc3l.de (4 days ago)
+- [MarcelCoding/luna-web](https://github.com/MarcelCoding/luna-web) (4 days ago)
 
 ### 🌱 My latest projects
 
@@ -36,7 +36,7 @@ Besides backends, I also work on frontends with the framework [Angular](https://
 
 ### 🔭 Latest releases I've contributed to
 
-- [MarcelCoding/node-red-docker](https://github.com/MarcelCoding/node-red-docker) ([v0.3.8](https://github.com/MarcelCoding/node-red-docker/releases/tag/v0.3.8), 5 days ago) - Node-RED Docker image with dashboard nodes and a dark theme
+- [MarcelCoding/node-red-docker](https://github.com/MarcelCoding/node-red-docker) ([v0.3.9](https://github.com/MarcelCoding/node-red-docker/releases/tag/v0.3.9), 1 day ago) - Node-RED Docker image with dashboard nodes and a dark theme
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.8.0-alpha5](https://github.com/jellyfin/jellyfin/releases/tag/v10.8.0-alpha5), 2 weeks ago) - The Free Software Media System
 - [MarcelCoding/onedrive-docker](https://github.com/MarcelCoding/onedrive-docker) ([v2.4.15](https://github.com/MarcelCoding/onedrive-docker/releases/tag/v2.4.15), 2 weeks ago) - Pre-Build OneDrive Docker Images.
 - [abraunegg/onedrive](https://github.com/abraunegg/onedrive) ([v2.4.15](https://github.com/abraunegg/onedrive/releases/tag/v2.4.15), 2 weeks ago) - #1 Free OneDrive Client for Linux
