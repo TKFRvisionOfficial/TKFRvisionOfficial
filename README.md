@@ -20,11 +20,11 @@ Besides backends, I also work on frontends with the framework [Angular](https://
 
 ### 👷 Check out what I'm currently working on
 
-- [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect. (1 day ago)
-- [MarcelCoding/onedrive-docker](https://github.com/MarcelCoding/onedrive-docker) - Pre-Build OneDrive Docker Images. (3 days ago)
-- [MarcelCoding/dvb](https://github.com/MarcelCoding/dvb) (5 days ago)
-- [MarcelCoding/nova](https://github.com/MarcelCoding/nova) - Nova is a framework on top of spring boot. It aims to provide nice additions to the spring ecosystem. (5 days ago)
-- [cryptic-game/website](https://github.com/cryptic-game/website) - The official website of cryptic-game (6 days ago)
+- [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect. (2 days ago)
+- [MarcelCoding/onedrive-docker](https://github.com/MarcelCoding/onedrive-docker) - Pre-Build OneDrive Docker Images. (4 days ago)
+- [MarcelCoding/dvb](https://github.com/MarcelCoding/dvb) (6 days ago)
+- [MarcelCoding/nova](https://github.com/MarcelCoding/nova) - Nova is a framework on top of spring boot. It aims to provide nice additions to the spring ecosystem. (6 days ago)
+- [cryptic-game/website](https://github.com/cryptic-game/website) - The official website of cryptic-game (1 week ago)
 
 ### 🌱 My latest projects
 
@@ -36,10 +36,10 @@ Besides backends, I also work on frontends with the framework [Angular](https://
 
 ### 🔭 Latest releases I've contributed to
 
-- [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) ([v1.0.7](https://github.com/MarcelCoding/jitsi-openid/releases/tag/v1.0.7), 1 day ago) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect.
-- [MarcelCoding/onedrive-docker](https://github.com/MarcelCoding/onedrive-docker) ([v2.4.15](https://github.com/MarcelCoding/onedrive-docker/releases/tag/v2.4.15), 3 days ago) - Pre-Build OneDrive Docker Images.
-- [influxdata/influxdb-client-java](https://github.com/influxdata/influxdb-client-java) ([v4.1.0](https://github.com/influxdata/influxdb-client-java/releases/tag/v4.1.0), 5 days ago) - InfluxDB 2 JVM Based Clients
-- [MarcelCoding/nova](https://github.com/MarcelCoding/nova) ([v3.0.2](https://github.com/MarcelCoding/nova/releases/tag/v3.0.2), 5 days ago) - Nova is a framework on top of spring boot. It aims to provide nice additions to the spring ecosystem.
-- [MarcelCoding/node-red-docker](https://github.com/MarcelCoding/node-red-docker) ([v0.3.9](https://github.com/MarcelCoding/node-red-docker/releases/tag/v0.3.9), 6 days ago) - Node-RED Docker image with dashboard nodes and a dark theme
+- [spring-projects-experimental/spring-native](https://github.com/spring-projects-experimental/spring-native) ([0.11.2](https://github.com/spring-projects-experimental/spring-native/releases/tag/0.11.2), 1 day ago) - Spring Native provides beta support for compiling Spring applications to native executables using GraalVM native-image compiler.
+- [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) ([v1.0.7](https://github.com/MarcelCoding/jitsi-openid/releases/tag/v1.0.7), 2 days ago) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect.
+- [MarcelCoding/onedrive-docker](https://github.com/MarcelCoding/onedrive-docker) ([v2.4.15](https://github.com/MarcelCoding/onedrive-docker/releases/tag/v2.4.15), 4 days ago) - Pre-Build OneDrive Docker Images.
+- [influxdata/influxdb-client-java](https://github.com/influxdata/influxdb-client-java) ([v4.1.0](https://github.com/influxdata/influxdb-client-java/releases/tag/v4.1.0), 6 days ago) - InfluxDB 2 JVM Based Clients
+- [MarcelCoding/nova](https://github.com/MarcelCoding/nova) ([v3.0.2](https://github.com/MarcelCoding/nova/releases/tag/v3.0.2), 6 days ago) - Nova is a framework on top of spring boot. It aims to provide nice additions to the spring ecosystem.
 
 
