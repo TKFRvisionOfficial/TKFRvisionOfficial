@@ -6,11 +6,9 @@
 ### About Me
 
 My name is **Marcel**.<br>
-I am mainly a **Java Developer**, and currently learning [Rust](https://www.rust-lang.org).<br>
+I'm mainly a Java Developer, who is currently trying to learn Rust. I deploy most of the stuff that I create or use using Docker.
 <br>
-Besides backends, I also work on frontends with the framework [Angular](https://angular.io).
-<br>
-<br>
+Besides backends, I also work on frontends in the past mostly with the framework Angular but in the recent time I also used some NuxtJS. 
 
 [![Visits](https://badges.pufler.dev/visits/MarcelCoding/MarcelCoding?style=flat-square&color=black&logo=github)](https://github.com/MarcelCoding)
 [![Years](https://badges.pufler.dev/years/MarcelCoding?style=flat-square&color=black&logo=github)](https://github.com/MarcelCoding)
@@ -20,10 +18,10 @@ Besides backends, I also work on frontends with the framework [Angular](https://
 
 ### 👷 Check out what I'm currently working on
 
-- [MarcelCoding/m4rc3l.de](https://github.com/MarcelCoding/m4rc3l.de) (1 day ago)
-- [marcel-repos/deb](https://github.com/marcel-repos/deb) - Personal Debian Package Repository (4 days ago)
-- [MarcelCoding/docker-ssh-tunnel](https://github.com/MarcelCoding/docker-ssh-tunnel) - Docker SSH Tunnel is a pre configured SSH Daemon to tunnel a local port. (4 days ago)
+- [MarcelCoding/m4rc3l.de](https://github.com/MarcelCoding/m4rc3l.de) (today)
 - [MarcelCoding/status-node](https://github.com/MarcelCoding/status-node) (4 days ago)
+- [MarcelCoding/docker-ssh-tunnel](https://github.com/MarcelCoding/docker-ssh-tunnel) - Docker SSH Tunnel is a pre configured SSH Daemon to tunnel a local port. (4 days ago)
+- [marcel-repos/deb](https://github.com/marcel-repos/deb) - Personal Debian Package Repository (4 days ago)
 - [MarcelCoding/docker-network-viewer](https://github.com/MarcelCoding/docker-network-viewer) - Liste docker networks and according subnet. (4 days ago)
 
 ### 🌱 My latest projects
