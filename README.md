@@ -5,10 +5,11 @@
 
 ### About Me
 
-My name is **Marcel**.<br>
-I'm mainly a Java Developer, who is currently trying to learn Rust. I deploy most of the stuff that I create or use using Docker.
+My name is **Marcel**.
+<br><br>
+I'm mainly a **Java Developer**, who is currently trying to learn **Rust**. I deploy most of the stuff that I create or use using **Docker**.
 <br>
-Besides backends, I also work on frontends in the past mostly with the framework Angular but in the recent time I also used some NuxtJS. 
+Besides backends, I also work on frontends in the past mostly with the framework **Angular** but in the recent time I also used some **NuxtJS**. 
 
 [![Visits](https://badges.pufler.dev/visits/MarcelCoding/MarcelCoding?style=flat-square&color=black&logo=github)](https://github.com/MarcelCoding)
 [![Years](https://badges.pufler.dev/years/MarcelCoding?style=flat-square&color=black&logo=github)](https://github.com/MarcelCoding)
