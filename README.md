@@ -19,11 +19,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) (1 day ago)
-- [MarcelCoding/m4rc3l.de](https://github.com/MarcelCoding/m4rc3l.de) (2 days ago)
-- [MarcelCoding/.well-known](https://github.com/MarcelCoding/.well-known) - .well-known configuration for m4rc3l.de (2 days ago)
-- [marcel-repos/deb](https://github.com/marcel-repos/deb) - Personal Debian Package Repository (1 week ago)
-- [MarcelCoding/status-node](https://github.com/MarcelCoding/status-node) (1 week ago)
+- [MarcelCoding/status](https://github.com/MarcelCoding/status) (today)
+- [cryptic-game/frontend](https://github.com/cryptic-game/frontend) - The official frontend of Cryptic (1 day ago)
+- [marcel-repos/deb](https://github.com/marcel-repos/deb) - Personal Debian Package Repository (1 day ago)
+- [MarcelCoding/status-node](https://github.com/MarcelCoding/status-node) (1 day ago)
+- [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) (2 days ago)
 
 ### 🌱 My latest projects
 
@@ -35,7 +35,7 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) ([v1.1.9](https://github.com/MarcelCoding/bszet-vplan/releases/tag/v1.1.9), 2 days ago)
+- [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) ([v1.1.9](https://github.com/MarcelCoding/bszet-vplan/releases/tag/v1.1.9), 3 days ago)
 - [influxdata/influxdb-client-java](https://github.com/influxdata/influxdb-client-java) ([v4.2.0](https://github.com/influxdata/influxdb-client-java/releases/tag/v4.2.0), 1 week ago) - InfluxDB 2 JVM Based Clients
 - [MarcelCoding/node-red-docker](https://github.com/MarcelCoding/node-red-docker) ([v0.3.10](https://github.com/MarcelCoding/node-red-docker/releases/tag/v0.3.10), 2 weeks ago) - Node-RED Docker image with dashboard nodes and a dark theme
 - [spring-projects-experimental/spring-native](https://github.com/spring-projects-experimental/spring-native) ([0.10.6](https://github.com/spring-projects-experimental/spring-native/releases/tag/0.10.6), 2 weeks ago) - Spring Native provides beta support for compiling Spring applications to native executables using GraalVM native-image compiler.
