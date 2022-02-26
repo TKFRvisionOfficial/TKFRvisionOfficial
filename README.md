@@ -19,11 +19,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
+- [MarcelCoding/nova](https://github.com/MarcelCoding/nova) - Nova is a framework on top of spring boot. It aims to provide nice additions to the spring ecosystem. (1 day ago)
 - [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect. (1 week ago)
 - [marcel-repos/deb](https://github.com/marcel-repos/deb) - Personal Debian Package Repository (1 week ago)
 - [MarcelCoding/status-node](https://github.com/MarcelCoding/status-node) (1 week ago)
 - [MarcelCoding/status](https://github.com/MarcelCoding/status) (1 week ago)
-- [MarcelCoding/luna-web](https://github.com/MarcelCoding/luna-web) (1 week ago)
 
 ### 🌱 My latest projects
 
@@ -35,10 +35,10 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [actions/setup-java](https://github.com/actions/setup-java) ([v3.0.0](https://github.com/actions/setup-java/releases/tag/v3.0.0), 1 day ago) - Set up your GitHub Actions workflow with a specific version of Java
+- [MarcelCoding/nova](https://github.com/MarcelCoding/nova) ([v3.0.3](https://github.com/MarcelCoding/nova/releases/tag/v3.0.3), 1 day ago) - Nova is a framework on top of spring boot. It aims to provide nice additions to the spring ecosystem.
+- [actions/setup-java](https://github.com/actions/setup-java) ([v3.0.0](https://github.com/actions/setup-java/releases/tag/v3.0.0), 2 days ago) - Set up your GitHub Actions workflow with a specific version of Java
 - [influxdata/influxdb-client-java](https://github.com/influxdata/influxdb-client-java) ([v4.3.0](https://github.com/influxdata/influxdb-client-java/releases/tag/v4.3.0), 1 week ago) - InfluxDB 2 JVM Based Clients
 - [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) ([v1.0.8](https://github.com/MarcelCoding/jitsi-openid/releases/tag/v1.0.8), 1 week ago) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect.
 - [MarcelCoding/node-red-docker](https://github.com/MarcelCoding/node-red-docker) ([v0.3.11](https://github.com/MarcelCoding/node-red-docker/releases/tag/v0.3.11), 1 week ago) - Node-RED Docker image with dashboard nodes and a dark theme
-- [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) ([v1.1.9](https://github.com/MarcelCoding/bszet-vplan/releases/tag/v1.1.9), 2 weeks ago)
 
 
