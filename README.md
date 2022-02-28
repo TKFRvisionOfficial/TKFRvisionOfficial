@@ -19,11 +19,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [MarcelCoding/luna](https://github.com/MarcelCoding/luna) (1 day ago)
-- [MarcelCoding/m4rc3l.de](https://github.com/MarcelCoding/m4rc3l.de) (1 day ago)
-- [MarcelCoding/nova](https://github.com/MarcelCoding/nova) - Nova is a framework on top of spring boot. It aims to provide nice additions to the spring ecosystem. (2 days ago)
+- [MarcelCoding/m4rc3l.de](https://github.com/MarcelCoding/m4rc3l.de) (2 days ago)
+- [MarcelCoding/luna](https://github.com/MarcelCoding/luna) (2 days ago)
+- [MarcelCoding/nova](https://github.com/MarcelCoding/nova) - Nova is a framework on top of spring boot. It aims to provide nice additions to the spring ecosystem. (3 days ago)
 - [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect. (1 week ago)
-- [MarcelCoding/status](https://github.com/MarcelCoding/status) (1 week ago)
+- [MarcelCoding/status-node](https://github.com/MarcelCoding/status-node) (1 week ago)
 
 ### 🌱 My latest projects
 
@@ -35,9 +35,9 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [MarcelCoding/luna](https://github.com/MarcelCoding/luna) ([v1.0.2](https://github.com/MarcelCoding/luna/releases/tag/v1.0.2), 1 day ago)
-- [MarcelCoding/nova](https://github.com/MarcelCoding/nova) ([v3.0.3](https://github.com/MarcelCoding/nova/releases/tag/v3.0.3), 2 days ago) - Nova is a framework on top of spring boot. It aims to provide nice additions to the spring ecosystem.
-- [actions/setup-java](https://github.com/actions/setup-java) ([v3.0.0](https://github.com/actions/setup-java/releases/tag/v3.0.0), 3 days ago) - Set up your GitHub Actions workflow with a specific version of Java
+- [MarcelCoding/luna](https://github.com/MarcelCoding/luna) ([v1.0.2](https://github.com/MarcelCoding/luna/releases/tag/v1.0.2), 2 days ago)
+- [MarcelCoding/nova](https://github.com/MarcelCoding/nova) ([v3.0.3](https://github.com/MarcelCoding/nova/releases/tag/v3.0.3), 3 days ago) - Nova is a framework on top of spring boot. It aims to provide nice additions to the spring ecosystem.
+- [actions/setup-java](https://github.com/actions/setup-java) ([v3.0.0](https://github.com/actions/setup-java/releases/tag/v3.0.0), 4 days ago) - Set up your GitHub Actions workflow with a specific version of Java
 - [influxdata/influxdb-client-java](https://github.com/influxdata/influxdb-client-java) ([v4.3.0](https://github.com/influxdata/influxdb-client-java/releases/tag/v4.3.0), 1 week ago) - InfluxDB 2 JVM Based Clients
 - [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) ([v1.0.8](https://github.com/MarcelCoding/jitsi-openid/releases/tag/v1.0.8), 1 week ago) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect.
 
