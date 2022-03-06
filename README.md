@@ -19,11 +19,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [MarcelCoding/m4rc3l.de](https://github.com/MarcelCoding/m4rc3l.de) (today)
-- [MarcelCoding/docs-template](https://github.com/MarcelCoding/docs-template) - This is a repository template for a MkDocs documentation themed with the Material theme. (5 days ago)
-- [MarcelCoding/status-node](https://github.com/MarcelCoding/status-node) (5 days ago)
+- [cryptic-game/website](https://github.com/cryptic-game/website) - The official website of cryptic-game (1 day ago)
+- [MarcelCoding/m4rc3l.de](https://github.com/MarcelCoding/m4rc3l.de) (1 day ago)
+- [MarcelCoding/docs-template](https://github.com/MarcelCoding/docs-template) - This is a repository template for a MkDocs documentation themed with the Material theme. (6 days ago)
+- [MarcelCoding/status-node](https://github.com/MarcelCoding/status-node) (6 days ago)
 - [MarcelCoding/luna](https://github.com/MarcelCoding/luna) (1 week ago)
-- [MarcelCoding/nova](https://github.com/MarcelCoding/nova) - Nova is a framework on top of spring boot. It aims to provide nice additions to the spring ecosystem. (1 week ago)
 
 ### 🌱 My latest projects
 
@@ -35,23 +35,23 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [spring-projects-experimental/spring-native](https://github.com/spring-projects-experimental/spring-native) ([0.11.3](https://github.com/spring-projects-experimental/spring-native/releases/tag/0.11.3), 4 days ago) - Spring Native provides beta support for compiling Spring applications to native executables using GraalVM native-image compiler.
 - [MarcelCoding/luna](https://github.com/MarcelCoding/luna) ([v1.0.2](https://github.com/MarcelCoding/luna/releases/tag/v1.0.2), 1 week ago)
 - [MarcelCoding/nova](https://github.com/MarcelCoding/nova) ([v3.0.3](https://github.com/MarcelCoding/nova/releases/tag/v3.0.3), 1 week ago) - Nova is a framework on top of spring boot. It aims to provide nice additions to the spring ecosystem.
 - [actions/setup-java](https://github.com/actions/setup-java) ([v3.0.0](https://github.com/actions/setup-java/releases/tag/v3.0.0), 1 week ago) - Set up your GitHub Actions workflow with a specific version of Java
 - [influxdata/influxdb-client-java](https://github.com/influxdata/influxdb-client-java) ([v4.3.0](https://github.com/influxdata/influxdb-client-java/releases/tag/v4.3.0), 2 weeks ago) - InfluxDB 2 JVM Based Clients
+- [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) ([v1.0.8](https://github.com/MarcelCoding/jitsi-openid/releases/tag/v1.0.8), 2 weeks ago) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect.
 
 ### 🔨 Latest Pull Requests I published
 
-- [Improved routes](https://github.com/cryptic-game/website/pull/352) on [cryptic-game/website](https://github.com/cryptic-game/website) (4 days ago)
-- [Updated phpLDAPadmin to v1.2.6.3](https://github.com/osixia/docker-phpLDAPadmin/pull/95) on [osixia/docker-phpLDAPadmin](https://github.com/osixia/docker-phpLDAPadmin) (6 days ago)
+- [Improved routes](https://github.com/cryptic-game/website/pull/352) on [cryptic-game/website](https://github.com/cryptic-game/website) (5 days ago)
+- [Updated phpLDAPadmin to v1.2.6.3](https://github.com/osixia/docker-phpLDAPadmin/pull/95) on [osixia/docker-phpLDAPadmin](https://github.com/osixia/docker-phpLDAPadmin) (1 week ago)
 - [Rewrite](https://github.com/MarcelCoding/luna-web/pull/231) on [MarcelCoding/luna-web](https://github.com/MarcelCoding/luna-web) (2 weeks ago)
 - [Updated to Angular 13](https://github.com/cryptic-game/frontend/pull/314) on [cryptic-game/frontend](https://github.com/cryptic-game/frontend) (2 weeks ago)
 - [Added default timetable endpoint &amp; improved code](https://github.com/MarcelCoding/bszet-vplan/pull/91) on [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) (3 weeks ago)
 
 ### 📜 My recent blog posts
 
-- [Keycloak Quarkus Migration](https://m4rc3l.de/blog/keycloak-quarkus-migration) (today)
+- [Keycloak Quarkus Migration](https://m4rc3l.de/blog/keycloak-quarkus-migration) (a long while ago)
 
 ### ⭐ Recent stars
 
