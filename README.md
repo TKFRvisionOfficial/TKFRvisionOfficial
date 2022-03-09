@@ -19,11 +19,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [cryptic-game/frontend](https://github.com/cryptic-game/frontend) - The official frontend of Cryptic (2 days ago)
-- [cryptic-game/website](https://github.com/cryptic-game/website) - The official website of cryptic-game (3 days ago)
-- [MarcelCoding/m4rc3l.de](https://github.com/MarcelCoding/m4rc3l.de) (3 days ago)
+- [cryptic-game/frontend](https://github.com/cryptic-game/frontend) - The official frontend of Cryptic (1 day ago)
+- [MarcelCoding/luna](https://github.com/MarcelCoding/luna) (1 day ago)
+- [MarcelCoding/m4rc3l.de](https://github.com/MarcelCoding/m4rc3l.de) (4 days ago)
+- [cryptic-game/website](https://github.com/cryptic-game/website) - The official website of cryptic-game (4 days ago)
 - [MarcelCoding/status-node](https://github.com/MarcelCoding/status-node) (1 week ago)
-- [MarcelCoding/docs-template](https://github.com/MarcelCoding/docs-template) - This is a repository template for a MkDocs documentation themed with the Material theme. (1 week ago)
 
 ### 🌱 My latest projects
 
@@ -35,7 +35,7 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [MarcelCoding/luna](https://github.com/MarcelCoding/luna) ([v1.0.2](https://github.com/MarcelCoding/luna/releases/tag/v1.0.2), 1 week ago)
+- [MarcelCoding/luna](https://github.com/MarcelCoding/luna) ([v1.0.3](https://github.com/MarcelCoding/luna/releases/tag/v1.0.3), 1 day ago)
 - [MarcelCoding/nova](https://github.com/MarcelCoding/nova) ([v3.0.3](https://github.com/MarcelCoding/nova/releases/tag/v3.0.3), 1 week ago) - Nova is a framework on top of spring boot. It aims to provide nice additions to the spring ecosystem.
 - [actions/setup-java](https://github.com/actions/setup-java) ([v3.0.0](https://github.com/actions/setup-java/releases/tag/v3.0.0), 1 week ago) - Set up your GitHub Actions workflow with a specific version of Java
 - [influxdata/influxdb-client-java](https://github.com/influxdata/influxdb-client-java) ([v4.3.0](https://github.com/influxdata/influxdb-client-java/releases/tag/v4.3.0), 2 weeks ago) - InfluxDB 2 JVM Based Clients
@@ -43,11 +43,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔨 Latest Pull Requests I published
 
+- [Added background color as fallback while loading](https://github.com/cryptic-game/frontend/pull/339) on [cryptic-game/frontend](https://github.com/cryptic-game/frontend) (1 day ago)
+- [Splited AppModule into lazy-loaded modules](https://github.com/cryptic-game/frontend/pull/338) on [cryptic-game/frontend](https://github.com/cryptic-game/frontend) (1 day ago)
 - [Improved routes](https://github.com/cryptic-game/website/pull/352) on [cryptic-game/website](https://github.com/cryptic-game/website) (1 week ago)
 - [Updated phpLDAPadmin to v1.2.6.3](https://github.com/osixia/docker-phpLDAPadmin/pull/95) on [osixia/docker-phpLDAPadmin](https://github.com/osixia/docker-phpLDAPadmin) (1 week ago)
 - [Rewrite](https://github.com/MarcelCoding/luna-web/pull/231) on [MarcelCoding/luna-web](https://github.com/MarcelCoding/luna-web) (3 weeks ago)
-- [Updated to Angular 13](https://github.com/cryptic-game/frontend/pull/314) on [cryptic-game/frontend](https://github.com/cryptic-game/frontend) (3 weeks ago)
-- [Added default timetable endpoint &amp; improved code](https://github.com/MarcelCoding/bszet-vplan/pull/91) on [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) (3 weeks ago)
 
 ### 📜 My recent blog posts
 
@@ -55,8 +55,8 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### ⭐ Recent stars
 
+- [antfu/vscode-file-nesting-config](https://github.com/antfu/vscode-file-nesting-config) - File Nesting Config for VS Code (1 day ago)
 - [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) - jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data. (2 weeks ago)
 - [WeeJeWel/wg-easy](https://github.com/WeeJeWel/wg-easy) - The easiest way to run WireGuard VPN &#43; Web-based Admin UI. (3 weeks ago)
-- [athul/archie](https://github.com/athul/archie) - A minimal Hugo Theme (4 weeks ago)
+- [athul/archie](https://github.com/athul/archie) - A minimal Hugo Theme (1 month ago)
 - [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style (1 month ago)
-- [dasifefe/rust-game-development-frameworks](https://github.com/dasifefe/rust-game-development-frameworks) - List of curated frameworks by the **Game Development in Rust** community. (2 months ago)
