@@ -20,34 +20,34 @@ Besides backends, I also work on frontends in the past mostly with the framework
 ### 👷 Check out what I'm currently working on
 
 - [cryptic-game/frontend](https://github.com/cryptic-game/frontend) - The official frontend of Cryptic (1 day ago)
-- [MarcelCoding/luna](https://github.com/MarcelCoding/luna) (1 day ago)
-- [MarcelCoding/m4rc3l.de](https://github.com/MarcelCoding/m4rc3l.de) (4 days ago)
-- [cryptic-game/website](https://github.com/cryptic-game/website) - The official website of cryptic-game (4 days ago)
-- [MarcelCoding/status-node](https://github.com/MarcelCoding/status-node) (1 week ago)
+- [MarcelCoding/.dotfiles](https://github.com/MarcelCoding/.dotfiles) (1 day ago)
+- [MarcelCoding/status-node](https://github.com/MarcelCoding/status-node) (1 day ago)
+- [themorpheustutorials/status](https://github.com/themorpheustutorials/status) - The Moprheus Tutorials Statuspage (1 day ago)
+- [MarcelCoding/luna](https://github.com/MarcelCoding/luna) (2 days ago)
 
 ### 🌱 My latest projects
 
+- [MarcelCoding/.dotfiles](https://github.com/MarcelCoding/.dotfiles)
 - [MarcelCoding/m4rc3l.de](https://github.com/MarcelCoding/m4rc3l.de)
 - [MarcelCoding/status](https://github.com/MarcelCoding/status)
 - [MarcelCoding/dvb](https://github.com/MarcelCoding/dvb)
 - [MarcelCoding/status-node](https://github.com/MarcelCoding/status-node)
-- [MarcelCoding/dust](https://github.com/MarcelCoding/dust)
 
 ### 🔭 Latest releases I've contributed to
 
-- [MarcelCoding/luna](https://github.com/MarcelCoding/luna) ([v1.0.3](https://github.com/MarcelCoding/luna/releases/tag/v1.0.3), 1 day ago)
+- [abraunegg/onedrive](https://github.com/abraunegg/onedrive) ([v2.4.16](https://github.com/abraunegg/onedrive/releases/tag/v2.4.16), 1 day ago) - #1 Free OneDrive Client for Linux
+- [MarcelCoding/luna](https://github.com/MarcelCoding/luna) ([v1.0.3](https://github.com/MarcelCoding/luna/releases/tag/v1.0.3), 2 days ago)
 - [MarcelCoding/nova](https://github.com/MarcelCoding/nova) ([v3.0.3](https://github.com/MarcelCoding/nova/releases/tag/v3.0.3), 1 week ago) - Nova is a framework on top of spring boot. It aims to provide nice additions to the spring ecosystem.
-- [actions/setup-java](https://github.com/actions/setup-java) ([v3.0.0](https://github.com/actions/setup-java/releases/tag/v3.0.0), 1 week ago) - Set up your GitHub Actions workflow with a specific version of Java
+- [actions/setup-java](https://github.com/actions/setup-java) ([v3.0.0](https://github.com/actions/setup-java/releases/tag/v3.0.0), 2 weeks ago) - Set up your GitHub Actions workflow with a specific version of Java
 - [influxdata/influxdb-client-java](https://github.com/influxdata/influxdb-client-java) ([v4.3.0](https://github.com/influxdata/influxdb-client-java/releases/tag/v4.3.0), 2 weeks ago) - InfluxDB 2 JVM Based Clients
-- [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) ([v1.0.8](https://github.com/MarcelCoding/jitsi-openid/releases/tag/v1.0.8), 2 weeks ago) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect.
 
 ### 🔨 Latest Pull Requests I published
 
-- [Added background color as fallback while loading](https://github.com/cryptic-game/frontend/pull/339) on [cryptic-game/frontend](https://github.com/cryptic-game/frontend) (1 day ago)
-- [Splited AppModule into lazy-loaded modules](https://github.com/cryptic-game/frontend/pull/338) on [cryptic-game/frontend](https://github.com/cryptic-game/frontend) (1 day ago)
+- [Added @angular/localize](https://github.com/cryptic-game/frontend/pull/341) on [cryptic-game/frontend](https://github.com/cryptic-game/frontend) (1 day ago)
+- [Added background color as fallback while loading](https://github.com/cryptic-game/frontend/pull/339) on [cryptic-game/frontend](https://github.com/cryptic-game/frontend) (2 days ago)
+- [Splited AppModule into lazy-loaded modules](https://github.com/cryptic-game/frontend/pull/338) on [cryptic-game/frontend](https://github.com/cryptic-game/frontend) (2 days ago)
 - [Improved routes](https://github.com/cryptic-game/website/pull/352) on [cryptic-game/website](https://github.com/cryptic-game/website) (1 week ago)
 - [Updated phpLDAPadmin to v1.2.6.3](https://github.com/osixia/docker-phpLDAPadmin/pull/95) on [osixia/docker-phpLDAPadmin](https://github.com/osixia/docker-phpLDAPadmin) (1 week ago)
-- [Rewrite](https://github.com/MarcelCoding/luna-web/pull/231) on [MarcelCoding/luna-web](https://github.com/MarcelCoding/luna-web) (3 weeks ago)
 
 ### 📜 My recent blog posts
 
@@ -55,7 +55,7 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### ⭐ Recent stars
 
-- [antfu/vscode-file-nesting-config](https://github.com/antfu/vscode-file-nesting-config) - File Nesting Config for VS Code (1 day ago)
+- [antfu/vscode-file-nesting-config](https://github.com/antfu/vscode-file-nesting-config) - File Nesting Config for VS Code (2 days ago)
 - [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) - jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data. (2 weeks ago)
 - [WeeJeWel/wg-easy](https://github.com/WeeJeWel/wg-easy) - The easiest way to run WireGuard VPN &#43; Web-based Admin UI. (3 weeks ago)
 - [athul/archie](https://github.com/athul/archie) - A minimal Hugo Theme (1 month ago)
