@@ -20,10 +20,10 @@ Besides backends, I also work on frontends in the past mostly with the framework
 ### 👷 Check out what I'm currently working on
 
 - [MarcelCoding/luna-web](https://github.com/MarcelCoding/luna-web) (1 day ago)
-- [MarcelCoding/nova](https://github.com/MarcelCoding/nova) - Nova is a framework on top of spring boot. It aims to provide nice additions to the spring ecosystem. (1 day ago)
-- [MarcelCoding/.dotfiles](https://github.com/MarcelCoding/.dotfiles) (1 day ago)
-- [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) - Automatically monitors bszet dd timetable for changes and sends notifications. (2 days ago)
-- [cryptic-game/frontend](https://github.com/cryptic-game/frontend) - The official frontend of Cryptic (2 days ago)
+- [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) - Automatically monitors bszet dd timetable for changes and sends notifications. (1 day ago)
+- [MarcelCoding/nova](https://github.com/MarcelCoding/nova) - Nova is a framework on top of spring boot. It aims to provide nice additions to the spring ecosystem. (2 days ago)
+- [MarcelCoding/.dotfiles](https://github.com/MarcelCoding/.dotfiles) (2 days ago)
+- [cryptic-game/frontend](https://github.com/cryptic-game/frontend) - The official frontend of Cryptic (3 days ago)
 
 ### 🌱 My latest projects
 
@@ -35,19 +35,19 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [MarcelCoding/nova](https://github.com/MarcelCoding/nova) ([v3.0.4](https://github.com/MarcelCoding/nova/releases/tag/v3.0.4), 1 day ago) - Nova is a framework on top of spring boot. It aims to provide nice additions to the spring ecosystem.
-- [cryptic-game/frontend](https://github.com/cryptic-game/frontend) ([v0.2.3](https://github.com/cryptic-game/frontend/releases/tag/v0.2.3), 2 days ago) - The official frontend of Cryptic
-- [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) ([v1.1.11](https://github.com/MarcelCoding/bszet-vplan/releases/tag/v1.1.11), 2 days ago) - Automatically monitors bszet dd timetable for changes and sends notifications.
-- [abraunegg/onedrive](https://github.com/abraunegg/onedrive) ([v2.4.16](https://github.com/abraunegg/onedrive/releases/tag/v2.4.16), 6 days ago) - #1 Free OneDrive Client for Linux
+- [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) ([v1.1.12](https://github.com/MarcelCoding/bszet-vplan/releases/tag/v1.1.12), 1 day ago) - Automatically monitors bszet dd timetable for changes and sends notifications.
+- [MarcelCoding/nova](https://github.com/MarcelCoding/nova) ([v3.0.4](https://github.com/MarcelCoding/nova/releases/tag/v3.0.4), 2 days ago) - Nova is a framework on top of spring boot. It aims to provide nice additions to the spring ecosystem.
+- [cryptic-game/frontend](https://github.com/cryptic-game/frontend) ([v0.2.3](https://github.com/cryptic-game/frontend/releases/tag/v0.2.3), 3 days ago) - The official frontend of Cryptic
+- [abraunegg/onedrive](https://github.com/abraunegg/onedrive) ([v2.4.16](https://github.com/abraunegg/onedrive/releases/tag/v2.4.16), 1 week ago) - #1 Free OneDrive Client for Linux
 - [MarcelCoding/luna](https://github.com/MarcelCoding/luna) ([v1.0.3](https://github.com/MarcelCoding/luna/releases/tag/v1.0.3), 1 week ago)
 
 ### 🔨 Latest Pull Requests I published
 
-- [Fixed colors in some desktop apps](https://github.com/cryptic-game/frontend/pull/344) on [cryptic-game/frontend](https://github.com/cryptic-game/frontend) (2 days ago)
-- [Updated IGD21 timetable for second half of year](https://github.com/MarcelCoding/bszet-vplan/pull/101) on [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) (3 days ago)
-- [Added @angular/localize](https://github.com/cryptic-game/frontend/pull/341) on [cryptic-game/frontend](https://github.com/cryptic-game/frontend) (6 days ago)
-- [Added background color as fallback while loading](https://github.com/cryptic-game/frontend/pull/339) on [cryptic-game/frontend](https://github.com/cryptic-game/frontend) (1 week ago)
-- [Splited AppModule into lazy-loaded modules](https://github.com/cryptic-game/frontend/pull/338) on [cryptic-game/frontend](https://github.com/cryptic-game/frontend) (1 week ago)
+- [Automatic cancel old runs if a new commit is pushed](https://github.com/motioneye-project/motioneye/pull/2364) on [motioneye-project/motioneye](https://github.com/motioneye-project/motioneye) (1 day ago)
+- [Added GitHub actions docker workflow](https://github.com/motioneye-project/motioneye/pull/2361) on [motioneye-project/motioneye](https://github.com/motioneye-project/motioneye) (1 day ago)
+- [Fixed colors in some desktop apps](https://github.com/cryptic-game/frontend/pull/344) on [cryptic-game/frontend](https://github.com/cryptic-game/frontend) (3 days ago)
+- [Updated IGD21 timetable for second half of year](https://github.com/MarcelCoding/bszet-vplan/pull/101) on [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) (4 days ago)
+- [Added @angular/localize](https://github.com/cryptic-game/frontend/pull/341) on [cryptic-game/frontend](https://github.com/cryptic-game/frontend) (1 week ago)
 
 ### 📜 My recent blog posts
 
@@ -55,7 +55,7 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### ⭐ Recent stars
 
-- [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge (4 days ago)
+- [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge (5 days ago)
 - [antfu/vscode-file-nesting-config](https://github.com/antfu/vscode-file-nesting-config) - Config of File Nesting for VS Code (1 week ago)
 - [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) - jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data. (3 weeks ago)
 - [WeeJeWel/wg-easy](https://github.com/WeeJeWel/wg-easy) - The easiest way to run WireGuard VPN &#43; Web-based Admin UI. (1 month ago)
