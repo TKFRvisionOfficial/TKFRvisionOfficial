@@ -19,35 +19,35 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [cryptic-game/frontend](https://github.com/cryptic-game/frontend) - The official frontend of Cryptic (1 day ago)
-- [marcel-repos/deb](https://github.com/marcel-repos/deb) - Personal Debian Package Repository (1 day ago)
 - [cryptic-game/java-backend](https://github.com/cryptic-game/java-backend) - This is the Java Backend of the Cryptic project. (1 day ago)
-- [MarcelCoding/status-node](https://github.com/MarcelCoding/status-node) (1 day ago)
-- [felbinger/PostInstall_Fedora](https://github.com/felbinger/PostInstall_Fedora) - Post Installation Routines for Fedora 35 (2 days ago)
+- [MarcelCoding/ghcr-cleaner](https://github.com/MarcelCoding/ghcr-cleaner) (1 day ago)
+- [MarcelCoding/status-node](https://github.com/MarcelCoding/status-node) (2 days ago)
+- [marcel-repos/deb](https://github.com/marcel-repos/deb) - Personal Debian Package Repository (2 days ago)
+- [cryptic-game/frontend](https://github.com/cryptic-game/frontend) - The official frontend of Cryptic (2 days ago)
 
 ### 🌱 My latest projects
 
+- [MarcelCoding/asmr](https://github.com/MarcelCoding/asmr) - Assembly interpreter written in rust.
 - [MarcelCoding/.dotfiles](https://github.com/MarcelCoding/.dotfiles)
 - [MarcelCoding/frontend-prod](https://github.com/MarcelCoding/frontend-prod) - Cryptic Frontend on play2.cryptic-game.net
 - [MarcelCoding/m4rc3l.de](https://github.com/MarcelCoding/m4rc3l.de)
 - [MarcelCoding/status](https://github.com/MarcelCoding/status) - Just another status page...
-- [MarcelCoding/dvb](https://github.com/MarcelCoding/dvb)
 
 ### 🔭 Latest releases I've contributed to
 
-- [influxdata/influxdb-client-java](https://github.com/influxdata/influxdb-client-java) ([v5.0.0](https://github.com/influxdata/influxdb-client-java/releases/tag/v5.0.0), 1 day ago) - InfluxDB 2 JVM Based Clients
-- [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) ([v1.1.13](https://github.com/MarcelCoding/bszet-vplan/releases/tag/v1.1.13), 3 days ago) - Automatically monitors bszet dd timetable for changes and sends notifications.
-- [MarcelCoding/nova](https://github.com/MarcelCoding/nova) ([v3.0.4](https://github.com/MarcelCoding/nova/releases/tag/v3.0.4), 5 days ago) - Nova is a framework on top of spring boot. It aims to provide nice additions to the spring ecosystem.
-- [cryptic-game/frontend](https://github.com/cryptic-game/frontend) ([v0.2.3](https://github.com/cryptic-game/frontend/releases/tag/v0.2.3), 6 days ago) - The official frontend of Cryptic
+- [influxdata/influxdb-client-java](https://github.com/influxdata/influxdb-client-java) ([v5.0.0](https://github.com/influxdata/influxdb-client-java/releases/tag/v5.0.0), 2 days ago) - InfluxDB 2 JVM Based Clients
+- [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) ([v1.1.13](https://github.com/MarcelCoding/bszet-vplan/releases/tag/v1.1.13), 4 days ago) - Automatically monitors bszet dd timetable for changes and sends notifications.
+- [MarcelCoding/nova](https://github.com/MarcelCoding/nova) ([v3.0.4](https://github.com/MarcelCoding/nova/releases/tag/v3.0.4), 6 days ago) - Nova is a framework on top of spring boot. It aims to provide nice additions to the spring ecosystem.
+- [cryptic-game/frontend](https://github.com/cryptic-game/frontend) ([v0.2.3](https://github.com/cryptic-game/frontend/releases/tag/v0.2.3), 1 week ago) - The official frontend of Cryptic
 - [abraunegg/onedrive](https://github.com/abraunegg/onedrive) ([v2.4.16](https://github.com/abraunegg/onedrive/releases/tag/v2.4.16), 1 week ago) - #1 Free OneDrive Client for Linux
 
 ### 🔨 Latest Pull Requests I published
 
-- [Handle inconsistencies in backend](https://github.com/cryptic-game/frontend/pull/355) on [cryptic-game/frontend](https://github.com/cryptic-game/frontend) (1 day ago)
-- [Added sentry](https://github.com/cryptic-game/frontend/pull/354) on [cryptic-game/frontend](https://github.com/cryptic-game/frontend) (2 days ago)
-- [Moved to flatpak element](https://github.com/felbinger/PostInstall_Fedora/pull/2) on [felbinger/PostInstall_Fedora](https://github.com/felbinger/PostInstall_Fedora) (3 days ago)
-- [Migraded to number pipes for i18n valid formatting](https://github.com/cryptic-game/frontend/pull/352) on [cryptic-game/frontend](https://github.com/cryptic-game/frontend) (3 days ago)
-- [Automatic cancel old runs if a new commit is pushed](https://github.com/motioneye-project/motioneye/pull/2364) on [motioneye-project/motioneye](https://github.com/motioneye-project/motioneye) (4 days ago)
+- [Handle inconsistencies in backend](https://github.com/cryptic-game/frontend/pull/355) on [cryptic-game/frontend](https://github.com/cryptic-game/frontend) (2 days ago)
+- [Added sentry](https://github.com/cryptic-game/frontend/pull/354) on [cryptic-game/frontend](https://github.com/cryptic-game/frontend) (3 days ago)
+- [Moved to flatpak element](https://github.com/felbinger/PostInstall_Fedora/pull/2) on [felbinger/PostInstall_Fedora](https://github.com/felbinger/PostInstall_Fedora) (4 days ago)
+- [Migraded to number pipes for i18n valid formatting](https://github.com/cryptic-game/frontend/pull/352) on [cryptic-game/frontend](https://github.com/cryptic-game/frontend) (4 days ago)
+- [Automatic cancel old runs if a new commit is pushed](https://github.com/motioneye-project/motioneye/pull/2364) on [motioneye-project/motioneye](https://github.com/motioneye-project/motioneye) (5 days ago)
 
 ### 📜 My recent blog posts
 
