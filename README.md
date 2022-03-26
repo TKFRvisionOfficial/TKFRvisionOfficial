@@ -19,10 +19,10 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [offsetting/offsetting](https://github.com/offsetting/offsetting) (2 days ago)
-- [cryptic-game/frontend](https://github.com/cryptic-game/frontend) - The official frontend of Cryptic (4 days ago)
-- [MarcelCoding/ghcr-cleaner](https://github.com/MarcelCoding/ghcr-cleaner) (6 days ago)
-- [cryptic-game/java-backend](https://github.com/cryptic-game/java-backend) - This is the Java Backend of the Cryptic project. (6 days ago)
+- [offsetting/offsetting](https://github.com/offsetting/offsetting) (3 days ago)
+- [cryptic-game/frontend](https://github.com/cryptic-game/frontend) - The official frontend of Cryptic (5 days ago)
+- [MarcelCoding/ghcr-cleaner](https://github.com/MarcelCoding/ghcr-cleaner) (1 week ago)
+- [cryptic-game/java-backend](https://github.com/cryptic-game/java-backend) - This is the Java Backend of the Cryptic project. (1 week ago)
 - [MarcelCoding/status-node](https://github.com/MarcelCoding/status-node) (1 week ago)
 
 ### 🌱 My latest projects
@@ -35,7 +35,7 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [MarcelCoding/docker-ssh-tunnel](https://github.com/MarcelCoding/docker-ssh-tunnel) ([v1.0.1](https://github.com/MarcelCoding/docker-ssh-tunnel/releases/tag/v1.0.1), 3 days ago) - Docker SSH Tunnel is a pre configured SSH Daemon to tunnel a local port.
+- [MarcelCoding/docker-ssh-tunnel](https://github.com/MarcelCoding/docker-ssh-tunnel) ([v1.0.1](https://github.com/MarcelCoding/docker-ssh-tunnel/releases/tag/v1.0.1), 4 days ago) - Docker SSH Tunnel is a pre configured SSH Daemon to tunnel a local port.
 - [influxdata/influxdb-client-java](https://github.com/influxdata/influxdb-client-java) ([v5.0.0](https://github.com/influxdata/influxdb-client-java/releases/tag/v5.0.0), 1 week ago) - InfluxDB 2 JVM Based Clients
 - [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) ([v1.1.13](https://github.com/MarcelCoding/bszet-vplan/releases/tag/v1.1.13), 1 week ago) - Automatically monitors bszet dd timetable for changes and sends notifications.
 - [MarcelCoding/nova](https://github.com/MarcelCoding/nova) ([v3.0.4](https://github.com/MarcelCoding/nova/releases/tag/v3.0.4), 1 week ago) - Nova is a framework on top of spring boot. It aims to provide nice additions to the spring ecosystem.
@@ -43,7 +43,7 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔨 Latest Pull Requests I published
 
-- [Added some tags for sentry](https://github.com/cryptic-game/frontend/pull/356) on [cryptic-game/frontend](https://github.com/cryptic-game/frontend) (4 days ago)
+- [Added some tags for sentry](https://github.com/cryptic-game/frontend/pull/356) on [cryptic-game/frontend](https://github.com/cryptic-game/frontend) (5 days ago)
 - [Handle inconsistencies in backend](https://github.com/cryptic-game/frontend/pull/355) on [cryptic-game/frontend](https://github.com/cryptic-game/frontend) (1 week ago)
 - [Added sentry](https://github.com/cryptic-game/frontend/pull/354) on [cryptic-game/frontend](https://github.com/cryptic-game/frontend) (1 week ago)
 - [Moved to flatpak element](https://github.com/felbinger/PostInstall_Fedora/pull/2) on [felbinger/PostInstall_Fedora](https://github.com/felbinger/PostInstall_Fedora) (1 week ago)
