@@ -19,35 +19,35 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [felbinger/AdminGuide](https://github.com/felbinger/AdminGuide) - Linux Server Administrator Guide (6 days ago)
+- [MarcelCoding/cf-sentry-relay](https://github.com/MarcelCoding/cf-sentry-relay) (1 day ago)
+- [MarcelCoding/m4rc3l.de](https://github.com/MarcelCoding/m4rc3l.de) (1 day ago)
+- [offsetting/x-flipper-360](https://github.com/offsetting/x-flipper-360) (1 day ago)
+- [felbinger/AdminGuide](https://github.com/felbinger/AdminGuide) - Linux Server Administrator Guide (1 week ago)
 - [offsetting/offsetting](https://github.com/offsetting/offsetting) (1 week ago)
-- [cryptic-game/frontend](https://github.com/cryptic-game/frontend) - The official frontend of Cryptic (1 week ago)
-- [MarcelCoding/ghcr-cleaner](https://github.com/MarcelCoding/ghcr-cleaner) (1 week ago)
-- [cryptic-game/java-backend](https://github.com/cryptic-game/java-backend) - This is the Java Backend of the Cryptic project. (1 week ago)
 
 ### 🌱 My latest projects
 
+- [MarcelCoding/cf-sentry-relay](https://github.com/MarcelCoding/cf-sentry-relay)
 - [MarcelCoding/asmr](https://github.com/MarcelCoding/asmr) - Assembly interpreter written in rust.
 - [MarcelCoding/.dotfiles](https://github.com/MarcelCoding/.dotfiles)
 - [MarcelCoding/frontend-prod](https://github.com/MarcelCoding/frontend-prod) - Cryptic Frontend on play2.cryptic-game.net
 - [MarcelCoding/m4rc3l.de](https://github.com/MarcelCoding/m4rc3l.de)
-- [MarcelCoding/status](https://github.com/MarcelCoding/status) - Just another status page...
 
 ### 🔭 Latest releases I've contributed to
 
-- [MarcelCoding/docker-ssh-tunnel](https://github.com/MarcelCoding/docker-ssh-tunnel) ([v1.0.2](https://github.com/MarcelCoding/docker-ssh-tunnel/releases/tag/v1.0.2), 3 days ago) - Docker SSH Tunnel is a pre configured SSH Daemon to tunnel a local port.
-- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.8.0-beta1](https://github.com/jellyfin/jellyfin/releases/tag/v10.8.0-beta1), 5 days ago) - The Free Software Media System
-- [influxdata/influxdb-client-java](https://github.com/influxdata/influxdb-client-java) ([v5.0.0](https://github.com/influxdata/influxdb-client-java/releases/tag/v5.0.0), 2 weeks ago) - InfluxDB 2 JVM Based Clients
-- [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) ([v1.1.13](https://github.com/MarcelCoding/bszet-vplan/releases/tag/v1.1.13), 2 weeks ago) - Automatically monitors bszet dd timetable for changes and sends notifications.
-- [MarcelCoding/nova](https://github.com/MarcelCoding/nova) ([v3.0.4](https://github.com/MarcelCoding/nova/releases/tag/v3.0.4), 2 weeks ago) - Nova is a framework on top of spring boot. It aims to provide nice additions to the spring ecosystem.
+- [actions/setup-java](https://github.com/actions/setup-java) ([v3.1.0](https://github.com/actions/setup-java/releases/tag/v3.1.0), 1 day ago) - Set up your GitHub Actions workflow with a specific version of Java
+- [MarcelCoding/luna](https://github.com/MarcelCoding/luna) ([v1.0.4](https://github.com/MarcelCoding/luna/releases/tag/v1.0.4), 1 day ago)
+- [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) ([v1.0.9](https://github.com/MarcelCoding/jitsi-openid/releases/tag/v1.0.9), 1 day ago) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect.
+- [MarcelCoding/docker-ssh-tunnel](https://github.com/MarcelCoding/docker-ssh-tunnel) ([v1.0.2](https://github.com/MarcelCoding/docker-ssh-tunnel/releases/tag/v1.0.2), 4 days ago) - Docker SSH Tunnel is a pre configured SSH Daemon to tunnel a local port.
+- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.8.0-beta1](https://github.com/jellyfin/jellyfin/releases/tag/v10.8.0-beta1), 6 days ago) - The Free Software Media System
 
 ### 🔨 Latest Pull Requests I published
 
-- [Addd .nvmrc to element](https://github.com/felbinger/AdminGuide/pull/63) on [felbinger/AdminGuide](https://github.com/felbinger/AdminGuide) (6 days ago)
+- [Added MAFAK](https://github.com/MarcelCoding/bszet-vplan/pull/107) on [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) (1 day ago)
+- [Addd .nvmrc to element](https://github.com/felbinger/AdminGuide/pull/63) on [felbinger/AdminGuide](https://github.com/felbinger/AdminGuide) (1 week ago)
 - [Added some tags for sentry](https://github.com/cryptic-game/frontend/pull/356) on [cryptic-game/frontend](https://github.com/cryptic-game/frontend) (1 week ago)
 - [Handle inconsistencies in backend](https://github.com/cryptic-game/frontend/pull/355) on [cryptic-game/frontend](https://github.com/cryptic-game/frontend) (2 weeks ago)
 - [Added sentry](https://github.com/cryptic-game/frontend/pull/354) on [cryptic-game/frontend](https://github.com/cryptic-game/frontend) (2 weeks ago)
-- [Moved to flatpak element](https://github.com/felbinger/PostInstall_Fedora/pull/2) on [felbinger/PostInstall_Fedora](https://github.com/felbinger/PostInstall_Fedora) (2 weeks ago)
 
 ### 📜 My recent blog posts
 
