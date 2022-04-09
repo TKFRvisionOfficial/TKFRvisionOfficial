@@ -19,9 +19,9 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [cryptic-game/java-backend](https://github.com/cryptic-game/java-backend) - This is the Java Backend of the Cryptic project. (4 days ago)
-- [offsetting/offsetting](https://github.com/offsetting/offsetting) (4 days ago)
-- [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) - Automatically monitors bszet dd timetable for changes and sends notifications. (4 days ago)
+- [cryptic-game/java-backend](https://github.com/cryptic-game/java-backend) - This is the Java Backend of the Cryptic project. (5 days ago)
+- [offsetting/offsetting](https://github.com/offsetting/offsetting) (5 days ago)
+- [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) - Automatically monitors bszet dd timetable for changes and sends notifications. (5 days ago)
 - [MarcelCoding/m4rc3l.de](https://github.com/MarcelCoding/m4rc3l.de) (1 week ago)
 - [MarcelCoding/cf-sentry-relay](https://github.com/MarcelCoding/cf-sentry-relay) (1 week ago)
 
@@ -35,7 +35,7 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) ([v1.1.14](https://github.com/MarcelCoding/bszet-vplan/releases/tag/v1.1.14), 3 days ago) - Automatically monitors bszet dd timetable for changes and sends notifications.
+- [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) ([v1.1.14](https://github.com/MarcelCoding/bszet-vplan/releases/tag/v1.1.14), 4 days ago) - Automatically monitors bszet dd timetable for changes and sends notifications.
 - [actions/setup-java](https://github.com/actions/setup-java) ([v3.1.0](https://github.com/actions/setup-java/releases/tag/v3.1.0), 1 week ago) - Set up your GitHub Actions workflow with a specific version of Java
 - [MarcelCoding/luna](https://github.com/MarcelCoding/luna) ([v1.0.4](https://github.com/MarcelCoding/luna/releases/tag/v1.0.4), 1 week ago)
 - [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) ([v1.0.9](https://github.com/MarcelCoding/jitsi-openid/releases/tag/v1.0.9), 1 week ago) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect.
@@ -43,9 +43,9 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔨 Latest Pull Requests I published
 
-- [Update jitsi-oidc to v1.0.9](https://github.com/secshellnet/docs/pull/10) on [secshellnet/docs](https://github.com/secshellnet/docs) (6 days ago)
+- [Update jitsi-oidc to v1.0.9](https://github.com/secshellnet/docs/pull/10) on [secshellnet/docs](https://github.com/secshellnet/docs) (1 week ago)
 - [Added MAFAK](https://github.com/MarcelCoding/bszet-vplan/pull/107) on [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) (1 week ago)
-- [Addd .nvmrc to element](https://github.com/felbinger/AdminGuide/pull/63) on [felbinger/AdminGuide](https://github.com/felbinger/AdminGuide) (1 week ago)
+- [Addd .nvmrc to element](https://github.com/felbinger/AdminGuide/pull/63) on [felbinger/AdminGuide](https://github.com/felbinger/AdminGuide) (2 weeks ago)
 - [Added some tags for sentry](https://github.com/cryptic-game/frontend/pull/356) on [cryptic-game/frontend](https://github.com/cryptic-game/frontend) (2 weeks ago)
 - [Handle inconsistencies in backend](https://github.com/cryptic-game/frontend/pull/355) on [cryptic-game/frontend](https://github.com/cryptic-game/frontend) (3 weeks ago)
 
