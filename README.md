@@ -19,11 +19,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [themorpheustutorials/status](https://github.com/themorpheustutorials/status) - The Moprheus Tutorials Statuspage (1 day ago)
-- [MarcelCoding/.well-known](https://github.com/MarcelCoding/.well-known) - .well-known configuration for m4rc3l.de (1 day ago)
-- [not4y/not4y.net](https://github.com/not4y/not4y.net) (1 day ago)
-- [offsetting/soiboy](https://github.com/offsetting/soiboy) (1 day ago)
-- [offsetting/offsetting](https://github.com/offsetting/offsetting) (1 day ago)
+- [not4y/not4y.net](https://github.com/not4y/not4y.net) (2 days ago)
+- [offsetting/offsetting](https://github.com/offsetting/offsetting) (2 days ago)
+- [MarcelCoding/.well-known](https://github.com/MarcelCoding/.well-known) - .well-known configuration for m4rc3l.de (2 days ago)
+- [themorpheustutorials/status](https://github.com/themorpheustutorials/status) - The Moprheus Tutorials Statuspage (2 days ago)
+- [offsetting/soiboy](https://github.com/offsetting/soiboy) (2 days ago)
 
 ### 🌱 My latest projects
 
@@ -35,19 +35,19 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [offsetting/offsetting](https://github.com/offsetting/offsetting) ([v0.1.0](https://github.com/offsetting/offsetting/releases/tag/v0.1.0), 1 day ago)
-- [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) ([v1.1.14](https://github.com/MarcelCoding/bszet-vplan/releases/tag/v1.1.14), 5 days ago) - Automatically monitors bszet dd timetable for changes and sends notifications.
+- [offsetting/offsetting](https://github.com/offsetting/offsetting) ([v0.1.0](https://github.com/offsetting/offsetting/releases/tag/v0.1.0), 2 days ago)
+- [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) ([v1.1.14](https://github.com/MarcelCoding/bszet-vplan/releases/tag/v1.1.14), 6 days ago) - Automatically monitors bszet dd timetable for changes and sends notifications.
 - [actions/setup-java](https://github.com/actions/setup-java) ([v3.1.0](https://github.com/actions/setup-java/releases/tag/v3.1.0), 1 week ago) - Set up your GitHub Actions workflow with a specific version of Java
 - [MarcelCoding/luna](https://github.com/MarcelCoding/luna) ([v1.0.4](https://github.com/MarcelCoding/luna/releases/tag/v1.0.4), 1 week ago)
 - [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) ([v1.0.9](https://github.com/MarcelCoding/jitsi-openid/releases/tag/v1.0.9), 1 week ago) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect.
 
 ### 🔨 Latest Pull Requests I published
 
-- [Added x360 extracting and listing](https://github.com/offsetting/offsetting/pull/1) on [offsetting/offsetting](https://github.com/offsetting/offsetting) (1 day ago)
+- [Add keycloak to guacamole](https://github.com/felbinger/AdminGuide/pull/66) on [felbinger/AdminGuide](https://github.com/felbinger/AdminGuide) (1 day ago)
+- [Added x360 extracting and listing](https://github.com/offsetting/offsetting/pull/1) on [offsetting/offsetting](https://github.com/offsetting/offsetting) (2 days ago)
 - [Update jitsi-oidc to v1.0.9](https://github.com/secshellnet/docs/pull/10) on [secshellnet/docs](https://github.com/secshellnet/docs) (1 week ago)
 - [Added MAFAK](https://github.com/MarcelCoding/bszet-vplan/pull/107) on [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) (1 week ago)
 - [Addd .nvmrc to element](https://github.com/felbinger/AdminGuide/pull/63) on [felbinger/AdminGuide](https://github.com/felbinger/AdminGuide) (2 weeks ago)
-- [Added some tags for sentry](https://github.com/cryptic-game/frontend/pull/356) on [cryptic-game/frontend](https://github.com/cryptic-game/frontend) (2 weeks ago)
 
 ### 📜 My recent blog posts
 
