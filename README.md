@@ -19,8 +19,8 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [MarcelCoding/luna-web](https://github.com/MarcelCoding/luna-web) (1 day ago)
-- [MarcelCoding/trainworld](https://github.com/MarcelCoding/trainworld) - a mc modpack (1 day ago)
+- [MarcelCoding/luna-web](https://github.com/MarcelCoding/luna-web) (2 days ago)
+- [MarcelCoding/trainworld](https://github.com/MarcelCoding/trainworld) - a mc modpack (2 days ago)
 - [tolu/ISO8601-duration](https://github.com/tolu/ISO8601-duration) - Node/Js-module for parsing and making sense of ISO8601-durations (1 week ago)
 - [offsetting/soiboy](https://github.com/offsetting/soiboy) (1 week ago)
 - [not4y/not4y.net](https://github.com/not4y/not4y.net) (1 week ago)
@@ -35,16 +35,16 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [influxdata/influxdb-client-java](https://github.com/influxdata/influxdb-client-java) ([v6.0.0](https://github.com/influxdata/influxdb-client-java/releases/tag/v6.0.0), 1 day ago) - InfluxDB 2 JVM Based Clients
-- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.8.0-beta2](https://github.com/jellyfin/jellyfin/releases/tag/v10.8.0-beta2), 3 days ago) - The Free Software Media System
-- [tolu/ISO8601-duration](https://github.com/tolu/ISO8601-duration) ([v2.1.1](https://github.com/tolu/ISO8601-duration/releases/tag/v2.1.1), 6 days ago) - Node/Js-module for parsing and making sense of ISO8601-durations
+- [influxdata/influxdb-client-java](https://github.com/influxdata/influxdb-client-java) ([v6.0.0](https://github.com/influxdata/influxdb-client-java/releases/tag/v6.0.0), 2 days ago) - InfluxDB 2 JVM Based Clients
+- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.8.0-beta2](https://github.com/jellyfin/jellyfin/releases/tag/v10.8.0-beta2), 4 days ago) - The Free Software Media System
+- [tolu/ISO8601-duration](https://github.com/tolu/ISO8601-duration) ([v2.1.1](https://github.com/tolu/ISO8601-duration/releases/tag/v2.1.1), 1 week ago) - Node/Js-module for parsing and making sense of ISO8601-durations
 - [actions/setup-java](https://github.com/actions/setup-java) ([v3.1.1](https://github.com/actions/setup-java/releases/tag/v3.1.1), 1 week ago) - Set up your GitHub Actions workflow with a specific version of Java
 - [offsetting/offsetting](https://github.com/offsetting/offsetting) ([v0.1.0](https://github.com/offsetting/offsetting/releases/tag/v0.1.0), 1 week ago)
 
 ### 🔨 Latest Pull Requests I published
 
-- [Added GitHub Actions to automatic publish binaries for varius architectures](https://github.com/MindFlavor/prometheus_wireguard_exporter/pull/95) on [MindFlavor/prometheus_wireguard_exporter](https://github.com/MindFlavor/prometheus_wireguard_exporter) (3 days ago)
-- [Added GitHub Actions to automatic publish binaries for varius architectures](https://github.com/MindFlavor/prometheus_wireguard_exporter/pull/94) on [MindFlavor/prometheus_wireguard_exporter](https://github.com/MindFlavor/prometheus_wireguard_exporter) (3 days ago)
+- [Added GitHub Actions to automatic publish binaries for varius architectures](https://github.com/MindFlavor/prometheus_wireguard_exporter/pull/95) on [MindFlavor/prometheus_wireguard_exporter](https://github.com/MindFlavor/prometheus_wireguard_exporter) (4 days ago)
+- [Added GitHub Actions to automatic publish binaries for varius architectures](https://github.com/MindFlavor/prometheus_wireguard_exporter/pull/94) on [MindFlavor/prometheus_wireguard_exporter](https://github.com/MindFlavor/prometheus_wireguard_exporter) (4 days ago)
 - [Update index.ts](https://github.com/tolu/ISO8601-duration/pull/29) on [tolu/ISO8601-duration](https://github.com/tolu/ISO8601-duration) (1 week ago)
 - [Add keycloak to guacamole](https://github.com/felbinger/AdminGuide/pull/66) on [felbinger/AdminGuide](https://github.com/felbinger/AdminGuide) (1 week ago)
 - [Added x360 extracting and listing](https://github.com/offsetting/offsetting/pull/1) on [offsetting/offsetting](https://github.com/offsetting/offsetting) (1 week ago)
