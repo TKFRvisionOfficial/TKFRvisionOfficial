@@ -19,11 +19,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [MarcelCoding/luna](https://github.com/MarcelCoding/luna) (3 days ago)
-- [MarcelCoding/nova](https://github.com/MarcelCoding/nova) - Nova is a framework on top of spring boot. It aims to provide nice additions to the spring ecosystem. (3 days ago)
-- [MarcelCoding/m4rc3l.de](https://github.com/MarcelCoding/m4rc3l.de) (4 days ago)
-- [MarcelCoding/luna-web](https://github.com/MarcelCoding/luna-web) (6 days ago)
-- [MarcelCoding/trainworld](https://github.com/MarcelCoding/trainworld) - a mc modpack (6 days ago)
+- [MarcelCoding/luna](https://github.com/MarcelCoding/luna) (4 days ago)
+- [MarcelCoding/nova](https://github.com/MarcelCoding/nova) - Nova is a framework on top of spring boot. It aims to provide nice additions to the spring ecosystem. (4 days ago)
+- [MarcelCoding/m4rc3l.de](https://github.com/MarcelCoding/m4rc3l.de) (5 days ago)
+- [MarcelCoding/luna-web](https://github.com/MarcelCoding/luna-web) (1 week ago)
+- [MarcelCoding/trainworld](https://github.com/MarcelCoding/trainworld) - a mc modpack (1 week ago)
 
 ### 🌱 My latest projects
 
@@ -35,8 +35,8 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [MarcelCoding/nova](https://github.com/MarcelCoding/nova) ([v3.0.5](https://github.com/MarcelCoding/nova/releases/tag/v3.0.5), 4 days ago) - Nova is a framework on top of spring boot. It aims to provide nice additions to the spring ecosystem.
-- [influxdata/influxdb-client-java](https://github.com/influxdata/influxdb-client-java) ([v6.0.0](https://github.com/influxdata/influxdb-client-java/releases/tag/v6.0.0), 6 days ago) - InfluxDB 2 JVM Based Clients
+- [MarcelCoding/nova](https://github.com/MarcelCoding/nova) ([v3.0.5](https://github.com/MarcelCoding/nova/releases/tag/v3.0.5), 5 days ago) - Nova is a framework on top of spring boot. It aims to provide nice additions to the spring ecosystem.
+- [influxdata/influxdb-client-java](https://github.com/influxdata/influxdb-client-java) ([v6.0.0](https://github.com/influxdata/influxdb-client-java/releases/tag/v6.0.0), 1 week ago) - InfluxDB 2 JVM Based Clients
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.8.0-beta2](https://github.com/jellyfin/jellyfin/releases/tag/v10.8.0-beta2), 1 week ago) - The Free Software Media System
 - [tolu/ISO8601-duration](https://github.com/tolu/ISO8601-duration) ([v2.1.1](https://github.com/tolu/ISO8601-duration/releases/tag/v2.1.1), 1 week ago) - Node/Js-module for parsing and making sense of ISO8601-durations
 - [actions/setup-java](https://github.com/actions/setup-java) ([v3.1.1](https://github.com/actions/setup-java/releases/tag/v3.1.1), 2 weeks ago) - Set up your GitHub Actions workflow with a specific version of Java
