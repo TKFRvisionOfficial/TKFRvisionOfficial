@@ -19,8 +19,8 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [MarcelCoding/luna](https://github.com/MarcelCoding/luna) (6 days ago)
-- [MarcelCoding/nova](https://github.com/MarcelCoding/nova) - Nova is a framework on top of spring boot. It aims to provide nice additions to the spring ecosystem. (6 days ago)
+- [MarcelCoding/luna](https://github.com/MarcelCoding/luna) (1 week ago)
+- [MarcelCoding/nova](https://github.com/MarcelCoding/nova) - Nova is a framework on top of spring boot. It aims to provide nice additions to the spring ecosystem. (1 week ago)
 - [MarcelCoding/m4rc3l.de](https://github.com/MarcelCoding/m4rc3l.de) (1 week ago)
 - [MarcelCoding/luna-web](https://github.com/MarcelCoding/luna-web) (1 week ago)
 - [MarcelCoding/trainworld](https://github.com/MarcelCoding/trainworld) - a mc modpack (1 week ago)
@@ -35,7 +35,7 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [actions/setup-java](https://github.com/actions/setup-java) ([v3.2.0](https://github.com/actions/setup-java/releases/tag/v3.2.0), 2 days ago) - Set up your GitHub Actions workflow with a specific version of Java
+- [actions/setup-java](https://github.com/actions/setup-java) ([v3.2.0](https://github.com/actions/setup-java/releases/tag/v3.2.0), 3 days ago) - Set up your GitHub Actions workflow with a specific version of Java
 - [MarcelCoding/nova](https://github.com/MarcelCoding/nova) ([v3.0.5](https://github.com/MarcelCoding/nova/releases/tag/v3.0.5), 1 week ago) - Nova is a framework on top of spring boot. It aims to provide nice additions to the spring ecosystem.
 - [influxdata/influxdb-client-java](https://github.com/influxdata/influxdb-client-java) ([v6.0.0](https://github.com/influxdata/influxdb-client-java/releases/tag/v6.0.0), 1 week ago) - InfluxDB 2 JVM Based Clients
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.8.0-beta2](https://github.com/jellyfin/jellyfin/releases/tag/v10.8.0-beta2), 1 week ago) - The Free Software Media System
@@ -43,8 +43,8 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔨 Latest Pull Requests I published
 
-- [Added .well-known docs](https://github.com/felbinger/AdminGuide/pull/68) on [felbinger/AdminGuide](https://github.com/felbinger/AdminGuide) (2 days ago)
-- [Added .well-known docs](https://github.com/felbinger/AdminGuide/pull/67) on [felbinger/AdminGuide](https://github.com/felbinger/AdminGuide) (2 days ago)
+- [Added .well-known docs](https://github.com/felbinger/AdminGuide/pull/68) on [felbinger/AdminGuide](https://github.com/felbinger/AdminGuide) (3 days ago)
+- [Added .well-known docs](https://github.com/felbinger/AdminGuide/pull/67) on [felbinger/AdminGuide](https://github.com/felbinger/AdminGuide) (3 days ago)
 - [Added GitHub Actions to automatic publish binaries for various architectures](https://github.com/MindFlavor/prometheus_wireguard_exporter/pull/95) on [MindFlavor/prometheus_wireguard_exporter](https://github.com/MindFlavor/prometheus_wireguard_exporter) (1 week ago)
 - [Added GitHub Actions to automatic publish binaries for varius architectures](https://github.com/MindFlavor/prometheus_wireguard_exporter/pull/94) on [MindFlavor/prometheus_wireguard_exporter](https://github.com/MindFlavor/prometheus_wireguard_exporter) (1 week ago)
 - [Update index.ts](https://github.com/tolu/ISO8601-duration/pull/29) on [tolu/ISO8601-duration](https://github.com/tolu/ISO8601-duration) (2 weeks ago)
