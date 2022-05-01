@@ -19,19 +19,19 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
+- [MarcelCoding/xiu](https://github.com/MarcelCoding/xiu) (today)
+- [not4y/mc-translations](https://github.com/not4y/mc-translations) (today)
 - [MarcelCoding/onedrive-docker](https://github.com/MarcelCoding/onedrive-docker) - Pre-Build OneDrive Docker Images. (1 day ago)
 - [themorpheustutorials/status](https://github.com/themorpheustutorials/status) - The Moprheus Tutorials Statuspage (2 days ago)
-- [MarcelCoding/luna](https://github.com/MarcelCoding/luna) (1 week ago)
 - [MarcelCoding/nova](https://github.com/MarcelCoding/nova) - Nova is a framework on top of spring boot. It aims to provide nice additions to the spring ecosystem. (1 week ago)
-- [MarcelCoding/m4rc3l.de](https://github.com/MarcelCoding/m4rc3l.de) (1 week ago)
 
 ### 🌱 My latest projects
 
+- [MarcelCoding/xiu](https://github.com/MarcelCoding/xiu)
 - [MarcelCoding/trainworld](https://github.com/MarcelCoding/trainworld) - a mc modpack
 - [MarcelCoding/asmr](https://github.com/MarcelCoding/asmr) - Assembly interpreter written in rust.
 - [MarcelCoding/.dotfiles](https://github.com/MarcelCoding/.dotfiles)
 - [MarcelCoding/frontend-prod](https://github.com/MarcelCoding/frontend-prod) - Cryptic Frontend on play2.cryptic-game.net
-- [MarcelCoding/m4rc3l.de](https://github.com/MarcelCoding/m4rc3l.de)
 
 ### 🔭 Latest releases I've contributed to
 
