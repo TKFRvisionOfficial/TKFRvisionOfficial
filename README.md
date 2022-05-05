@@ -5,19 +5,20 @@
 
 ### About Me
 
-My name is **Klemens**.
+My name is **Klemens**. I do things
 <br><br>
-I'm mainly a **Python Developer**, but have experience in lot's of other languages like Java and Rust.
+I mainly do Python things. But I also do *insert language/technolagy/framework here* things.
 <br>
-I'm a backend developer but mainly do parsing of not so easily readable data and reverse engineering of binary formats. I also like to botch apis together to make my life easier.
+I do binary format things, parsing things, but also API things. 
+
+If you want to follow me on other sides just go through my [<img alt="linktree" width="20px" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/h90nveymaytblh5fldz8" />](https://linktr.ee/tkfrvision).
 
 [![Visits](https://badges.pufler.dev/visits/TKFRvisionOfficial/TKFRvisionOfficial?style=flat-square&color=black&logo=github)](https://github.com/TKFRvisionOfficial)
 [![Years](https://badges.pufler.dev/years/TKFRvisionOfficial?style=flat-square&color=black&logo=github)](https://github.com/TKFRvisionOfficial)
 [![Repos](https://badges.pufler.dev/repos/TKFRvisionOfficial?style=flat-square&color=black&logo=github)](https://github.com/TKFRvisionOfficial?tab=repositories)
-[![Gists](https://badges.pufler.dev/gists/TKFRvisionOfficial?style=flat-square&color=black&logo=github)](https://gist.github.com/TKFRvisionOfficial)
 [![Monthly Commits](https://badges.pufler.dev/commits/monthly/TKFRvisionOfficial?style=flat-square&color=black&logo=github)](https://github.com/TKFRvisionOfficial)
 
-### 👷 Check out what I'm currently working on
+### 😓 Check out what I'm currently struggling at
 
 - [TKFRvisionOfficial/bszet_substitution_plan](https://github.com/TKFRvisionOfficial/bszet_substitution_plan) - Parsing and Image creation service of the BSZET substitution plan bot (1 day ago)
 - [not4y/mc-translations](https://github.com/not4y/mc-translations) - Translations for various minecraft mods. (2 days ago)
@@ -25,7 +26,7 @@ I'm a backend developer but mainly do parsing of not so easily readable data and
 - [TKFRvisionOfficial/mc-translations](https://github.com/TKFRvisionOfficial/mc-translations) - Translations for various minecraftt mods. (4 days ago)
 - [TKFRvisionOfficial/allpalmsarebeautiful](https://github.com/TKFRvisionOfficial/allpalmsarebeautiful) (4 days ago)
 
-### 🌱 My latest projects
+### ☠ My latest junk
 
 - [TKFRvisionOfficial/mc-translations](https://github.com/TKFRvisionOfficial/mc-translations) - Translations for various minecraftt mods.
 - [TKFRvisionOfficial/allpalmsarebeautiful](https://github.com/TKFRvisionOfficial/allpalmsarebeautiful)
