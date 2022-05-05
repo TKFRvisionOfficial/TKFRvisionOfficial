@@ -9,7 +9,7 @@ My name is **Klemens**. I do things
 <br><br>
 I mainly do Python things. But I also do *insert language/technolagy/framework here* things.
 <br>
-I do binary format things, parsing things, but also API things. 
+I do binary reverse engineering things, parsing things, but also API things. 
 
 If you want to follow me on other sides just go through my [<img alt="linktree" width="20px" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/h90nveymaytblh5fldz8" />](https://linktr.ee/tkfrvision).
 
