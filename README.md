@@ -9,9 +9,11 @@ My name is **Klemens**. I do things!
 <br><br>
 I mainly do Python things. But I also do *insert language/technolagy/framework here* things.
 <br>
-I do binary reverse engineering things, parsing things, but also API things. 
+I do binary reverse engineering things, parsing things, but also API things.
 
-If you want to follow me on other sides just go through my [<img alt="linktree" width="20px" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/h90nveymaytblh5fldz8" />](https://linktr.ee/tkfrvision).
+Lot's of my things are licensed "All Rights Reserved" but that is just laziness. Hit me up if you want me to add a FOSS license to one of my projects.
+
+If you want to follow me on other sites just go through my [<img alt="linktree" width="20px" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/h90nveymaytblh5fldz8" />](https://linktr.ee/tkfrvision).
 
 [![Visits](https://badges.pufler.dev/visits/TKFRvisionOfficial/TKFRvisionOfficial?style=flat-square&color=black&logo=github)](https://github.com/TKFRvisionOfficial)
 [![Years](https://badges.pufler.dev/years/TKFRvisionOfficial?style=flat-square&color=black&logo=github)](https://github.com/TKFRvisionOfficial)
