@@ -5,17 +5,17 @@
 
 ### About Me
 
-My name is **Marcel**.
+My name is **Klemens**.
 <br><br>
-I'm mainly a **Java Developer**, who is currently trying to learn **Rust**. I deploy most of the stuff that I create or use using **Docker**.
+I'm mainly a **Python Developer**, but have experience in lot's of other languages like Java and Rust.
 <br>
-Besides backends, I also work on frontends in the past mostly with the framework **Angular** but in the recent time I also used some **NuxtJS**. 
+I'm a backend developer but mainly do parsing of easily readable data and reverse engineering of binary formats. I also like to botch apis together to make my life easier.
 
-[![Visits](https://badges.pufler.dev/visits/MarcelCoding/MarcelCoding?style=flat-square&color=black&logo=github)](https://github.com/MarcelCoding)
-[![Years](https://badges.pufler.dev/years/MarcelCoding?style=flat-square&color=black&logo=github)](https://github.com/MarcelCoding)
-[![Repos](https://badges.pufler.dev/repos/MarcelCoding?style=flat-square&color=black&logo=github)](https://github.com/MarcelCoding?tab=repositories)
-[![Gists](https://badges.pufler.dev/gists/MarcelCoding?style=flat-square&color=black&logo=github)](https://gist.github.com/MarcelCoding)
-[![Monthly Commits](https://badges.pufler.dev/commits/monthly/MarcelCoding?style=flat-square&color=black&logo=github)](https://github.com/MarcelCoding)
+[![Visits](https://badges.pufler.dev/visits/TKFRvisionOfficial/TKFRvisionOfficial?style=flat-square&color=black&logo=github)](https://github.com/TKFRvisionOfficial)
+[![Years](https://badges.pufler.dev/years/TKFRvisionOfficial?style=flat-square&color=black&logo=github)](https://github.com/TKFRvisionOfficial)
+[![Repos](https://badges.pufler.dev/repos/TKFRvisionOfficial?style=flat-square&color=black&logo=github)](https://github.com/TKFRvisionOfficial?tab=repositories)
+[![Gists](https://badges.pufler.dev/gists/TKFRvisionOfficial?style=flat-square&color=black&logo=github)](https://gist.github.com/TKFRvisionOfficial)
+[![Monthly Commits](https://badges.pufler.dev/commits/monthly/TKFRvisionOfficial?style=flat-square&color=black&logo=github)](https://github.com/TKFRvisionOfficial)
 
 ### 👷 Check out what I'm currently working on
 {{range recentContributions 5}}
@@ -35,11 +35,6 @@ Besides backends, I also work on frontends in the past mostly with the framework
 ### 🔨 Latest Pull Requests I published
 {{range recentPullRequests 5}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
-
-### 📜 My recent blog posts
-{{range rss "https://m4rc3l.de/blog.rss" 5}}
-- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
 ### ⭐ Recent stars
