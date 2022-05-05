@@ -1,4 +1,4 @@
-## Hi there 👋!
+## What's up 😁!
 
 
 
@@ -9,7 +9,7 @@ My name is **Klemens**.
 <br><br>
 I'm mainly a **Python Developer**, but have experience in lot's of other languages like Java and Rust.
 <br>
-I'm a backend developer but mainly do parsing of easily readable data and reverse engineering of binary formats. I also like to botch apis together to make my life easier.
+I'm a backend developer but mainly do parsing of not so easily readable data and reverse engineering of binary formats. I also like to botch apis together to make my life easier.
 
 [![Visits](https://badges.pufler.dev/visits/TKFRvisionOfficial/TKFRvisionOfficial?style=flat-square&color=black&logo=github)](https://github.com/TKFRvisionOfficial)
 [![Years](https://badges.pufler.dev/years/TKFRvisionOfficial?style=flat-square&color=black&logo=github)](https://github.com/TKFRvisionOfficial)
