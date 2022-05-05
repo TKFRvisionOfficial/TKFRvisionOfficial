@@ -5,17 +5,17 @@
 
 ### About Me
 
-My name is **Marcel**.
+My name is **Klemens**.
 <br><br>
-I'm mainly a **Java Developer**, who is currently trying to learn **Rust**. I deploy most of the stuff that I create or use using **Docker**.
+I'm mainly a **Python Developer**, but have experience in lot's of other languages like Java and Rust.
 <br>
-Besides backends, I also work on frontends in the past mostly with the framework **Angular** but in the recent time I also used some **NuxtJS**. 
+I'm a backend developer but mainly do parsing of easily readable data and reverse engineering of binary formats. I also like to botch apis together to make my life easier.
 
-[![Visits](https://badges.pufler.dev/visits/MarcelCoding/MarcelCoding?style=flat-square&color=black&logo=github)](https://github.com/MarcelCoding)
-[![Years](https://badges.pufler.dev/years/MarcelCoding?style=flat-square&color=black&logo=github)](https://github.com/MarcelCoding)
-[![Repos](https://badges.pufler.dev/repos/MarcelCoding?style=flat-square&color=black&logo=github)](https://github.com/MarcelCoding?tab=repositories)
-[![Gists](https://badges.pufler.dev/gists/MarcelCoding?style=flat-square&color=black&logo=github)](https://gist.github.com/MarcelCoding)
-[![Monthly Commits](https://badges.pufler.dev/commits/monthly/MarcelCoding?style=flat-square&color=black&logo=github)](https://github.com/MarcelCoding)
+[![Visits](https://badges.pufler.dev/visits/TKFRvisionOfficial/TKFRvisionOfficial?style=flat-square&color=black&logo=github)](https://github.com/TKFRvisionOfficial)
+[![Years](https://badges.pufler.dev/years/TKFRvisionOfficial?style=flat-square&color=black&logo=github)](https://github.com/TKFRvisionOfficial)
+[![Repos](https://badges.pufler.dev/repos/TKFRvisionOfficial?style=flat-square&color=black&logo=github)](https://github.com/TKFRvisionOfficial?tab=repositories)
+[![Gists](https://badges.pufler.dev/gists/TKFRvisionOfficial?style=flat-square&color=black&logo=github)](https://gist.github.com/TKFRvisionOfficial)
+[![Monthly Commits](https://badges.pufler.dev/commits/monthly/TKFRvisionOfficial?style=flat-square&color=black&logo=github)](https://github.com/TKFRvisionOfficial)
 
 ### 👷 Check out what I'm currently working on
 
@@ -46,10 +46,6 @@ Besides backends, I also work on frontends in the past mostly with the framework
 - [added scene_dec, scene_enc, whyjustwhy and revamp the whole source structure](https://github.com/TKFRvisionOfficial/Cars2TheVideoGameModding/pull/2) on [TKFRvisionOfficial/Cars2TheVideoGameModding](https://github.com/TKFRvisionOfficial/Cars2TheVideoGameModding) (1 month ago)
 - [stupid ](https://github.com/TKFRvisionOfficial/Cars2TheVideoGameModding/pull/1) on [TKFRvisionOfficial/Cars2TheVideoGameModding](https://github.com/TKFRvisionOfficial/Cars2TheVideoGameModding) (1 month ago)
 - [Fixing PDF Backup Again](https://github.com/TKFRvisionOfficial/bszet_substitution_plan/pull/46) on [TKFRvisionOfficial/bszet_substitution_plan](https://github.com/TKFRvisionOfficial/bszet_substitution_plan) (3 months ago)
-
-### 📜 My recent blog posts
-
-- [Keycloak Quarkus Migration](https://m4rc3l.de/blog/keycloak-quarkus-migration) (a long while ago)
 
 ### ⭐ Recent stars
 
