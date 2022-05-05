@@ -5,7 +5,7 @@
 
 ### About Me
 
-My name is **Klemens**. I do things
+My name is **Klemens**. I do things!
 <br><br>
 I mainly do Python things. But I also do *insert language/technolagy/framework here* things.
 <br>
