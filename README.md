@@ -23,18 +23,18 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 ### 😓 Check out what I'm currently struggling at
 
 - [TKFRvisionOfficial/bszet_substitution_plan](https://github.com/TKFRvisionOfficial/bszet_substitution_plan) - Parsing and Image creation service of the BSZET substitution plan bot (1 day ago)
-- [not4y/mc-translations](https://github.com/not4y/mc-translations) - Translations for various minecraft mods. (2 days ago)
-- [MarcelCoding/trainworld](https://github.com/MarcelCoding/trainworld) - a mc modpack (3 days ago)
-- [TKFRvisionOfficial/mc-translations](https://github.com/TKFRvisionOfficial/mc-translations) - Translations for various minecraftt mods. (4 days ago)
-- [TKFRvisionOfficial/allpalmsarebeautiful](https://github.com/TKFRvisionOfficial/allpalmsarebeautiful) (4 days ago)
+- [not4y/mc-translations](https://github.com/not4y/mc-translations) - Translations for various minecraft mods. (3 days ago)
+- [MarcelCoding/trainworld](https://github.com/MarcelCoding/trainworld) - a mc modpack (4 days ago)
+- [TKFRvisionOfficial/allpalmsarebeautiful](https://github.com/TKFRvisionOfficial/allpalmsarebeautiful) (5 days ago)
+- [offsetting/offsetting](https://github.com/offsetting/offsetting) (3 weeks ago)
 
 ### ☠ My latest junk
 
-- [TKFRvisionOfficial/mc-translations](https://github.com/TKFRvisionOfficial/mc-translations) - Translations for various minecraftt mods.
 - [TKFRvisionOfficial/allpalmsarebeautiful](https://github.com/TKFRvisionOfficial/allpalmsarebeautiful)
 - [TKFRvisionOfficial/Cars2TheVideoGameModding](https://github.com/TKFRvisionOfficial/Cars2TheVideoGameModding) - Tools for modding Cars 2: The Video Game and other Avalanche games like Toy Story 3 or Disney Infinity.
 - [TKFRvisionOfficial/bszet_substitution_plan](https://github.com/TKFRvisionOfficial/bszet_substitution_plan) - Parsing and Image creation service of the BSZET substitution plan bot
 - [TKFRvisionOfficial/lernsax-webweaver-iglogger](https://github.com/TKFRvisionOfficial/lernsax-webweaver-iglogger) - integrate iglogger to the json_rpc api of the lernsax app
+- [TKFRvisionOfficial/lernsax-webweaver-api-research](https://github.com/TKFRvisionOfficial/lernsax-webweaver-api-research) - Researching the lernsax/webweaver api
 
 ### 🔭 Latest releases I've contributed to
 
@@ -44,7 +44,7 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 
 ### 🔨 Latest Pull Requests I published
 
-- [Restructured internals](https://github.com/TKFRvisionOfficial/bszet_substitution_plan/pull/47) on [TKFRvisionOfficial/bszet_substitution_plan](https://github.com/TKFRvisionOfficial/bszet_substitution_plan) (1 day ago)
+- [Restructured internals](https://github.com/TKFRvisionOfficial/bszet_substitution_plan/pull/47) on [TKFRvisionOfficial/bszet_substitution_plan](https://github.com/TKFRvisionOfficial/bszet_substitution_plan) (2 days ago)
 - [Fixing path issues](https://github.com/offsetting/soiboy/pull/4) on [offsetting/soiboy](https://github.com/offsetting/soiboy) (4 weeks ago)
 - [added scene_dec, scene_enc, whyjustwhy and revamp the whole source structure](https://github.com/TKFRvisionOfficial/Cars2TheVideoGameModding/pull/2) on [TKFRvisionOfficial/Cars2TheVideoGameModding](https://github.com/TKFRvisionOfficial/Cars2TheVideoGameModding) (1 month ago)
 - [stupid ](https://github.com/TKFRvisionOfficial/Cars2TheVideoGameModding/pull/1) on [TKFRvisionOfficial/Cars2TheVideoGameModding](https://github.com/TKFRvisionOfficial/Cars2TheVideoGameModding) (1 month ago)
