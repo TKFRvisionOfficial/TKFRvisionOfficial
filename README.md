@@ -22,11 +22,11 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 
 ### 😓 Check out what I'm currently struggling at
 
-- [TKFRvisionOfficial/bszet_substitution_plan](https://github.com/TKFRvisionOfficial/bszet_substitution_plan) - Parsing and Image creation service of the BSZET substitution plan bot (1 day ago)
-- [MarcelCoding/trainworld](https://github.com/MarcelCoding/trainworld) - a mc modpack (2 days ago)
-- [not4y/mc-translations](https://github.com/not4y/mc-translations) - Translations for various minecraft mods. (5 days ago)
+- [MarcelCoding/trainworld](https://github.com/MarcelCoding/trainworld) - a mc modpack (1 day ago)
+- [TKFRvisionOfficial/bszet_substitution_plan](https://github.com/TKFRvisionOfficial/bszet_substitution_plan) - Parsing and Image creation service of the BSZET substitution plan bot (2 days ago)
+- [not4y/mc-translations](https://github.com/not4y/mc-translations) - Translations for various minecraft mods. (6 days ago)
 - [TKFRvisionOfficial/allpalmsarebeautiful](https://github.com/TKFRvisionOfficial/allpalmsarebeautiful) - Minecraft Mod for adding Tropicraft Coconuts to BYG Palm Trees (1 week ago)
-- [offsetting/offsetting](https://github.com/offsetting/offsetting) (4 weeks ago)
+- [offsetting/offsetting](https://github.com/offsetting/offsetting) (1 month ago)
 
 ### ☠ My latest junk
 
@@ -38,13 +38,13 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 
 ### 🔭 Latest releases I've contributed to
 
-- [offsetting/offsetting](https://github.com/offsetting/offsetting) ([v0.1.0](https://github.com/offsetting/offsetting/releases/tag/v0.1.0), 4 weeks ago)
+- [offsetting/offsetting](https://github.com/offsetting/offsetting) ([v0.1.0](https://github.com/offsetting/offsetting/releases/tag/v0.1.0), 1 month ago)
 - [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) ([v1.1.14](https://github.com/MarcelCoding/bszet-vplan/releases/tag/v1.1.14), 1 month ago) - Automatically monitors bszet dd timetable for changes and sends notifications.
 - [TKFRvisionOfficial/bszet_substitution_plan](https://github.com/TKFRvisionOfficial/bszet_substitution_plan) ([v1.0.6](https://github.com/TKFRvisionOfficial/bszet_substitution_plan/releases/tag/v1.0.6), 3 months ago) - Parsing and Image creation service of the BSZET substitution plan bot
 
 ### 🔨 Latest Pull Requests I published
 
-- [Restructured internals](https://github.com/TKFRvisionOfficial/bszet_substitution_plan/pull/47) on [TKFRvisionOfficial/bszet_substitution_plan](https://github.com/TKFRvisionOfficial/bszet_substitution_plan) (4 days ago)
+- [Restructured internals](https://github.com/TKFRvisionOfficial/bszet_substitution_plan/pull/47) on [TKFRvisionOfficial/bszet_substitution_plan](https://github.com/TKFRvisionOfficial/bszet_substitution_plan) (5 days ago)
 - [Fixing path issues](https://github.com/offsetting/soiboy/pull/4) on [offsetting/soiboy](https://github.com/offsetting/soiboy) (1 month ago)
 - [added scene_dec, scene_enc, whyjustwhy and revamp the whole source structure](https://github.com/TKFRvisionOfficial/Cars2TheVideoGameModding/pull/2) on [TKFRvisionOfficial/Cars2TheVideoGameModding](https://github.com/TKFRvisionOfficial/Cars2TheVideoGameModding) (1 month ago)
 - [stupid ](https://github.com/TKFRvisionOfficial/Cars2TheVideoGameModding/pull/1) on [TKFRvisionOfficial/Cars2TheVideoGameModding](https://github.com/TKFRvisionOfficial/Cars2TheVideoGameModding) (1 month ago)
