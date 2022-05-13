@@ -20,7 +20,7 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 [![Repos](https://badges.pufler.dev/repos/TKFRvisionOfficial?style=flat-square&color=black&logo=github)](https://github.com/TKFRvisionOfficial?tab=repositories)
 [![Monthly Commits](https://badges.pufler.dev/commits/monthly/TKFRvisionOfficial?style=flat-square&color=black&logo=github)](https://github.com/TKFRvisionOfficial)
 
-### 😓 Check out what I'm currently struggling at
+### 🥴 Check out what I'm currently messing with
 {{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} ({{humanize .OccurredAt}})
 {{- end}}
