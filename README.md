@@ -22,10 +22,10 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 
 ### 🥴 Check out what I'm currently messing with
 
-- [not4y/mc-translations](https://github.com/not4y/mc-translations) - Translations for various minecraft mods. (today)
-- [MarcelCoding/trainworld](https://github.com/MarcelCoding/trainworld) - a mc modpack (2 days ago)
-- [offsetting/just-enough-energetics](https://github.com/offsetting/just-enough-energetics) - 1.16 fork of Just Enough Energetics (2 days ago)
-- [TKFRvisionOfficial/bszet_substitution_plan](https://github.com/TKFRvisionOfficial/bszet_substitution_plan) - Parsing and Image creation service of the BSZET substitution plan bot (6 days ago)
+- [not4y/mc-translations](https://github.com/not4y/mc-translations) - Translations for various minecraft mods. (1 day ago)
+- [MarcelCoding/trainworld](https://github.com/MarcelCoding/trainworld) - a mc modpack (3 days ago)
+- [offsetting/just-enough-energetics](https://github.com/offsetting/just-enough-energetics) - 1.16 fork of Just Enough Energetics (3 days ago)
+- [TKFRvisionOfficial/bszet_substitution_plan](https://github.com/TKFRvisionOfficial/bszet_substitution_plan) - Parsing and Image creation service of the BSZET substitution plan bot (1 week ago)
 - [TKFRvisionOfficial/allpalmsarebeautiful](https://github.com/TKFRvisionOfficial/allpalmsarebeautiful) - Minecraft Mod for adding Tropicraft Coconuts to BYG Palm Trees (1 week ago)
 
 ### ☠ My latest junk
@@ -44,7 +44,7 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 
 ### 🔨 Latest Pull Requests I published
 
-- [Added FE/RF Ring and other things.](https://github.com/DenisMasterHerobrine/AngelRing/pull/27) on [DenisMasterHerobrine/AngelRing](https://github.com/DenisMasterHerobrine/AngelRing) (today)
+- [Added FE/RF Ring and other things.](https://github.com/DenisMasterHerobrine/AngelRing/pull/27) on [DenisMasterHerobrine/AngelRing](https://github.com/DenisMasterHerobrine/AngelRing) (1 day ago)
 - [Restructured internals](https://github.com/TKFRvisionOfficial/bszet_substitution_plan/pull/47) on [TKFRvisionOfficial/bszet_substitution_plan](https://github.com/TKFRvisionOfficial/bszet_substitution_plan) (1 week ago)
 - [Fixing path issues](https://github.com/offsetting/soiboy/pull/4) on [offsetting/soiboy](https://github.com/offsetting/soiboy) (1 month ago)
 - [added scene_dec, scene_enc, whyjustwhy and revamp the whole source structure](https://github.com/TKFRvisionOfficial/Cars2TheVideoGameModding/pull/2) on [TKFRvisionOfficial/Cars2TheVideoGameModding](https://github.com/TKFRvisionOfficial/Cars2TheVideoGameModding) (1 month ago)
@@ -53,7 +53,7 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 ### ⭐ Recent stars
 
 - [NCDyson/RareView](https://github.com/NCDyson/RareView) - Model Viewer / Editor for Xbox360 games by Rare(ware) (1 month ago)
-- [itsmeft24/cars-research](https://github.com/itsmeft24/cars-research) - Researching the Cars games developed by Rainbow Studios and Incinerator Studios. (1 month ago)
+- [itsmeft24/cars-research](https://github.com/itsmeft24/cars-research) - Researching the Cars games developed by Rainbow Studios and Incinerator Studios. (2 months ago)
 - [bozbez/win-capture-audio](https://github.com/bozbez/win-capture-audio) - An OBS plugin that allows capture of independant application audio streams on Windows, in a similar fashion to OBS&#39;s game capture and Discord&#39;s application streaming. (4 months ago)
 - [MarcelCoding/dust](https://github.com/MarcelCoding/dust) (4 months ago)
-- [B0N3head/Leuraks-Secret-Sause](https://github.com/B0N3head/Leuraks-Secret-Sause) - Most of Leurak&#39;s Malware source code (4 months ago)
+- [B0N3head/Leuraks-Secret-Sause](https://github.com/B0N3head/Leuraks-Secret-Sause) - Most of Leurak&#39;s Malware source code (5 months ago)
