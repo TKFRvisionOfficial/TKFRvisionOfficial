@@ -7,7 +7,7 @@
 
 My name is **Klemens**. I do things!
 <br><br>
-I mainly do Python things. But I also do *insert language/technolagy/framework here* things.
+I mainly do Python things. But I also do *insert language/technology/framework here* things.
 <br>
 I do binary reverse engineering things, parsing things, but also API things.
 
