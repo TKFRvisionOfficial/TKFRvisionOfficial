@@ -22,9 +22,9 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 
 ### 🥴 Check out what I'm currently messing with
 
-- [not4y/mc-translations](https://github.com/not4y/mc-translations) - Translations for various minecraft mods. (4 days ago)
-- [MarcelCoding/trainworld](https://github.com/MarcelCoding/trainworld) - a mc modpack (6 days ago)
-- [offsetting/just-enough-energetics](https://github.com/offsetting/just-enough-energetics) - 1.16 fork of Just Enough Energetics (6 days ago)
+- [not4y/mc-translations](https://github.com/not4y/mc-translations) - Translations for various minecraft mods. (5 days ago)
+- [MarcelCoding/trainworld](https://github.com/MarcelCoding/trainworld) - a mc modpack (1 week ago)
+- [offsetting/just-enough-energetics](https://github.com/offsetting/just-enough-energetics) - 1.16 fork of Just Enough Energetics (1 week ago)
 - [TKFRvisionOfficial/bszet_substitution_plan](https://github.com/TKFRvisionOfficial/bszet_substitution_plan) - Parsing and Image creation service of the BSZET substitution plan bot (1 week ago)
 - [TKFRvisionOfficial/allpalmsarebeautiful](https://github.com/TKFRvisionOfficial/allpalmsarebeautiful) - Minecraft Mod for adding Tropicraft Coconuts to BYG Palm Trees (2 weeks ago)
 
@@ -44,11 +44,11 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 
 ### 🔨 Latest Pull Requests I published
 
-- [Added FE/RF Ring and other things.](https://github.com/DenisMasterHerobrine/AngelRing/pull/27) on [DenisMasterHerobrine/AngelRing](https://github.com/DenisMasterHerobrine/AngelRing) (4 days ago)
-- [Restructured internals](https://github.com/TKFRvisionOfficial/bszet_substitution_plan/pull/47) on [TKFRvisionOfficial/bszet_substitution_plan](https://github.com/TKFRvisionOfficial/bszet_substitution_plan) (1 week ago)
+- [Added FE/RF Ring and other things.](https://github.com/DenisMasterHerobrine/AngelRing/pull/27) on [DenisMasterHerobrine/AngelRing](https://github.com/DenisMasterHerobrine/AngelRing) (5 days ago)
+- [Restructured internals](https://github.com/TKFRvisionOfficial/bszet_substitution_plan/pull/47) on [TKFRvisionOfficial/bszet_substitution_plan](https://github.com/TKFRvisionOfficial/bszet_substitution_plan) (2 weeks ago)
 - [Fixing path issues](https://github.com/offsetting/soiboy/pull/4) on [offsetting/soiboy](https://github.com/offsetting/soiboy) (1 month ago)
-- [added scene_dec, scene_enc, whyjustwhy and revamp the whole source structure](https://github.com/TKFRvisionOfficial/Cars2TheVideoGameModding/pull/2) on [TKFRvisionOfficial/Cars2TheVideoGameModding](https://github.com/TKFRvisionOfficial/Cars2TheVideoGameModding) (1 month ago)
-- [stupid ](https://github.com/TKFRvisionOfficial/Cars2TheVideoGameModding/pull/1) on [TKFRvisionOfficial/Cars2TheVideoGameModding](https://github.com/TKFRvisionOfficial/Cars2TheVideoGameModding) (1 month ago)
+- [added scene_dec, scene_enc, whyjustwhy and revamp the whole source structure](https://github.com/TKFRvisionOfficial/Cars2TheVideoGameModding/pull/2) on [TKFRvisionOfficial/Cars2TheVideoGameModding](https://github.com/TKFRvisionOfficial/Cars2TheVideoGameModding) (2 months ago)
+- [stupid ](https://github.com/TKFRvisionOfficial/Cars2TheVideoGameModding/pull/1) on [TKFRvisionOfficial/Cars2TheVideoGameModding](https://github.com/TKFRvisionOfficial/Cars2TheVideoGameModding) (2 months ago)
 
 ### ⭐ Recent stars
 
