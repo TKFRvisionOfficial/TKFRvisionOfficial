@@ -22,7 +22,7 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 
 ### 🥴 Check out what I'm currently messing with
 
-- [MarcelCoding/trainworld](https://github.com/MarcelCoding/trainworld) - a mc modpack (2 days ago)
+- [MarcelCoding/trainworld](https://github.com/MarcelCoding/trainworld) - a mc modpack (1 day ago)
 - [not4y/mc-translations](https://github.com/not4y/mc-translations) - Translations for various minecraft mods. (1 week ago)
 - [offsetting/just-enough-energetics](https://github.com/offsetting/just-enough-energetics) - 1.16 fork of Just Enough Energetics (2 weeks ago)
 - [TKFRvisionOfficial/bszet_substitution_plan](https://github.com/TKFRvisionOfficial/bszet_substitution_plan) - Parsing and Image creation service of the BSZET substitution plan bot (2 weeks ago)
@@ -40,7 +40,7 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 
 - [offsetting/offsetting](https://github.com/offsetting/offsetting) ([v0.1.0](https://github.com/offsetting/offsetting/releases/tag/v0.1.0), 1 month ago)
 - [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) ([v1.1.14](https://github.com/MarcelCoding/bszet-vplan/releases/tag/v1.1.14), 1 month ago) - Automatically monitors bszet dd timetable for changes and sends notifications.
-- [TKFRvisionOfficial/bszet_substitution_plan](https://github.com/TKFRvisionOfficial/bszet_substitution_plan) ([v1.0.6](https://github.com/TKFRvisionOfficial/bszet_substitution_plan/releases/tag/v1.0.6), 3 months ago) - Parsing and Image creation service of the BSZET substitution plan bot
+- [TKFRvisionOfficial/bszet_substitution_plan](https://github.com/TKFRvisionOfficial/bszet_substitution_plan) ([v1.0.6](https://github.com/TKFRvisionOfficial/bszet_substitution_plan/releases/tag/v1.0.6), 4 months ago) - Parsing and Image creation service of the BSZET substitution plan bot
 
 ### 🔨 Latest Pull Requests I published
 
