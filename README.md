@@ -22,7 +22,7 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 
 ### 🥴 Check out what I'm currently messing with
 
-- [MarcelCoding/trainworld](https://github.com/MarcelCoding/trainworld) - a mc modpack (4 days ago)
+- [MarcelCoding/trainworld](https://github.com/MarcelCoding/trainworld) - a mc modpack (5 days ago)
 - [not4y/mc-translations](https://github.com/not4y/mc-translations) - Translations for various minecraft mods. (2 weeks ago)
 - [offsetting/just-enough-energetics](https://github.com/offsetting/just-enough-energetics) - 1.16 fork of Just Enough Energetics (2 weeks ago)
 - [TKFRvisionOfficial/bszet_substitution_plan](https://github.com/TKFRvisionOfficial/bszet_substitution_plan) - Parsing and Image creation service of the BSZET substitution plan bot (3 weeks ago)
