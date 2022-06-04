@@ -25,7 +25,7 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 - [MarcelCoding/trainworld](https://github.com/MarcelCoding/trainworld) - a mc modpack (1 week ago)
 - [not4y/mc-translations](https://github.com/not4y/mc-translations) - Translations for various minecraft mods. (3 weeks ago)
 - [offsetting/just-enough-energetics](https://github.com/offsetting/just-enough-energetics) - 1.16 fork of Just Enough Energetics (3 weeks ago)
-- [TKFRvisionOfficial/bszet_substitution_plan](https://github.com/TKFRvisionOfficial/bszet_substitution_plan) - Parsing and Image creation service of the BSZET substitution plan bot (3 weeks ago)
+- [TKFRvisionOfficial/bszet_substitution_plan](https://github.com/TKFRvisionOfficial/bszet_substitution_plan) - Parsing and Image creation service of the BSZET substitution plan bot (4 weeks ago)
 - [TKFRvisionOfficial/allpalmsarebeautiful](https://github.com/TKFRvisionOfficial/allpalmsarebeautiful) - Minecraft Mod for adding Tropicraft Coconuts to BYG Palm Trees (1 month ago)
 
 ### ☠ My latest junk
@@ -39,7 +39,7 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 ### 🔭 Latest releases I've contributed to
 
 - [offsetting/offsetting](https://github.com/offsetting/offsetting) ([v0.1.0](https://github.com/offsetting/offsetting/releases/tag/v0.1.0), 1 month ago)
-- [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) ([v1.1.14](https://github.com/MarcelCoding/bszet-vplan/releases/tag/v1.1.14), 1 month ago) - Automatically monitors bszet dd timetable for changes and sends notifications.
+- [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) ([v1.1.14](https://github.com/MarcelCoding/bszet-vplan/releases/tag/v1.1.14), 2 months ago) - Automatically monitors bszet dd timetable for changes and sends notifications.
 - [TKFRvisionOfficial/bszet_substitution_plan](https://github.com/TKFRvisionOfficial/bszet_substitution_plan) ([v1.0.6](https://github.com/TKFRvisionOfficial/bszet_substitution_plan/releases/tag/v1.0.6), 4 months ago) - Parsing and Image creation service of the BSZET substitution plan bot
 
 ### 🔨 Latest Pull Requests I published
