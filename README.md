@@ -44,16 +44,16 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 
 ### 🔨 Latest Pull Requests I published
 
+- [Added QRCodeHandler with Binary Data](https://github.com/rmtmckenzie/flutter_qr_mobile_vision/pull/199) on [rmtmckenzie/flutter_qr_mobile_vision](https://github.com/rmtmckenzie/flutter_qr_mobile_vision) (1 day ago)
 - [Added FE/RF Ring and other things.](https://github.com/DenisMasterHerobrine/AngelRing/pull/27) on [DenisMasterHerobrine/AngelRing](https://github.com/DenisMasterHerobrine/AngelRing) (3 weeks ago)
 - [Restructured internals](https://github.com/TKFRvisionOfficial/bszet_substitution_plan/pull/47) on [TKFRvisionOfficial/bszet_substitution_plan](https://github.com/TKFRvisionOfficial/bszet_substitution_plan) (1 month ago)
 - [Fixing path issues](https://github.com/offsetting/soiboy/pull/4) on [offsetting/soiboy](https://github.com/offsetting/soiboy) (2 months ago)
 - [added scene_dec, scene_enc, whyjustwhy and revamp the whole source structure](https://github.com/TKFRvisionOfficial/Cars2TheVideoGameModding/pull/2) on [TKFRvisionOfficial/Cars2TheVideoGameModding](https://github.com/TKFRvisionOfficial/Cars2TheVideoGameModding) (2 months ago)
-- [stupid ](https://github.com/TKFRvisionOfficial/Cars2TheVideoGameModding/pull/1) on [TKFRvisionOfficial/Cars2TheVideoGameModding](https://github.com/TKFRvisionOfficial/Cars2TheVideoGameModding) (2 months ago)
 
 ### ⭐ Recent stars
 
 - [NCDyson/RareView](https://github.com/NCDyson/RareView) - Model Viewer / Editor for Xbox360 games by Rare(ware) (2 months ago)
 - [itsmeft24/cars-research](https://github.com/itsmeft24/cars-research) - Researching the Cars games developed by Rainbow Studios and Incinerator Studios. (2 months ago)
-- [bozbez/win-capture-audio](https://github.com/bozbez/win-capture-audio) - An OBS plugin that allows capture of independant application audio streams on Windows, in a similar fashion to OBS&#39;s game capture and Discord&#39;s application streaming. (4 months ago)
+- [bozbez/win-capture-audio](https://github.com/bozbez/win-capture-audio) - An OBS plugin that allows capture of independant application audio streams on Windows, in a similar fashion to OBS&#39;s game capture and Discord&#39;s application streaming. (5 months ago)
 - [MarcelCoding/dust](https://github.com/MarcelCoding/dust) (5 months ago)
 - [B0N3head/Leuraks-Secret-Sause](https://github.com/B0N3head/Leuraks-Secret-Sause) - Most of Leurak&#39;s Malware source code (5 months ago)
