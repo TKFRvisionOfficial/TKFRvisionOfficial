@@ -23,8 +23,8 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 ### 🥴 Check out what I'm currently messing with
 
 - [MarcelCoding/trainworld](https://github.com/MarcelCoding/trainworld) - a mc modpack (2 weeks ago)
-- [not4y/mc-translations](https://github.com/not4y/mc-translations) - Translations for various minecraft mods. (3 weeks ago)
-- [offsetting/just-enough-energetics](https://github.com/offsetting/just-enough-energetics) - 1.16 fork of Just Enough Energetics (4 weeks ago)
+- [not4y/mc-translations](https://github.com/not4y/mc-translations) - Translations for various minecraft mods. (4 weeks ago)
+- [offsetting/just-enough-energetics](https://github.com/offsetting/just-enough-energetics) - 1.16 fork of Just Enough Energetics (1 month ago)
 - [TKFRvisionOfficial/bszet_substitution_plan](https://github.com/TKFRvisionOfficial/bszet_substitution_plan) - Parsing and Image creation service of the BSZET substitution plan bot (1 month ago)
 - [TKFRvisionOfficial/allpalmsarebeautiful](https://github.com/TKFRvisionOfficial/allpalmsarebeautiful) - Minecraft Mod for adding Tropicraft Coconuts to BYG Palm Trees (1 month ago)
 
@@ -44,8 +44,8 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 
 ### 🔨 Latest Pull Requests I published
 
-- [Added QRCodeHandler with Binary Data](https://github.com/rmtmckenzie/flutter_qr_mobile_vision/pull/199) on [rmtmckenzie/flutter_qr_mobile_vision](https://github.com/rmtmckenzie/flutter_qr_mobile_vision) (1 day ago)
-- [Added FE/RF Ring and other things.](https://github.com/DenisMasterHerobrine/AngelRing/pull/27) on [DenisMasterHerobrine/AngelRing](https://github.com/DenisMasterHerobrine/AngelRing) (3 weeks ago)
+- [Added QRCodeHandler with Binary Data](https://github.com/rmtmckenzie/flutter_qr_mobile_vision/pull/199) on [rmtmckenzie/flutter_qr_mobile_vision](https://github.com/rmtmckenzie/flutter_qr_mobile_vision) (2 days ago)
+- [Added FE/RF Ring and other things.](https://github.com/DenisMasterHerobrine/AngelRing/pull/27) on [DenisMasterHerobrine/AngelRing](https://github.com/DenisMasterHerobrine/AngelRing) (4 weeks ago)
 - [Restructured internals](https://github.com/TKFRvisionOfficial/bszet_substitution_plan/pull/47) on [TKFRvisionOfficial/bszet_substitution_plan](https://github.com/TKFRvisionOfficial/bszet_substitution_plan) (1 month ago)
 - [Fixing path issues](https://github.com/offsetting/soiboy/pull/4) on [offsetting/soiboy](https://github.com/offsetting/soiboy) (2 months ago)
 - [added scene_dec, scene_enc, whyjustwhy and revamp the whole source structure](https://github.com/TKFRvisionOfficial/Cars2TheVideoGameModding/pull/2) on [TKFRvisionOfficial/Cars2TheVideoGameModding](https://github.com/TKFRvisionOfficial/Cars2TheVideoGameModding) (2 months ago)
