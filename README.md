@@ -22,7 +22,7 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 
 ### 🥴 Check out what I'm currently messing with
 
-- [MarcelCoding/trainworld](https://github.com/MarcelCoding/trainworld) - a mc modpack (3 weeks ago)
+- [MarcelCoding/trainworld](https://github.com/MarcelCoding/trainworld) - a mc modpack (4 weeks ago)
 - [not4y/mc-translations](https://github.com/not4y/mc-translations) - Translations for various minecraft mods. (1 month ago)
 - [offsetting/just-enough-energetics](https://github.com/offsetting/just-enough-energetics) - 1.16 fork of Just Enough Energetics (1 month ago)
 - [TKFRvisionOfficial/bszet_substitution_plan](https://github.com/TKFRvisionOfficial/bszet_substitution_plan) - Parsing and Image creation service of the BSZET substitution plan bot (1 month ago)
@@ -44,14 +44,14 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 ### 🔨 Latest Pull Requests I published
 
 - [Fixing Hot Reload](https://github.com/rmtmckenzie/flutter_qr_mobile_vision/pull/202) on [rmtmckenzie/flutter_qr_mobile_vision](https://github.com/rmtmckenzie/flutter_qr_mobile_vision) (1 week ago)
-- [Added QRCodeHandler with Binary Data](https://github.com/rmtmckenzie/flutter_qr_mobile_vision/pull/199) on [rmtmckenzie/flutter_qr_mobile_vision](https://github.com/rmtmckenzie/flutter_qr_mobile_vision) (1 week ago)
+- [Added QRCodeHandler with Binary Data](https://github.com/rmtmckenzie/flutter_qr_mobile_vision/pull/199) on [rmtmckenzie/flutter_qr_mobile_vision](https://github.com/rmtmckenzie/flutter_qr_mobile_vision) (2 weeks ago)
 - [Added FE/RF Ring and other things.](https://github.com/DenisMasterHerobrine/AngelRing/pull/27) on [DenisMasterHerobrine/AngelRing](https://github.com/DenisMasterHerobrine/AngelRing) (1 month ago)
 - [Restructured internals](https://github.com/TKFRvisionOfficial/bszet_substitution_plan/pull/47) on [TKFRvisionOfficial/bszet_substitution_plan](https://github.com/TKFRvisionOfficial/bszet_substitution_plan) (1 month ago)
 - [Fixing path issues](https://github.com/offsetting/soiboy/pull/4) on [offsetting/soiboy](https://github.com/offsetting/soiboy) (2 months ago)
 
 ### ⭐ Recent stars
 
-- [NCDyson/RareView](https://github.com/NCDyson/RareView) - Model Viewer / Editor for Xbox360 games by Rare(ware) (2 months ago)
+- [NCDyson/RareView](https://github.com/NCDyson/RareView) - Model Viewer / Editor for Xbox360 games by Rare(ware) (3 months ago)
 - [itsmeft24/cars-research](https://github.com/itsmeft24/cars-research) - Researching the Cars games developed by Rainbow Studios and Incinerator Studios. (3 months ago)
 - [bozbez/win-capture-audio](https://github.com/bozbez/win-capture-audio) - An OBS plugin that allows capture of independant application audio streams on Windows, in a similar fashion to OBS&#39;s game capture and Discord&#39;s application streaming. (5 months ago)
 - [MarcelCoding/dust](https://github.com/MarcelCoding/dust) (6 months ago)
