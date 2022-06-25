@@ -39,7 +39,7 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 ### 🔭 Latest releases I've contributed to
 
 - [offsetting/offsetting](https://github.com/offsetting/offsetting) ([v0.1.0](https://github.com/offsetting/offsetting/releases/tag/v0.1.0), 2 months ago)
-- [TKFRvisionOfficial/bszet_substitution_plan](https://github.com/TKFRvisionOfficial/bszet_substitution_plan) ([v1.0.6](https://github.com/TKFRvisionOfficial/bszet_substitution_plan/releases/tag/v1.0.6), 4 months ago) - Parsing and Image creation service of the BSZET substitution plan bot
+- [TKFRvisionOfficial/bszet_substitution_plan](https://github.com/TKFRvisionOfficial/bszet_substitution_plan) ([v1.0.6](https://github.com/TKFRvisionOfficial/bszet_substitution_plan/releases/tag/v1.0.6), 5 months ago) - Parsing and Image creation service of the BSZET substitution plan bot
 
 ### 🔨 Latest Pull Requests I published
 
