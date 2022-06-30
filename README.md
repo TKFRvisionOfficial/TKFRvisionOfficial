@@ -26,7 +26,7 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 - [not4y/mc-translations](https://github.com/not4y/mc-translations) - Translations for various minecraft mods. (1 month ago)
 - [offsetting/just-enough-energetics](https://github.com/offsetting/just-enough-energetics) - 1.16 fork of Just Enough Energetics (1 month ago)
 - [TKFRvisionOfficial/bszet_substitution_plan](https://github.com/TKFRvisionOfficial/bszet_substitution_plan) - Parsing and Image creation service of the BSZET substitution plan bot (1 month ago)
-- [TKFRvisionOfficial/allpalmsarebeautiful](https://github.com/TKFRvisionOfficial/allpalmsarebeautiful) - Minecraft Mod for adding Tropicraft Coconuts to BYG Palm Trees (1 month ago)
+- [TKFRvisionOfficial/allpalmsarebeautiful](https://github.com/TKFRvisionOfficial/allpalmsarebeautiful) - Minecraft Mod for adding Tropicraft Coconuts to BYG Palm Trees (2 months ago)
 
 ### ☠ My latest junk
 
@@ -43,7 +43,7 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 
 ### 🔨 Latest Pull Requests I published
 
-- [Fixing Subject Mismatching](https://github.com/MarcelCoding/bszet-vplan/pull/131) on [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) (today)
+- [Fixing Subject Mismatching](https://github.com/MarcelCoding/bszet-vplan/pull/131) on [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) (1 day ago)
 - [Fixing Hot Reload](https://github.com/rmtmckenzie/flutter_qr_mobile_vision/pull/202) on [rmtmckenzie/flutter_qr_mobile_vision](https://github.com/rmtmckenzie/flutter_qr_mobile_vision) (2 weeks ago)
 - [Added QRCodeHandler with Binary Data](https://github.com/rmtmckenzie/flutter_qr_mobile_vision/pull/199) on [rmtmckenzie/flutter_qr_mobile_vision](https://github.com/rmtmckenzie/flutter_qr_mobile_vision) (3 weeks ago)
 - [Added FE/RF Ring and other things.](https://github.com/DenisMasterHerobrine/AngelRing/pull/27) on [DenisMasterHerobrine/AngelRing](https://github.com/DenisMasterHerobrine/AngelRing) (1 month ago)
