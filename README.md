@@ -38,7 +38,7 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 
 ### 🔭 Latest releases I've contributed to
 
-- [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) ([v1.2.3](https://github.com/MarcelCoding/bszet-vplan/releases/tag/v1.2.3), 4 days ago) - Automatically monitors bszet dd timetable for changes and sends notifications.
+- [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) ([v1.2.3](https://github.com/MarcelCoding/bszet-vplan/releases/tag/v1.2.3), 5 days ago) - Automatically monitors bszet dd timetable for changes and sends notifications.
 - [TKFRvisionOfficial/bszet_substitution_plan](https://github.com/TKFRvisionOfficial/bszet_substitution_plan) ([v1.0.8](https://github.com/TKFRvisionOfficial/bszet_substitution_plan/releases/tag/v1.0.8), 1 week ago) - Parsing and Image creation service of the BSZET substitution plan bot
 - [offsetting/offsetting](https://github.com/offsetting/offsetting) ([v0.1.0](https://github.com/offsetting/offsetting/releases/tag/v0.1.0), 3 months ago)
 
