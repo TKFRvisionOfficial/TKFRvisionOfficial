@@ -40,7 +40,7 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 
 - [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) ([v1.2.3](https://github.com/MarcelCoding/bszet-vplan/releases/tag/v1.2.3), 3 weeks ago) - Automatically monitors bszet dd timetable for changes and sends notifications.
 - [TKFRvisionOfficial/bszet_substitution_plan](https://github.com/TKFRvisionOfficial/bszet_substitution_plan) ([v1.0.8](https://github.com/TKFRvisionOfficial/bszet_substitution_plan/releases/tag/v1.0.8), 1 month ago) - Parsing and Image creation service of the BSZET substitution plan bot
-- [offsetting/offsetting](https://github.com/offsetting/offsetting) ([v0.1.0](https://github.com/offsetting/offsetting/releases/tag/v0.1.0), 3 months ago)
+- [offsetting/offsetting](https://github.com/offsetting/offsetting) ([v0.1.0](https://github.com/offsetting/offsetting/releases/tag/v0.1.0), 4 months ago)
 
 ### 🔨 Latest Pull Requests I published
 
@@ -48,7 +48,7 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 - [Fixed timetable not shown](https://github.com/MarcelCoding/bszet-vplan/pull/133) on [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) (1 month ago)
 - [Fixing Subject Mismatching](https://github.com/MarcelCoding/bszet-vplan/pull/131) on [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) (1 month ago)
 - [Fixing Hot Reload](https://github.com/rmtmckenzie/flutter_qr_mobile_vision/pull/202) on [rmtmckenzie/flutter_qr_mobile_vision](https://github.com/rmtmckenzie/flutter_qr_mobile_vision) (1 month ago)
-- [Added QRCodeHandler with Binary Data](https://github.com/rmtmckenzie/flutter_qr_mobile_vision/pull/199) on [rmtmckenzie/flutter_qr_mobile_vision](https://github.com/rmtmckenzie/flutter_qr_mobile_vision) (1 month ago)
+- [Added QRCodeHandler with Binary Data](https://github.com/rmtmckenzie/flutter_qr_mobile_vision/pull/199) on [rmtmckenzie/flutter_qr_mobile_vision](https://github.com/rmtmckenzie/flutter_qr_mobile_vision) (2 months ago)
 
 ### ⭐ Recent stars
 
