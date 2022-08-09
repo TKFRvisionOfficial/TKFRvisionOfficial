@@ -26,7 +26,7 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 - [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) - Automatically monitors bszet dd timetable for changes and sends notifications. (1 month ago)
 - [MarcelCoding/trainworld](https://github.com/MarcelCoding/trainworld) - a mc modpack (2 months ago)
 - [not4y/mc-translations](https://github.com/not4y/mc-translations) - Translations for various minecraft mods. (2 months ago)
-- [offsetting/just-enough-energetics](https://github.com/offsetting/just-enough-energetics) - 1.16 fork of Just Enough Energetics (2 months ago)
+- [offsetting/just-enough-energetics](https://github.com/offsetting/just-enough-energetics) - 1.16 fork of Just Enough Energetics (3 months ago)
 
 ### ☠ My latest junk
 
