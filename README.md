@@ -47,7 +47,7 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 - [Fixed timetable selection](https://github.com/MarcelCoding/bszet-vplan/pull/134) on [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) (1 month ago)
 - [Fixed timetable not shown](https://github.com/MarcelCoding/bszet-vplan/pull/133) on [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) (1 month ago)
 - [Fixing Subject Mismatching](https://github.com/MarcelCoding/bszet-vplan/pull/131) on [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) (1 month ago)
-- [Fixing Hot Reload](https://github.com/rmtmckenzie/flutter_qr_mobile_vision/pull/202) on [rmtmckenzie/flutter_qr_mobile_vision](https://github.com/rmtmckenzie/flutter_qr_mobile_vision) (1 month ago)
+- [Fixing Hot Reload](https://github.com/rmtmckenzie/flutter_qr_mobile_vision/pull/202) on [rmtmckenzie/flutter_qr_mobile_vision](https://github.com/rmtmckenzie/flutter_qr_mobile_vision) (2 months ago)
 - [Added QRCodeHandler with Binary Data](https://github.com/rmtmckenzie/flutter_qr_mobile_vision/pull/199) on [rmtmckenzie/flutter_qr_mobile_vision](https://github.com/rmtmckenzie/flutter_qr_mobile_vision) (2 months ago)
 
 ### ⭐ Recent stars
