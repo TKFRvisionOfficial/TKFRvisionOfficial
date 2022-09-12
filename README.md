@@ -38,7 +38,7 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 
 ### 🔭 Latest releases I've contributed to
 
-- [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) ([v1.2.9](https://github.com/MarcelCoding/bszet-vplan/releases/tag/v1.2.9), 2 days ago) - Automatically monitors bszet dd timetable for changes and sends notifications.
+- [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) ([v1.2.9](https://github.com/MarcelCoding/bszet-vplan/releases/tag/v1.2.9), 3 days ago) - Automatically monitors bszet dd timetable for changes and sends notifications.
 - [TKFRvisionOfficial/bszet_substitution_plan](https://github.com/TKFRvisionOfficial/bszet_substitution_plan) ([v1.0.8](https://github.com/TKFRvisionOfficial/bszet_substitution_plan/releases/tag/v1.0.8), 2 months ago) - Parsing and Image creation service of the BSZET substitution plan bot
 - [offsetting/offsetting](https://github.com/offsetting/offsetting) ([v0.1.0](https://github.com/offsetting/offsetting/releases/tag/v0.1.0), 5 months ago)
 
@@ -48,7 +48,7 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 - [Fixed timetable selection](https://github.com/MarcelCoding/bszet-vplan/pull/134) on [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) (2 months ago)
 - [Fixed timetable not shown](https://github.com/MarcelCoding/bszet-vplan/pull/133) on [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) (2 months ago)
 - [Fixing Subject Mismatching](https://github.com/MarcelCoding/bszet-vplan/pull/131) on [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) (2 months ago)
-- [Fixing Hot Reload](https://github.com/rmtmckenzie/flutter_qr_mobile_vision/pull/202) on [rmtmckenzie/flutter_qr_mobile_vision](https://github.com/rmtmckenzie/flutter_qr_mobile_vision) (2 months ago)
+- [Fixing Hot Reload](https://github.com/rmtmckenzie/flutter_qr_mobile_vision/pull/202) on [rmtmckenzie/flutter_qr_mobile_vision](https://github.com/rmtmckenzie/flutter_qr_mobile_vision) (3 months ago)
 
 ### ⭐ Recent stars
 
