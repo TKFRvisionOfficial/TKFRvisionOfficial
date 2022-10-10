@@ -22,7 +22,7 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 
 ### 🥴 Check out what I'm currently messing with
 
-- [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) - Automatically monitors the BSZET Dresden timetable for changes and sends change notifications.  (6 days ago)
+- [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) - Automatically monitors the BSZET Dresden timetable for changes and sends change notifications.  (today)
 - [TKFRvisionOfficial/pi-tables](https://github.com/TKFRvisionOfficial/pi-tables) (1 month ago)
 - [TKFRvisionOfficial/Cars2TheVideoGameModding](https://github.com/TKFRvisionOfficial/Cars2TheVideoGameModding) - Tools for modding Cars 2: The Video Game and other Avalanche games like Toy Story 3 or Disney Infinity. (1 month ago)
 - [TKFRvisionOfficial/bszet_substitution_plan](https://github.com/TKFRvisionOfficial/bszet_substitution_plan) - Parsing and Image creation service of the BSZET substitution plan bot (3 months ago)
@@ -44,11 +44,11 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 
 ### 🔨 Latest Pull Requests I published
 
+- [Added &#34;eng&#34; alias to EN_GK](https://github.com/MarcelCoding/bszet-vplan/pull/154) on [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) (today)
 - [Added missing iterations 2022/23](https://github.com/MarcelCoding/bszet-vplan/pull/152) on [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) (6 days ago)
 - [Added 2022/2023 iterations](https://github.com/MarcelCoding/bszet-vplan/pull/136) on [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) (1 month ago)
 - [Fixed timetable selection](https://github.com/MarcelCoding/bszet-vplan/pull/134) on [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) (3 months ago)
 - [Fixed timetable not shown](https://github.com/MarcelCoding/bszet-vplan/pull/133) on [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) (3 months ago)
-- [Fixing Subject Mismatching](https://github.com/MarcelCoding/bszet-vplan/pull/131) on [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) (3 months ago)
 
 ### ⭐ Recent stars
 
