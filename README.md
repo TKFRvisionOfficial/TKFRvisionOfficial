@@ -15,11 +15,6 @@ Lot's of my things are licensed "All Rights Reserved" but that is just laziness.
 
 If you want to follow me on other sites just go through my [<img alt="linktree" width="20px" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/h90nveymaytblh5fldz8" />](https://linktr.ee/tkfrvision).
 
-[![Visits](https://badges.pufler.dev/visits/TKFRvisionOfficial/TKFRvisionOfficial?style=flat-square&color=black&logo=github)](https://github.com/TKFRvisionOfficial)
-[![Years](https://badges.pufler.dev/years/TKFRvisionOfficial?style=flat-square&color=black&logo=github)](https://github.com/TKFRvisionOfficial)
-[![Repos](https://badges.pufler.dev/repos/TKFRvisionOfficial?style=flat-square&color=black&logo=github)](https://github.com/TKFRvisionOfficial?tab=repositories)
-[![Monthly Commits](https://badges.pufler.dev/commits/monthly/TKFRvisionOfficial?style=flat-square&color=black&logo=github)](https://github.com/TKFRvisionOfficial)
-
 ### 🥴 Check out what I'm currently messing with
 
 - [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) - Automatically monitors the BSZET Dresden timetable for changes and sends change notifications.  (1 day ago)
