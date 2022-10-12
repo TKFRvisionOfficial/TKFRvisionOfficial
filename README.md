@@ -17,10 +17,10 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 
 ### 🥴 Check out what I'm currently messing with
 
+- [TKFRvisionOfficial/bszet_substitution_plan](https://github.com/TKFRvisionOfficial/bszet_substitution_plan) - Parsing and Image creation service of the BSZET substitution plan bot (today)
 - [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) - Automatically monitors the BSZET Dresden timetable for changes and sends change notifications.  (2 days ago)
 - [TKFRvisionOfficial/pi-tables](https://github.com/TKFRvisionOfficial/pi-tables) (1 month ago)
 - [TKFRvisionOfficial/Cars2TheVideoGameModding](https://github.com/TKFRvisionOfficial/Cars2TheVideoGameModding) - Tools for modding Cars 2: The Video Game and other Avalanche games like Toy Story 3 or Disney Infinity. (1 month ago)
-- [TKFRvisionOfficial/bszet_substitution_plan](https://github.com/TKFRvisionOfficial/bszet_substitution_plan) - Parsing and Image creation service of the BSZET substitution plan bot (3 months ago)
 - [MarcelCoding/trainworld](https://github.com/MarcelCoding/trainworld) - a mc modpack (4 months ago)
 
 ### ☠ My latest junk
@@ -33,17 +33,17 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 
 ### 🔭 Latest releases I've contributed to
 
+- [TKFRvisionOfficial/bszet_substitution_plan](https://github.com/TKFRvisionOfficial/bszet_substitution_plan) ([v1.0.9](https://github.com/TKFRvisionOfficial/bszet_substitution_plan/releases/tag/v1.0.9), today) - Parsing and Image creation service of the BSZET substitution plan bot
 - [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) ([v1.2.15](https://github.com/MarcelCoding/bszet-vplan/releases/tag/v1.2.15), 2 days ago) - Automatically monitors the BSZET Dresden timetable for changes and sends change notifications. 
-- [TKFRvisionOfficial/bszet_substitution_plan](https://github.com/TKFRvisionOfficial/bszet_substitution_plan) ([v1.0.8](https://github.com/TKFRvisionOfficial/bszet_substitution_plan/releases/tag/v1.0.8), 3 months ago) - Parsing and Image creation service of the BSZET substitution plan bot
 - [offsetting/offsetting](https://github.com/offsetting/offsetting) ([v0.1.0](https://github.com/offsetting/offsetting/releases/tag/v0.1.0), 6 months ago)
 
 ### 🔨 Latest Pull Requests I published
 
+- [Removed image deletion after request](https://github.com/TKFRvisionOfficial/bszet_substitution_plan/pull/52) on [TKFRvisionOfficial/bszet_substitution_plan](https://github.com/TKFRvisionOfficial/bszet_substitution_plan) (today)
 - [Added &#34;eng&#34; alias to EN_GK](https://github.com/MarcelCoding/bszet-vplan/pull/154) on [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) (2 days ago)
 - [Added missing iterations 2022/23](https://github.com/MarcelCoding/bszet-vplan/pull/152) on [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) (1 week ago)
 - [Added 2022/2023 iterations](https://github.com/MarcelCoding/bszet-vplan/pull/136) on [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) (1 month ago)
 - [Fixed timetable selection](https://github.com/MarcelCoding/bszet-vplan/pull/134) on [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) (3 months ago)
-- [Fixed timetable not shown](https://github.com/MarcelCoding/bszet-vplan/pull/133) on [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) (3 months ago)
 
 ### ⭐ Recent stars
 
