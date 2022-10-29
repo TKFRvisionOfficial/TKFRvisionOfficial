@@ -42,7 +42,7 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 - [Removed image deletion after request](https://github.com/TKFRvisionOfficial/bszet_substitution_plan/pull/52) on [TKFRvisionOfficial/bszet_substitution_plan](https://github.com/TKFRvisionOfficial/bszet_substitution_plan) (2 weeks ago)
 - [Added &#34;eng&#34; alias to EN_GK](https://github.com/MarcelCoding/bszet-vplan/pull/154) on [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) (2 weeks ago)
 - [Added missing iterations 2022/23](https://github.com/MarcelCoding/bszet-vplan/pull/152) on [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) (3 weeks ago)
-- [Added 2022/2023 iterations](https://github.com/MarcelCoding/bszet-vplan/pull/136) on [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) (1 month ago)
+- [Added 2022/2023 iterations](https://github.com/MarcelCoding/bszet-vplan/pull/136) on [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) (2 months ago)
 - [Fixed timetable selection](https://github.com/MarcelCoding/bszet-vplan/pull/134) on [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) (3 months ago)
 
 ### ⭐ Recent stars
