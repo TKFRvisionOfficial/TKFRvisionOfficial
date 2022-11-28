@@ -33,7 +33,7 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 
 ### 🔭 Latest releases I've contributed to
 
-- [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) ([v1.2.17](https://github.com/MarcelCoding/bszet-vplan/releases/tag/v1.2.17), 4 days ago) - Automatically monitors the BSZET Dresden timetable for changes and sends change notifications. 
+- [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) ([v1.2.17](https://github.com/MarcelCoding/bszet-vplan/releases/tag/v1.2.17), 5 days ago) - Automatically monitors the BSZET Dresden timetable for changes and sends change notifications. 
 - [TKFRvisionOfficial/bszet_substitution_plan](https://github.com/TKFRvisionOfficial/bszet_substitution_plan) ([v1.0.9](https://github.com/TKFRvisionOfficial/bszet_substitution_plan/releases/tag/v1.0.9), 1 month ago) - Parsing and Image creation service of the BSZET substitution plan bot
 - [offsetting/offsetting](https://github.com/offsetting/offsetting) ([v0.1.0](https://github.com/offsetting/offsetting/releases/tag/v0.1.0), 7 months ago)
 
@@ -42,7 +42,7 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 - [Removed image deletion after request](https://github.com/TKFRvisionOfficial/bszet_substitution_plan/pull/52) on [TKFRvisionOfficial/bszet_substitution_plan](https://github.com/TKFRvisionOfficial/bszet_substitution_plan) (1 month ago)
 - [Added &#34;eng&#34; alias to EN_GK](https://github.com/MarcelCoding/bszet-vplan/pull/154) on [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) (1 month ago)
 - [Added missing iterations 2022/23](https://github.com/MarcelCoding/bszet-vplan/pull/152) on [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) (1 month ago)
-- [Added 2022/2023 iterations](https://github.com/MarcelCoding/bszet-vplan/pull/136) on [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) (2 months ago)
+- [Added 2022/2023 iterations](https://github.com/MarcelCoding/bszet-vplan/pull/136) on [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) (3 months ago)
 - [Fixed timetable selection](https://github.com/MarcelCoding/bszet-vplan/pull/134) on [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) (4 months ago)
 
 ### ⭐ Recent stars
