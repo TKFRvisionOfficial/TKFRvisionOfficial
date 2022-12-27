@@ -47,7 +47,7 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 
 ### ⭐ Recent stars
 
-- [dump-dvb/stasi](https://github.com/dump-dvb/stasi) - tracks your, bus and trams every move (2 weeks ago)
+- [dump-dvb/stasi](https://github.com/dump-dvb/stasi) - tracks your, bus and trams every move (3 weeks ago)
 - [NCDyson/RareView](https://github.com/NCDyson/RareView) - Model Viewer / Editor for Xbox360 games by Rare(ware) (9 months ago)
 - [itsmeft24/cars-research](https://github.com/itsmeft24/cars-research) - Researching the Cars games developed by Rainbow Studios and Incinerator Studios. (9 months ago)
 - [bozbez/win-capture-audio](https://github.com/bozbez/win-capture-audio) - An OBS plugin that allows capture of independant application audio streams on Windows, in a similar fashion to OBS&#39;s game capture and Discord&#39;s application streaming. (11 months ago)
