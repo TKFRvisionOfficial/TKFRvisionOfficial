@@ -39,11 +39,11 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 
 ### 🔨 Latest Pull Requests I published
 
+- [Added notification images](https://github.com/MarcelCoding/bszet-mind/pull/8) on [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) (today)
 - [Trying to comply with osm license rules 🤬](https://github.com/tlm-solutions/stasi/pull/12) on [tlm-solutions/stasi](https://github.com/tlm-solutions/stasi) (3 days ago)
 - [Added 15 o&#39;clock notification](https://github.com/MarcelCoding/bszet-mind/pull/6) on [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) (3 days ago)
 - [Fixed bound errors, upgraded flutter map to 3.1.0 and fixed gpx exporting problem](https://github.com/tlm-solutions/stasi/pull/7) on [tlm-solutions/stasi](https://github.com/tlm-solutions/stasi) (1 week ago)
 - [Recording editor and database refactoring](https://github.com/tlm-solutions/stasi/pull/4) on [tlm-solutions/stasi](https://github.com/tlm-solutions/stasi) (1 week ago)
-- [Initial Commit](https://github.com/tlm-solutions/stasi/pull/1) on [tlm-solutions/stasi](https://github.com/tlm-solutions/stasi) (1 month ago)
 
 ### ⭐ Recent stars
 
