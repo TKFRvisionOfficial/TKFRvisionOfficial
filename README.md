@@ -39,11 +39,11 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 
 ### 🔨 Latest Pull Requests I published
 
+- [Improvement of life patch and flutter 3.7.0 compatibility](https://github.com/tlm-solutions/stasi/pull/18) on [tlm-solutions/stasi](https://github.com/tlm-solutions/stasi) (today)
 - [Fixed &#34;Von ... verschoben&#34; and &#34;Auf ... verschoben&#34;](https://github.com/MarcelCoding/bszet-mind/pull/14) on [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) (2 days ago)
 - [Added api endpoint](https://github.com/MarcelCoding/bszet-mind/pull/10) on [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) (4 days ago)
 - [Added notification images](https://github.com/MarcelCoding/bszet-mind/pull/8) on [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) (6 days ago)
 - [Trying to comply with osm license rules 🤬](https://github.com/tlm-solutions/stasi/pull/12) on [tlm-solutions/stasi](https://github.com/tlm-solutions/stasi) (1 week ago)
-- [Added 15 o&#39;clock notification](https://github.com/MarcelCoding/bszet-mind/pull/6) on [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) (1 week ago)
 
 ### ⭐ Recent stars
 
