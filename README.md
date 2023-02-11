@@ -40,11 +40,11 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 
 ### 🔨 Latest Pull Requests I published
 
+- [Going Apache 2.0](https://github.com/offsetting/x-flipper-360/pull/2) on [offsetting/x-flipper-360](https://github.com/offsetting/x-flipper-360) (today)
 - [Improvement of life patch and flutter 3.7.0 compatibility](https://github.com/tlm-solutions/stasi/pull/18) on [tlm-solutions/stasi](https://github.com/tlm-solutions/stasi) (1 week ago)
 - [Fixed &#34;Von ... verschoben&#34; and &#34;Auf ... verschoben&#34;](https://github.com/MarcelCoding/bszet-mind/pull/14) on [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) (1 week ago)
 - [Added api endpoint](https://github.com/MarcelCoding/bszet-mind/pull/10) on [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) (1 week ago)
 - [Added notification images](https://github.com/MarcelCoding/bszet-mind/pull/8) on [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) (2 weeks ago)
-- [Trying to comply with osm license rules 🤬](https://github.com/tlm-solutions/stasi/pull/12) on [tlm-solutions/stasi](https://github.com/tlm-solutions/stasi) (2 weeks ago)
 
 ### ⭐ Recent stars
 
