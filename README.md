@@ -17,7 +17,7 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 
 ### 🥴 Check out what I'm currently messing with
 
-- [TKFRvisionOfficial/lernsax-webweaver-api-research](https://github.com/TKFRvisionOfficial/lernsax-webweaver-api-research) - Researching the lernsax/webweaver api (3 days ago)
+- [TKFRvisionOfficial/lernsax-webweaver-api-research](https://github.com/TKFRvisionOfficial/lernsax-webweaver-api-research) - Researching the lernsax/webweaver api (4 days ago)
 - [offsetting/indctive](https://github.com/offsetting/indctive) (1 week ago)
 - [offsetting/x-flipper-360](https://github.com/offsetting/x-flipper-360) - Converting Xbox 360 textures to dds and vice versa (2 weeks ago)
 - [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes. (4 weeks ago)
@@ -40,8 +40,8 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 
 ### 🔨 Latest Pull Requests I published
 
-- [Going Apache 2.0](https://github.com/offsetting/x-flipper-360/pull/2) on [offsetting/x-flipper-360](https://github.com/offsetting/x-flipper-360) (2 weeks ago)
-- [Improvement of life patch and flutter 3.7.0 compatibility](https://github.com/tlm-solutions/stasi/pull/18) on [tlm-solutions/stasi](https://github.com/tlm-solutions/stasi) (4 weeks ago)
+- [Going Apache 2.0](https://github.com/offsetting/x-flipper-360/pull/2) on [offsetting/x-flipper-360](https://github.com/offsetting/x-flipper-360) (3 weeks ago)
+- [Improvement of life patch and flutter 3.7.0 compatibility](https://github.com/tlm-solutions/stasi/pull/18) on [tlm-solutions/stasi](https://github.com/tlm-solutions/stasi) (1 month ago)
 - [Fixed &#34;Von ... verschoben&#34; and &#34;Auf ... verschoben&#34;](https://github.com/MarcelCoding/bszet-mind/pull/14) on [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) (1 month ago)
 - [Added api endpoint](https://github.com/MarcelCoding/bszet-mind/pull/10) on [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) (1 month ago)
 - [Added notification images](https://github.com/MarcelCoding/bszet-mind/pull/8) on [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) (1 month ago)
