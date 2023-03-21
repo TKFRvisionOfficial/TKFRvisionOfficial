@@ -19,7 +19,7 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 
 - [TKFRvisionOfficial/Cars2TheVideoGameModding](https://github.com/TKFRvisionOfficial/Cars2TheVideoGameModding) - Tools for modding Cars 2: The Video Game and other Avalanche games like Toy Story 3 or Disney Infinity. (1 week ago)
 - [offsetting/indctive](https://github.com/offsetting/indctive) - Rust library to read, edit, use and create .dct (DICT) files, like used in several Disney games like &#34;Cars 2: The Video Game&#34; or &#34;Epic Mickey&#34;. (1 week ago)
-- [TKFRvisionOfficial/lernsax-webweaver-api-research](https://github.com/TKFRvisionOfficial/lernsax-webweaver-api-research) - Researching the lernsax/webweaver api (2 weeks ago)
+- [TKFRvisionOfficial/lernsax-webweaver-api-research](https://github.com/TKFRvisionOfficial/lernsax-webweaver-api-research) - Researching the lernsax/webweaver api (3 weeks ago)
 - [offsetting/x-flipper-360](https://github.com/offsetting/x-flipper-360) - Converting Xbox 360 textures to dds and vice versa (1 month ago)
 - [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes. (1 month ago)
 
@@ -33,7 +33,7 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 
 ### 🔭 Latest releases I've contributed to
 
-- [offsetting/offsetting](https://github.com/offsetting/offsetting) ([v0.1.1](https://github.com/offsetting/offsetting/releases/tag/v0.1.1), today) - A collection of modding tools based on the libraries created by Team Offsetting.
+- [offsetting/offsetting](https://github.com/offsetting/offsetting) ([v0.1.1](https://github.com/offsetting/offsetting/releases/tag/v0.1.1), 1 day ago) - A collection of modding tools based on the libraries created by Team Offsetting.
 - [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) ([v0.1.4](https://github.com/MarcelCoding/bszet-mind/releases/tag/v0.1.4), 1 week ago) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes.
 - [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) ([v1.2.17](https://github.com/MarcelCoding/bszet-vplan/releases/tag/v1.2.17), 3 months ago) - Automatically monitors the BSZET Dresden timetable for changes and sends change notifications. 
 - [TKFRvisionOfficial/bszet_substitution_plan](https://github.com/TKFRvisionOfficial/bszet_substitution_plan) ([v1.0.9](https://github.com/TKFRvisionOfficial/bszet_substitution_plan/releases/tag/v1.0.9), 5 months ago) - Parsing and Image creation service of the BSZET substitution plan bot
