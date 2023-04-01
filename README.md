@@ -43,7 +43,7 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 - [Adding basic indctive integration](https://github.com/offsetting/offsetting/pull/2) on [offsetting/offsetting](https://github.com/offsetting/offsetting) (3 weeks ago)
 - [Going Apache 2.0](https://github.com/offsetting/x-flipper-360/pull/2) on [offsetting/x-flipper-360](https://github.com/offsetting/x-flipper-360) (1 month ago)
 - [Improvement of life patch and flutter 3.7.0 compatibility](https://github.com/tlm-solutions/stasi/pull/18) on [tlm-solutions/stasi](https://github.com/tlm-solutions/stasi) (1 month ago)
-- [Fixed &#34;Von ... verschoben&#34; and &#34;Auf ... verschoben&#34;](https://github.com/MarcelCoding/bszet-mind/pull/14) on [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) (1 month ago)
+- [Fixed &#34;Von ... verschoben&#34; and &#34;Auf ... verschoben&#34;](https://github.com/MarcelCoding/bszet-mind/pull/14) on [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) (2 months ago)
 - [Added api endpoint](https://github.com/MarcelCoding/bszet-mind/pull/10) on [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) (2 months ago)
 
 ### ⭐ Recent stars
