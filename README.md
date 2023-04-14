@@ -21,7 +21,7 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 - [offsetting/indctive](https://github.com/offsetting/indctive) - Rust library to read, edit, use and create .dct (DICT) files, like used in several Disney games like &#34;Cars 2: The Video Game&#34; or &#34;Epic Mickey&#34;. (1 month ago)
 - [TKFRvisionOfficial/Cars2TheVideoGameModding](https://github.com/TKFRvisionOfficial/Cars2TheVideoGameModding) - Tools for modding Cars 2: The Video Game and other Avalanche games like Toy Story 3 or Disney Infinity. (1 month ago)
 - [TKFRvisionOfficial/lernsax-webweaver-api-research](https://github.com/TKFRvisionOfficial/lernsax-webweaver-api-research) - Researching the lernsax/webweaver api (1 month ago)
-- [offsetting/x-flipper-360](https://github.com/offsetting/x-flipper-360) - Converting Xbox 360 textures to dds and vice versa (1 month ago)
+- [offsetting/x-flipper-360](https://github.com/offsetting/x-flipper-360) - Converting Xbox 360 textures to dds and vice versa (2 months ago)
 
 ### ☠ My latest junk
 
