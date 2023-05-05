@@ -17,9 +17,9 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 
 ### 🥴 Check out what I'm currently messing with
 
-- [TKFRvisionOfficial/Cars2TheVideoGameModding](https://github.com/TKFRvisionOfficial/Cars2TheVideoGameModding) - Tools for modding Cars 2: The Video Game and other Avalanche games like Toy Story 3 or Disney Infinity. (2 days ago)
-- [tlm-solutions/stasi](https://github.com/tlm-solutions/stasi) - tracks your, bus and trams every move (6 days ago)
-- [rmtmckenzie/flutter_qr_mobile_vision](https://github.com/rmtmckenzie/flutter_qr_mobile_vision) - QR reader plugin using mobile vision API for Flutter. (4 weeks ago)
+- [TKFRvisionOfficial/Cars2TheVideoGameModding](https://github.com/TKFRvisionOfficial/Cars2TheVideoGameModding) - Tools for modding Cars 2: The Video Game and other Avalanche games like Toy Story 3 or Disney Infinity. (3 days ago)
+- [tlm-solutions/stasi](https://github.com/tlm-solutions/stasi) - tracks your, bus and trams every move (1 week ago)
+- [rmtmckenzie/flutter_qr_mobile_vision](https://github.com/rmtmckenzie/flutter_qr_mobile_vision) - QR reader plugin using mobile vision API for Flutter. (1 month ago)
 - [offsetting/indctive](https://github.com/offsetting/indctive) - Rust library to read, edit, use and create .dct (DICT) files, like used in several Disney games like &#34;Cars 2: The Video Game&#34; or &#34;Epic Mickey&#34;. (1 month ago)
 - [TKFRvisionOfficial/lernsax-webweaver-api-research](https://github.com/TKFRvisionOfficial/lernsax-webweaver-api-research) - Researching the lernsax/webweaver api (2 months ago)
 
@@ -47,7 +47,7 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 
 ### ⭐ Recent stars
 
-- [tlm-solutions/stasi](https://github.com/tlm-solutions/stasi) - tracks your, bus and trams every move (4 months ago)
+- [tlm-solutions/stasi](https://github.com/tlm-solutions/stasi) - tracks your, bus and trams every move (5 months ago)
 - [NCDyson/RareView](https://github.com/NCDyson/RareView) - Model Viewer / Editor for Xbox360 games by Rare(ware) (1 year ago)
 - [itsmeft24/cars-research](https://github.com/itsmeft24/cars-research) - Researching the Cars games developed by Rainbow Studios and Incinerator Studios. (1 year ago)
 - [bozbez/win-capture-audio](https://github.com/bozbez/win-capture-audio) - An OBS plugin that allows capture of independant application audio streams on Windows, in a similar fashion to OBS&#39;s game capture and Discord&#39;s application streaming. (1 year ago)
