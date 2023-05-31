@@ -33,7 +33,7 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 
 ### 🔭 Latest releases I've contributed to
 
-- [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) ([v0.1.9](https://github.com/MarcelCoding/bszet-mind/releases/tag/v0.1.9), today) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes.
+- [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) ([v0.1.9](https://github.com/MarcelCoding/bszet-mind/releases/tag/v0.1.9), 1 day ago) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes.
 - [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) ([v1.2.17](https://github.com/MarcelCoding/bszet-vplan/releases/tag/v1.2.17), 6 months ago) - Automatically monitors the BSZET Dresden timetable for changes and sends change notifications. 
 - [TKFRvisionOfficial/bszet_substitution_plan](https://github.com/TKFRvisionOfficial/bszet_substitution_plan) ([v1.0.9](https://github.com/TKFRvisionOfficial/bszet_substitution_plan/releases/tag/v1.0.9), 7 months ago) - Parsing and Image creation service of the BSZET substitution plan bot
 
@@ -42,7 +42,7 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 - [Adding basic indctive integration](https://github.com/offsetting/offsetting/pull/2) on [offsetting/offsetting](https://github.com/offsetting/offsetting) (2 months ago)
 - [Going Apache 2.0](https://github.com/offsetting/x-flipper-360/pull/2) on [offsetting/x-flipper-360](https://github.com/offsetting/x-flipper-360) (3 months ago)
 - [Improvement of life patch and flutter 3.7.0 compatibility](https://github.com/tlm-solutions/stasi/pull/18) on [tlm-solutions/stasi](https://github.com/tlm-solutions/stasi) (3 months ago)
-- [Fixed &#34;Von ... verschoben&#34; and &#34;Auf ... verschoben&#34;](https://github.com/MarcelCoding/bszet-mind/pull/14) on [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) (3 months ago)
+- [Fixed &#34;Von ... verschoben&#34; and &#34;Auf ... verschoben&#34;](https://github.com/MarcelCoding/bszet-mind/pull/14) on [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) (4 months ago)
 - [Added api endpoint](https://github.com/MarcelCoding/bszet-mind/pull/10) on [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) (4 months ago)
 
 ### ⭐ Recent stars
