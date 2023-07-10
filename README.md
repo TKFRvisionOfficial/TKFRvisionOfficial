@@ -39,7 +39,7 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 
 ### 🔨 Latest Pull Requests I published
 
-- [Ported tracking to geolocator lib](https://github.com/tlm-solutions/stasi/pull/21) on [tlm-solutions/stasi](https://github.com/tlm-solutions/stasi) (1 day ago)
+- [Ported tracking to geolocator lib](https://github.com/tlm-solutions/stasi/pull/21) on [tlm-solutions/stasi](https://github.com/tlm-solutions/stasi) (2 days ago)
 - [Adding basic indctive integration](https://github.com/offsetting/offsetting/pull/2) on [offsetting/offsetting](https://github.com/offsetting/offsetting) (4 months ago)
 - [Going Apache 2.0](https://github.com/offsetting/x-flipper-360/pull/2) on [offsetting/x-flipper-360](https://github.com/offsetting/x-flipper-360) (4 months ago)
 - [Improvement of life patch and flutter 3.7.0 compatibility](https://github.com/tlm-solutions/stasi/pull/18) on [tlm-solutions/stasi](https://github.com/tlm-solutions/stasi) (5 months ago)
