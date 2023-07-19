@@ -39,10 +39,10 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 
 ### 🔨 Latest Pull Requests I published
 
+- [Static content endpoint](https://github.com/dd-ix/foundation/pull/1) on [dd-ix/foundation](https://github.com/dd-ix/foundation) (today)
 - [Translated (nearly) all the current strings to german](https://github.com/dd-ix/presence/pull/1) on [dd-ix/presence](https://github.com/dd-ix/presence) (3 days ago)
 - [Live tracking](https://github.com/tlm-solutions/stasi/pull/22) on [tlm-solutions/stasi](https://github.com/tlm-solutions/stasi) (5 days ago)
 - [Ported tracking to geolocator lib](https://github.com/tlm-solutions/stasi/pull/21) on [tlm-solutions/stasi](https://github.com/tlm-solutions/stasi) (1 week ago)
-- [Adding basic indctive integration](https://github.com/offsetting/offsetting/pull/2) on [offsetting/offsetting](https://github.com/offsetting/offsetting) (4 months ago)
 
 ### ⭐ Recent stars
 
