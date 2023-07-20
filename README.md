@@ -17,8 +17,8 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 
 ### 🥴 Check out what I'm currently messing with
 
-- [dd-ix/website-content](https://github.com/dd-ix/website-content) (today)
-- [dd-ix/presence](https://github.com/dd-ix/presence) (1 day ago)
+- [dd-ix/website-content](https://github.com/dd-ix/website-content) (1 day ago)
+- [dd-ix/presence](https://github.com/dd-ix/presence) (2 days ago)
 - [tlm-solutions/stasi](https://github.com/tlm-solutions/stasi) - tracks your, bus and trams every move (1 week ago)
 - [TKFRvisionOfficial/Cars2TheVideoGameModding](https://github.com/TKFRvisionOfficial/Cars2TheVideoGameModding) - Tools for modding Cars 2: The Video Game and other Avalanche games like Toy Story 3 or Disney Infinity. (2 months ago)
 - [rmtmckenzie/flutter_qr_mobile_vision](https://github.com/rmtmckenzie/flutter_qr_mobile_vision) - QR reader plugin using mobile vision API for Flutter. (3 months ago)
@@ -33,15 +33,15 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 
 ### 🔭 Latest releases I've contributed to
 
-- [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) ([v0.1.10](https://github.com/MarcelCoding/bszet-mind/releases/tag/v0.1.10), 4 weeks ago) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes.
+- [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) ([v0.1.10](https://github.com/MarcelCoding/bszet-mind/releases/tag/v0.1.10), 1 month ago) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes.
 - [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) ([v1.2.17](https://github.com/MarcelCoding/bszet-vplan/releases/tag/v1.2.17), 7 months ago) - Automatically monitors the BSZET Dresden timetable for changes and sends change notifications. 
 - [TKFRvisionOfficial/bszet_substitution_plan](https://github.com/TKFRvisionOfficial/bszet_substitution_plan) ([v1.0.9](https://github.com/TKFRvisionOfficial/bszet_substitution_plan/releases/tag/v1.0.9), 9 months ago) - Parsing and Image creation service of the BSZET substitution plan bot
 
 ### 🔨 Latest Pull Requests I published
 
-- [Static content endpoint](https://github.com/dd-ix/foundation/pull/1) on [dd-ix/foundation](https://github.com/dd-ix/foundation) (today)
-- [Translated (nearly) all the current strings to german](https://github.com/dd-ix/presence/pull/1) on [dd-ix/presence](https://github.com/dd-ix/presence) (3 days ago)
-- [Live tracking](https://github.com/tlm-solutions/stasi/pull/22) on [tlm-solutions/stasi](https://github.com/tlm-solutions/stasi) (5 days ago)
+- [Static content endpoint](https://github.com/dd-ix/foundation/pull/1) on [dd-ix/foundation](https://github.com/dd-ix/foundation) (1 day ago)
+- [Translated (nearly) all the current strings to german](https://github.com/dd-ix/presence/pull/1) on [dd-ix/presence](https://github.com/dd-ix/presence) (4 days ago)
+- [Live tracking](https://github.com/tlm-solutions/stasi/pull/22) on [tlm-solutions/stasi](https://github.com/tlm-solutions/stasi) (6 days ago)
 - [Ported tracking to geolocator lib](https://github.com/tlm-solutions/stasi/pull/21) on [tlm-solutions/stasi](https://github.com/tlm-solutions/stasi) (1 week ago)
 
 ### ⭐ Recent stars
