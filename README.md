@@ -39,11 +39,11 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 
 ### 🔨 Latest Pull Requests I published
 
+- [Allow dangerous content](https://github.com/dd-ix/foundation/pull/3) on [dd-ix/foundation](https://github.com/dd-ix/foundation) (today)
 - [News image support](https://github.com/dd-ix/foundation/pull/2) on [dd-ix/foundation](https://github.com/dd-ix/foundation) (today)
 - [Added documents download](https://github.com/dd-ix/presence/pull/3) on [dd-ix/presence](https://github.com/dd-ix/presence) (2 days ago)
 - [Made documents downloadable](https://github.com/dd-ix/foundation/pull/1) on [dd-ix/foundation](https://github.com/dd-ix/foundation) (3 days ago)
 - [Translated (nearly) all the current strings to german](https://github.com/dd-ix/presence/pull/1) on [dd-ix/presence](https://github.com/dd-ix/presence) (6 days ago)
-- [Live tracking](https://github.com/tlm-solutions/stasi/pull/22) on [tlm-solutions/stasi](https://github.com/tlm-solutions/stasi) (1 week ago)
 
 ### ⭐ Recent stars
 
