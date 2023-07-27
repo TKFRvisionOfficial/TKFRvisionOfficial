@@ -17,9 +17,9 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 
 ### 🥴 Check out what I'm currently messing with
 
-- [dd-ix/foundation](https://github.com/dd-ix/foundation) (today)
-- [dd-ix/website-content](https://github.com/dd-ix/website-content) (6 days ago)
-- [dd-ix/presence](https://github.com/dd-ix/presence) (6 days ago)
+- [dd-ix/foundation](https://github.com/dd-ix/foundation) (1 day ago)
+- [dd-ix/website-content](https://github.com/dd-ix/website-content) (1 week ago)
+- [dd-ix/presence](https://github.com/dd-ix/presence) (1 week ago)
 - [tlm-solutions/stasi](https://github.com/tlm-solutions/stasi) - tracks your, bus and trams every move (2 weeks ago)
 - [TKFRvisionOfficial/Cars2TheVideoGameModding](https://github.com/TKFRvisionOfficial/Cars2TheVideoGameModding) - Tools for modding Cars 2: The Video Game and other Avalanche games like Toy Story 3 or Disney Infinity. (2 months ago)
 
@@ -39,9 +39,9 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 
 ### 🔨 Latest Pull Requests I published
 
-- [Allow dangerous content](https://github.com/dd-ix/foundation/pull/3) on [dd-ix/foundation](https://github.com/dd-ix/foundation) (4 days ago)
-- [Added image support for news](https://github.com/dd-ix/foundation/pull/2) on [dd-ix/foundation](https://github.com/dd-ix/foundation) (4 days ago)
-- [Added documents download](https://github.com/dd-ix/presence/pull/3) on [dd-ix/presence](https://github.com/dd-ix/presence) (6 days ago)
+- [Allow dangerous content](https://github.com/dd-ix/foundation/pull/3) on [dd-ix/foundation](https://github.com/dd-ix/foundation) (5 days ago)
+- [Added image support for news](https://github.com/dd-ix/foundation/pull/2) on [dd-ix/foundation](https://github.com/dd-ix/foundation) (5 days ago)
+- [Added documents download](https://github.com/dd-ix/presence/pull/3) on [dd-ix/presence](https://github.com/dd-ix/presence) (1 week ago)
 - [Made documents downloadable](https://github.com/dd-ix/foundation/pull/1) on [dd-ix/foundation](https://github.com/dd-ix/foundation) (1 week ago)
 - [Translated (nearly) all the current strings to german](https://github.com/dd-ix/presence/pull/1) on [dd-ix/presence](https://github.com/dd-ix/presence) (1 week ago)
 
