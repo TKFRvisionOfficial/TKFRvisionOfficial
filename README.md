@@ -40,8 +40,8 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 ### 🔨 Latest Pull Requests I published
 
 - [Added text block assets](https://github.com/dd-ix/foundation/pull/4) on [dd-ix/foundation](https://github.com/dd-ix/foundation) (1 week ago)
-- [Allow dangerous content](https://github.com/dd-ix/foundation/pull/3) on [dd-ix/foundation](https://github.com/dd-ix/foundation) (1 week ago)
-- [Added image support for news](https://github.com/dd-ix/foundation/pull/2) on [dd-ix/foundation](https://github.com/dd-ix/foundation) (1 week ago)
+- [Allow dangerous content](https://github.com/dd-ix/foundation/pull/3) on [dd-ix/foundation](https://github.com/dd-ix/foundation) (2 weeks ago)
+- [Added image support for news](https://github.com/dd-ix/foundation/pull/2) on [dd-ix/foundation](https://github.com/dd-ix/foundation) (2 weeks ago)
 - [Added documents download](https://github.com/dd-ix/presence/pull/3) on [dd-ix/presence](https://github.com/dd-ix/presence) (2 weeks ago)
 - [Made documents downloadable](https://github.com/dd-ix/foundation/pull/1) on [dd-ix/foundation](https://github.com/dd-ix/foundation) (2 weeks ago)
 
