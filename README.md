@@ -18,8 +18,8 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 ### 🥴 Check out what I'm currently messing with
 
 - [dd-ix/foundation](https://github.com/dd-ix/foundation) (1 week ago)
-- [dd-ix/website-content](https://github.com/dd-ix/website-content) (2 weeks ago)
-- [dd-ix/presence](https://github.com/dd-ix/presence) (2 weeks ago)
+- [dd-ix/website-content](https://github.com/dd-ix/website-content) (3 weeks ago)
+- [dd-ix/presence](https://github.com/dd-ix/presence) (3 weeks ago)
 - [tlm-solutions/stasi](https://github.com/tlm-solutions/stasi) - tracks your, bus and trams every move (1 month ago)
 - [TKFRvisionOfficial/Cars2TheVideoGameModding](https://github.com/TKFRvisionOfficial/Cars2TheVideoGameModding) - Tools for modding Cars 2: The Video Game and other Avalanche games like Toy Story 3 or Disney Infinity. (3 months ago)
 
@@ -42,7 +42,7 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 - [Added text block assets](https://github.com/dd-ix/foundation/pull/4) on [dd-ix/foundation](https://github.com/dd-ix/foundation) (1 week ago)
 - [Allow dangerous content](https://github.com/dd-ix/foundation/pull/3) on [dd-ix/foundation](https://github.com/dd-ix/foundation) (2 weeks ago)
 - [Added image support for news](https://github.com/dd-ix/foundation/pull/2) on [dd-ix/foundation](https://github.com/dd-ix/foundation) (2 weeks ago)
-- [Added documents download](https://github.com/dd-ix/presence/pull/3) on [dd-ix/presence](https://github.com/dd-ix/presence) (2 weeks ago)
+- [Added documents download](https://github.com/dd-ix/presence/pull/3) on [dd-ix/presence](https://github.com/dd-ix/presence) (3 weeks ago)
 - [Made documents downloadable](https://github.com/dd-ix/foundation/pull/1) on [dd-ix/foundation](https://github.com/dd-ix/foundation) (3 weeks ago)
 
 ### ⭐ Recent stars
