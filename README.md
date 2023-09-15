@@ -17,7 +17,7 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 
 ### 🥴 Check out what I'm currently messing with
 
-- [dd-ix/presence](https://github.com/dd-ix/presence) (4 days ago)
+- [dd-ix/presence](https://github.com/dd-ix/presence) (5 days ago)
 - [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes. (1 week ago)
 - [dd-ix/website-content](https://github.com/dd-ix/website-content) (2 weeks ago)
 - [dd-ix/foundation](https://github.com/dd-ix/foundation) (2 weeks ago)
@@ -48,7 +48,7 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 ### ⭐ Recent stars
 
 - [tlm-solutions/stasi](https://github.com/tlm-solutions/stasi) - tracks your, bus and trams every move (9 months ago)
-- [NCDyson/RareView](https://github.com/NCDyson/RareView) - Model Viewer / Editor for Xbox360 games by Rare(ware) (1 year ago)
+- [NCDyson/RareView](https://github.com/NCDyson/RareView) - Model Viewer / Editor for Xbox360 games by Rare(ware) (2 years ago)
 - [itsmeft24/cars-research](https://github.com/itsmeft24/cars-research) - Researching the Cars games developed by Rainbow Studios and Incinerator Studios. (2 years ago)
 - [bozbez/win-capture-audio](https://github.com/bozbez/win-capture-audio) - An OBS plugin that allows capture of independant application audio streams on Windows, in a similar fashion to OBS&#39;s game capture and Discord&#39;s application streaming. (2 years ago)
 - [MarcelCoding/dust](https://github.com/MarcelCoding/dust) (2 years ago)
