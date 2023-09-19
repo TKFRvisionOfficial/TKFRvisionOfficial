@@ -17,7 +17,7 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 
 ### 🥴 Check out what I'm currently messing with
 
-- [dd-ix/presence](https://github.com/dd-ix/presence) (2 days ago)
+- [dd-ix/presence](https://github.com/dd-ix/presence) (3 days ago)
 - [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes. (2 weeks ago)
 - [dd-ix/website-content](https://github.com/dd-ix/website-content) (2 weeks ago)
 - [dd-ix/foundation](https://github.com/dd-ix/foundation) (2 weeks ago)
@@ -34,7 +34,7 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 ### 🔭 Latest releases I've contributed to
 
 - [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) ([v0.1.12](https://github.com/MarcelCoding/bszet-mind/releases/tag/v0.1.12), 2 weeks ago) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes.
-- [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) ([v1.2.17](https://github.com/MarcelCoding/bszet-vplan/releases/tag/v1.2.17), 9 months ago) - Automatically monitors the BSZET Dresden timetable for changes and sends change notifications. 
+- [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) ([v1.2.17](https://github.com/MarcelCoding/bszet-vplan/releases/tag/v1.2.17), 10 months ago) - Automatically monitors the BSZET Dresden timetable for changes and sends change notifications. 
 - [TKFRvisionOfficial/bszet_substitution_plan](https://github.com/TKFRvisionOfficial/bszet_substitution_plan) ([v1.0.9](https://github.com/TKFRvisionOfficial/bszet_substitution_plan/releases/tag/v1.0.9), 11 months ago) - Parsing and Image creation service of the BSZET substitution plan bot
 
 ### 🔨 Latest Pull Requests I published
