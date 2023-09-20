@@ -17,10 +17,10 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 
 ### 🥴 Check out what I'm currently messing with
 
-- [dd-ix/presence](https://github.com/dd-ix/presence) (3 days ago)
+- [dd-ix/presence](https://github.com/dd-ix/presence) (4 days ago)
 - [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes. (2 weeks ago)
-- [dd-ix/website-content](https://github.com/dd-ix/website-content) (2 weeks ago)
-- [dd-ix/foundation](https://github.com/dd-ix/foundation) (2 weeks ago)
+- [dd-ix/website-content](https://github.com/dd-ix/website-content) (3 weeks ago)
+- [dd-ix/foundation](https://github.com/dd-ix/foundation) (3 weeks ago)
 - [tlm-solutions/stasi](https://github.com/tlm-solutions/stasi) - tracks your, bus and trams every move (2 months ago)
 
 ### ☠ My latest junk
@@ -40,10 +40,10 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 ### 🔨 Latest Pull Requests I published
 
 - [Switched history room to b4](https://github.com/MarcelCoding/bszet-mind/pull/19) on [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) (2 weeks ago)
-- [Added teams and document images](https://github.com/dd-ix/foundation/pull/6) on [dd-ix/foundation](https://github.com/dd-ix/foundation) (3 weeks ago)
+- [Added teams and document images](https://github.com/dd-ix/foundation/pull/6) on [dd-ix/foundation](https://github.com/dd-ix/foundation) (4 weeks ago)
 - [Added text block assets](https://github.com/dd-ix/foundation/pull/4) on [dd-ix/foundation](https://github.com/dd-ix/foundation) (1 month ago)
-- [Allow dangerous content](https://github.com/dd-ix/foundation/pull/3) on [dd-ix/foundation](https://github.com/dd-ix/foundation) (1 month ago)
-- [Added image support for news](https://github.com/dd-ix/foundation/pull/2) on [dd-ix/foundation](https://github.com/dd-ix/foundation) (1 month ago)
+- [Allow dangerous content](https://github.com/dd-ix/foundation/pull/3) on [dd-ix/foundation](https://github.com/dd-ix/foundation) (2 months ago)
+- [Added image support for news](https://github.com/dd-ix/foundation/pull/2) on [dd-ix/foundation](https://github.com/dd-ix/foundation) (2 months ago)
 
 ### ⭐ Recent stars
 
