@@ -33,7 +33,7 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 
 ### 🔭 Latest releases I've contributed to
 
-- [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) ([v0.1.13](https://github.com/MarcelCoding/bszet-mind/releases/tag/v0.1.13), 2 days ago) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes.
+- [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) ([v0.1.13](https://github.com/MarcelCoding/bszet-mind/releases/tag/v0.1.13), 3 days ago) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes.
 - [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) ([v1.2.17](https://github.com/MarcelCoding/bszet-vplan/releases/tag/v1.2.17), 10 months ago) - Automatically monitors the BSZET Dresden timetable for changes and sends change notifications. 
 - [TKFRvisionOfficial/bszet_substitution_plan](https://github.com/TKFRvisionOfficial/bszet_substitution_plan) ([v1.0.9](https://github.com/TKFRvisionOfficial/bszet_substitution_plan/releases/tag/v1.0.9), 11 months ago) - Parsing and Image creation service of the BSZET substitution plan bot
 
@@ -41,7 +41,7 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 
 - [Switched history room to b4](https://github.com/MarcelCoding/bszet-mind/pull/19) on [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) (3 weeks ago)
 - [Added teams and document images](https://github.com/dd-ix/foundation/pull/6) on [dd-ix/foundation](https://github.com/dd-ix/foundation) (1 month ago)
-- [Added text block assets](https://github.com/dd-ix/foundation/pull/4) on [dd-ix/foundation](https://github.com/dd-ix/foundation) (1 month ago)
+- [Added text block assets](https://github.com/dd-ix/foundation/pull/4) on [dd-ix/foundation](https://github.com/dd-ix/foundation) (2 months ago)
 - [Allow dangerous content](https://github.com/dd-ix/foundation/pull/3) on [dd-ix/foundation](https://github.com/dd-ix/foundation) (2 months ago)
 - [Added image support for news](https://github.com/dd-ix/foundation/pull/2) on [dd-ix/foundation](https://github.com/dd-ix/foundation) (2 months ago)
 
