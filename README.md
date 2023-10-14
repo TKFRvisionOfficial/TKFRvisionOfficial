@@ -17,7 +17,7 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 
 ### 🥴 Check out what I'm currently messing with
 
-- [dd-ix/presence](https://github.com/dd-ix/presence) (3 weeks ago)
+- [dd-ix/presence](https://github.com/dd-ix/presence) (4 weeks ago)
 - [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes. (1 month ago)
 - [dd-ix/website-content](https://github.com/dd-ix/website-content) (1 month ago)
 - [dd-ix/foundation](https://github.com/dd-ix/foundation) (1 month ago)
@@ -33,11 +33,11 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 
 ### 🔭 Latest releases I've contributed to
 
-- [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) ([v0.1.13](https://github.com/MarcelCoding/bszet-mind/releases/tag/v0.1.13), 2 weeks ago) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes.
+- [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) ([v0.1.13](https://github.com/MarcelCoding/bszet-mind/releases/tag/v0.1.13), 3 weeks ago) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes.
 
 ### 🔨 Latest Pull Requests I published
 
-- [Bumped mermaid version to 10.5.0](https://github.com/squidfunk/mkdocs-material/pull/6175) on [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) (2 days ago)
+- [Bumped mermaid version to 10.5.0](https://github.com/squidfunk/mkdocs-material/pull/6175) on [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) (3 days ago)
 - [Clarified some function names](https://github.com/MarcelCoding/zia/pull/107) on [MarcelCoding/zia](https://github.com/MarcelCoding/zia) (1 week ago)
 - [Switched history room to b4](https://github.com/MarcelCoding/bszet-mind/pull/19) on [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) (1 month ago)
 - [Added teams and document images](https://github.com/dd-ix/foundation/pull/6) on [dd-ix/foundation](https://github.com/dd-ix/foundation) (1 month ago)
