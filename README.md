@@ -37,11 +37,11 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 
 ### 🔨 Latest Pull Requests I published
 
+- [Made line and run fields readonly during live run and added human-readable line names](https://github.com/tlm-solutions/stasi/pull/24) on [tlm-solutions/stasi](https://github.com/tlm-solutions/stasi) (today)
 - [Added live view](https://github.com/tlm-solutions/stasi/pull/23) on [tlm-solutions/stasi](https://github.com/tlm-solutions/stasi) (today)
 - [Bumped mermaid version to 10.5.0](https://github.com/squidfunk/mkdocs-material/pull/6175) on [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) (3 days ago)
 - [Clarified some function names](https://github.com/MarcelCoding/zia/pull/107) on [MarcelCoding/zia](https://github.com/MarcelCoding/zia) (1 week ago)
 - [Switched history room to b4](https://github.com/MarcelCoding/bszet-mind/pull/19) on [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) (1 month ago)
-- [Added teams and document images](https://github.com/dd-ix/foundation/pull/6) on [dd-ix/foundation](https://github.com/dd-ix/foundation) (1 month ago)
 
 ### ⭐ Recent stars
 
