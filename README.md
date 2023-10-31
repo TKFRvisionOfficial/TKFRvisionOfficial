@@ -40,7 +40,7 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 - [Made line and run fields readonly during live run and added human-readable line names](https://github.com/tlm-solutions/stasi/pull/24) on [tlm-solutions/stasi](https://github.com/tlm-solutions/stasi) (2 weeks ago)
 - [Added live view](https://github.com/tlm-solutions/stasi/pull/23) on [tlm-solutions/stasi](https://github.com/tlm-solutions/stasi) (2 weeks ago)
 - [Bumped mermaid version to 10.5.0](https://github.com/squidfunk/mkdocs-material/pull/6175) on [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) (2 weeks ago)
-- [Clarified some function names](https://github.com/MarcelCoding/zia/pull/107) on [MarcelCoding/zia](https://github.com/MarcelCoding/zia) (3 weeks ago)
+- [Clarified some function names](https://github.com/MarcelCoding/zia/pull/107) on [MarcelCoding/zia](https://github.com/MarcelCoding/zia) (4 weeks ago)
 - [Switched history room to b4](https://github.com/MarcelCoding/bszet-mind/pull/19) on [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) (1 month ago)
 
 ### ⭐ Recent stars
