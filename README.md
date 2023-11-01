@@ -39,13 +39,13 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 
 - [Made line and run fields readonly during live run and added human-readable line names](https://github.com/tlm-solutions/stasi/pull/24) on [tlm-solutions/stasi](https://github.com/tlm-solutions/stasi) (2 weeks ago)
 - [Added live view](https://github.com/tlm-solutions/stasi/pull/23) on [tlm-solutions/stasi](https://github.com/tlm-solutions/stasi) (2 weeks ago)
-- [Bumped mermaid version to 10.5.0](https://github.com/squidfunk/mkdocs-material/pull/6175) on [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) (2 weeks ago)
+- [Bumped mermaid version to 10.5.0](https://github.com/squidfunk/mkdocs-material/pull/6175) on [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) (3 weeks ago)
 - [Clarified some function names](https://github.com/MarcelCoding/zia/pull/107) on [MarcelCoding/zia](https://github.com/MarcelCoding/zia) (4 weeks ago)
 - [Switched history room to b4](https://github.com/MarcelCoding/bszet-mind/pull/19) on [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) (1 month ago)
 
 ### ⭐ Recent stars
 
-- [tlm-solutions/stasi](https://github.com/tlm-solutions/stasi) - tracks your, bus and trams every move (10 months ago)
+- [tlm-solutions/stasi](https://github.com/tlm-solutions/stasi) - tracks your, bus and trams every move (11 months ago)
 - [NCDyson/RareView](https://github.com/NCDyson/RareView) - Model Viewer / Editor for Xbox360 games by Rare(ware) (2 years ago)
 - [itsmeft24/cars-research](https://github.com/itsmeft24/cars-research) - Researching the Cars games developed by Rainbow Studios and Incinerator Studios. (2 years ago)
 - [bozbez/win-capture-audio](https://github.com/bozbez/win-capture-audio) - An OBS plugin that allows capture of independant application audio streams on Windows, in a similar fashion to OBS&#39;s game capture and Discord&#39;s application streaming. (2 years ago)
