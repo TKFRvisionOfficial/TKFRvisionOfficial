@@ -17,8 +17,8 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 
 ### 🥴 Check out what I'm currently messing with
 
-- [TKFRvisionOfficial/Cars2TheVideoGameModding](https://github.com/TKFRvisionOfficial/Cars2TheVideoGameModding) - Tools for modding Cars 2: The Video Game and other Avalanche games like Toy Story 3 or Disney Infinity. (1 week ago)
-- [tlm-solutions/stasi](https://github.com/tlm-solutions/stasi) - tracks your, bus and trams every move (2 weeks ago)
+- [TKFRvisionOfficial/Cars2TheVideoGameModding](https://github.com/TKFRvisionOfficial/Cars2TheVideoGameModding) - Tools for modding Cars 2: The Video Game and other Avalanche games like Toy Story 3 or Disney Infinity. (2 weeks ago)
+- [tlm-solutions/stasi](https://github.com/tlm-solutions/stasi) - tracks your, bus and trams every move (3 weeks ago)
 - [dd-ix/presence](https://github.com/dd-ix/presence) (1 month ago)
 - [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes. (2 months ago)
 - [dd-ix/foundation](https://github.com/dd-ix/foundation) (2 months ago)
@@ -37,8 +37,8 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 
 ### 🔨 Latest Pull Requests I published
 
-- [Made line and run fields readonly during live run and added human-readable line names](https://github.com/tlm-solutions/stasi/pull/24) on [tlm-solutions/stasi](https://github.com/tlm-solutions/stasi) (2 weeks ago)
-- [Added live view](https://github.com/tlm-solutions/stasi/pull/23) on [tlm-solutions/stasi](https://github.com/tlm-solutions/stasi) (2 weeks ago)
+- [Made line and run fields readonly during live run and added human-readable line names](https://github.com/tlm-solutions/stasi/pull/24) on [tlm-solutions/stasi](https://github.com/tlm-solutions/stasi) (3 weeks ago)
+- [Added live view](https://github.com/tlm-solutions/stasi/pull/23) on [tlm-solutions/stasi](https://github.com/tlm-solutions/stasi) (3 weeks ago)
 - [Bumped mermaid version to 10.5.0](https://github.com/squidfunk/mkdocs-material/pull/6175) on [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) (3 weeks ago)
 - [Clarified some function names](https://github.com/MarcelCoding/zia/pull/107) on [MarcelCoding/zia](https://github.com/MarcelCoding/zia) (1 month ago)
 - [Switched history room to b4](https://github.com/MarcelCoding/bszet-mind/pull/19) on [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) (2 months ago)
