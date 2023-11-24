@@ -17,8 +17,8 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 
 ### 🥴 Check out what I'm currently messing with
 
+- [tlm-solutions/strasi](https://github.com/tlm-solutions/strasi) - tracks your, bus and trams every move (today)
 - [TKFRvisionOfficial/Cars2TheVideoGameModding](https://github.com/TKFRvisionOfficial/Cars2TheVideoGameModding) - Tools for modding Cars 2: The Video Game and other Avalanche games like Toy Story 3 or Disney Infinity. (1 month ago)
-- [tlm-solutions/stasi](https://github.com/tlm-solutions/stasi) - tracks your, bus and trams every move (1 month ago)
 - [dd-ix/presence](https://github.com/dd-ix/presence) (2 months ago)
 - [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes. (2 months ago)
 - [dd-ix/foundation](https://github.com/dd-ix/foundation) (2 months ago)
@@ -39,13 +39,13 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 
 - [Implement `send_break` support](https://github.com/TKFRvisionOfficial/rp-hal/pull/2) on [TKFRvisionOfficial/rp-hal](https://github.com/TKFRvisionOfficial/rp-hal) (2 weeks ago)
 - [Properly report break conditions](https://github.com/TKFRvisionOfficial/rp-hal/pull/1) on [TKFRvisionOfficial/rp-hal](https://github.com/TKFRvisionOfficial/rp-hal) (2 weeks ago)
-- [Made line and run fields readonly during live run and added human-readable line names](https://github.com/tlm-solutions/stasi/pull/24) on [tlm-solutions/stasi](https://github.com/tlm-solutions/stasi) (1 month ago)
-- [Added live view](https://github.com/tlm-solutions/stasi/pull/23) on [tlm-solutions/stasi](https://github.com/tlm-solutions/stasi) (1 month ago)
+- [Made line and run fields readonly during live run and added human-readable line names](https://github.com/tlm-solutions/strasi/pull/24) on [tlm-solutions/strasi](https://github.com/tlm-solutions/strasi) (1 month ago)
+- [Added live view](https://github.com/tlm-solutions/strasi/pull/23) on [tlm-solutions/strasi](https://github.com/tlm-solutions/strasi) (1 month ago)
 - [Bumped mermaid version to 10.5.0](https://github.com/squidfunk/mkdocs-material/pull/6175) on [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) (1 month ago)
 
 ### ⭐ Recent stars
 
-- [tlm-solutions/stasi](https://github.com/tlm-solutions/stasi) - tracks your, bus and trams every move (11 months ago)
+- [tlm-solutions/strasi](https://github.com/tlm-solutions/strasi) - tracks your, bus and trams every move (11 months ago)
 - [NCDyson/RareView](https://github.com/NCDyson/RareView) - Model Viewer / Editor for Xbox360 games by Rare(ware) (2 years ago)
 - [itsmeft24/cars-research](https://github.com/itsmeft24/cars-research) - Researching the Cars games developed by Rainbow Studios and Incinerator Studios. (2 years ago)
 - [bozbez/win-capture-audio](https://github.com/bozbez/win-capture-audio) - An OBS plugin that allows capture of independant application audio streams on Windows, in a similar fashion to OBS&#39;s game capture and Discord&#39;s application streaming. (2 years ago)
