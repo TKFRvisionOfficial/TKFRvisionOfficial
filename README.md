@@ -37,15 +37,15 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 
 ### 🔨 Latest Pull Requests I published
 
-- [Implement `send_break` support](https://github.com/TKFRvisionOfficial/rp-hal/pull/2) on [TKFRvisionOfficial/rp-hal](https://github.com/TKFRvisionOfficial/rp-hal) (4 weeks ago)
-- [Properly report break conditions](https://github.com/TKFRvisionOfficial/rp-hal/pull/1) on [TKFRvisionOfficial/rp-hal](https://github.com/TKFRvisionOfficial/rp-hal) (4 weeks ago)
+- [Implement `send_break` support](https://github.com/TKFRvisionOfficial/rp-hal/pull/2) on [TKFRvisionOfficial/rp-hal](https://github.com/TKFRvisionOfficial/rp-hal) (1 month ago)
+- [Properly report break conditions](https://github.com/TKFRvisionOfficial/rp-hal/pull/1) on [TKFRvisionOfficial/rp-hal](https://github.com/TKFRvisionOfficial/rp-hal) (1 month ago)
 - [Made line and run fields readonly during live run and added human-readable line names](https://github.com/tlm-solutions/strasi/pull/24) on [tlm-solutions/strasi](https://github.com/tlm-solutions/strasi) (1 month ago)
 - [Added live view](https://github.com/tlm-solutions/strasi/pull/23) on [tlm-solutions/strasi](https://github.com/tlm-solutions/strasi) (1 month ago)
 - [Bumped mermaid version to 10.5.0](https://github.com/squidfunk/mkdocs-material/pull/6175) on [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) (1 month ago)
 
 ### ⭐ Recent stars
 
-- [Synide/010-Editor-Templates](https://github.com/Synide/010-Editor-Templates) - Sweetscape 010 Hex Editor templates. Modo, Games etc. (2 days ago)
+- [Synide/010-Editor-Templates](https://github.com/Synide/010-Editor-Templates) - Sweetscape 010 Hex Editor templates. Modo, Games etc. (3 days ago)
 - [tlm-solutions/strasi](https://github.com/tlm-solutions/strasi) - tracks your, bus and trams every move (1 year ago)
 - [NCDyson/RareView](https://github.com/NCDyson/RareView) - Model Viewer / Editor for Xbox360 games by Rare(ware) (2 years ago)
 - [itsmeft24/cars-research](https://github.com/itsmeft24/cars-research) - Researching the Cars games developed by Rainbow Studios and Incinerator Studios. (2 years ago)
