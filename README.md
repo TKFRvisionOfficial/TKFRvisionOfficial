@@ -45,7 +45,7 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 
 ### ⭐ Recent stars
 
-- [Synide/010-Editor-Templates](https://github.com/Synide/010-Editor-Templates) - Sweetscape 010 Hex Editor templates. Modo, Games etc. (3 days ago)
+- [Synide/010-Editor-Templates](https://github.com/Synide/010-Editor-Templates) - Sweetscape 010 Hex Editor templates. Modo, Games etc. (4 days ago)
 - [tlm-solutions/strasi](https://github.com/tlm-solutions/strasi) - tracks your, bus and trams every move (1 year ago)
 - [NCDyson/RareView](https://github.com/NCDyson/RareView) - Model Viewer / Editor for Xbox360 games by Rare(ware) (2 years ago)
 - [itsmeft24/cars-research](https://github.com/itsmeft24/cars-research) - Researching the Cars games developed by Rainbow Studios and Incinerator Studios. (2 years ago)
