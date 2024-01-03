@@ -37,9 +37,9 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 
 ### 🔨 Latest Pull Requests I published
 
-- [no-std support](https://github.com/offsetting/jenkins_hash/pull/2) on [offsetting/jenkins_hash](https://github.com/offsetting/jenkins_hash) (3 weeks ago)
-- [Implement `send_break` support](https://github.com/TKFRvisionOfficial/rp-hal/pull/2) on [TKFRvisionOfficial/rp-hal](https://github.com/TKFRvisionOfficial/rp-hal) (1 month ago)
-- [Properly report break conditions](https://github.com/TKFRvisionOfficial/rp-hal/pull/1) on [TKFRvisionOfficial/rp-hal](https://github.com/TKFRvisionOfficial/rp-hal) (1 month ago)
+- [no-std support](https://github.com/offsetting/jenkins_hash/pull/2) on [offsetting/jenkins_hash](https://github.com/offsetting/jenkins_hash) (4 weeks ago)
+- [Implement `send_break` support](https://github.com/TKFRvisionOfficial/rp-hal/pull/2) on [TKFRvisionOfficial/rp-hal](https://github.com/TKFRvisionOfficial/rp-hal) (2 months ago)
+- [Properly report break conditions](https://github.com/TKFRvisionOfficial/rp-hal/pull/1) on [TKFRvisionOfficial/rp-hal](https://github.com/TKFRvisionOfficial/rp-hal) (2 months ago)
 - [Made line and run fields readonly during live run and added human-readable line names](https://github.com/tlm-solutions/strasi/pull/24) on [tlm-solutions/strasi](https://github.com/tlm-solutions/strasi) (2 months ago)
 - [Added live view](https://github.com/tlm-solutions/strasi/pull/23) on [tlm-solutions/strasi](https://github.com/tlm-solutions/strasi) (2 months ago)
 
