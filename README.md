@@ -33,11 +33,11 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 
 ### 🔭 Latest releases I've contributed to
 
-- [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) ([v0.1.16](https://github.com/MarcelCoding/bszet-mind/releases/tag/v0.1.16), 2 days ago) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes.
+- [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) ([v0.1.16](https://github.com/MarcelCoding/bszet-mind/releases/tag/v0.1.16), 3 days ago) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes.
 
 ### 🔨 Latest Pull Requests I published
 
-- [no-std support](https://github.com/offsetting/jenkins_hash/pull/2) on [offsetting/jenkins_hash](https://github.com/offsetting/jenkins_hash) (2 months ago)
+- [no-std support](https://github.com/offsetting/jenkins_hash/pull/2) on [offsetting/jenkins_hash](https://github.com/offsetting/jenkins_hash) (3 months ago)
 - [Implement `send_break` support](https://github.com/TKFRvisionOfficial/rp-hal/pull/2) on [TKFRvisionOfficial/rp-hal](https://github.com/TKFRvisionOfficial/rp-hal) (4 months ago)
 - [Properly report break conditions](https://github.com/TKFRvisionOfficial/rp-hal/pull/1) on [TKFRvisionOfficial/rp-hal](https://github.com/TKFRvisionOfficial/rp-hal) (4 months ago)
 - [Made line and run fields readonly during live run and added human-readable line names](https://github.com/tlm-solutions/strasi/pull/24) on [tlm-solutions/strasi](https://github.com/tlm-solutions/strasi) (4 months ago)
