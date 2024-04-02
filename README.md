@@ -17,11 +17,11 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 
 ### 🥴 Check out what I'm currently messing with
 
-- [dd-ix/presence](https://github.com/dd-ix/presence) - Website of @dd-ix (1 month ago)
+- [dd-ix/website](https://github.com/dd-ix/website) - Website of @dd-ix (1 month ago)
 - [tlm-solutions/strasi](https://github.com/tlm-solutions/strasi) - tracks your, bus and trams every move (4 months ago)
 - [TKFRvisionOfficial/Cars2TheVideoGameModding](https://github.com/TKFRvisionOfficial/Cars2TheVideoGameModding) - Tools for modding Cars 2: The Video Game and other Avalanche games like Toy Story 3 or Disney Infinity. (5 months ago)
 - [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes. (7 months ago)
-- [dd-ix/foundation](https://github.com/dd-ix/foundation) - Website backend of @dd-ix (7 months ago)
+- [dd-ix/website-content-api](https://github.com/dd-ix/website-content-api) - Website backend of @dd-ix (7 months ago)
 
 ### ☠ My latest junk
 
