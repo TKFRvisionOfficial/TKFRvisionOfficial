@@ -17,8 +17,8 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 
 ### 🥴 Check out what I'm currently messing with
 
-- [offsetting/offsetting](https://github.com/offsetting/offsetting) - A collection of modding tools based on the libraries created by Team Offsetting. (1 day ago)
-- [TKFRvisionOfficial/dmx-rdm-rs](https://github.com/TKFRvisionOfficial/dmx-rdm-rs) - Rust library for communicating DMX512 (ANSI E1.11) and DMX-RDM (ANSI E1.20) over a RS485 bus by using interchangeable drivers. (4 days ago)
+- [offsetting/offsetting](https://github.com/offsetting/offsetting) - A collection of modding tools based on the libraries created by Team Offsetting. (2 days ago)
+- [TKFRvisionOfficial/dmx-rdm-rs](https://github.com/TKFRvisionOfficial/dmx-rdm-rs) - Rust library for communicating DMX512 (ANSI E1.11) and DMX-RDM (ANSI E1.20) over a RS485 bus by using interchangeable drivers. (5 days ago)
 - [smessmer/binary-layout](https://github.com/smessmer/binary-layout) - The binary-layout library allows type-safe, inplace, zero-copy access to structured binary data. You define a custom data layout and give it a slice of binary data, and it will allow you to read and write the fields defined in the layout from the binary data without having to copy any of the data. It&#39;s similar to transmuting to/from a #[repr(packed)] struct, but much safer. (1 week ago)
 - [dd-ix/website](https://github.com/dd-ix/website) - Website of @dd-ix (1 month ago)
 - [tlm-solutions/strasi](https://github.com/tlm-solutions/strasi) - tracks your, bus and trams every move (4 months ago)
@@ -33,13 +33,13 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 
 ### 🔭 Latest releases I've contributed to
 
-- [offsetting/offsetting](https://github.com/offsetting/offsetting) ([v0.2.0](https://github.com/offsetting/offsetting/releases/tag/v0.2.0), 2 days ago) - A collection of modding tools based on the libraries created by Team Offsetting.
-- [smessmer/binary-layout](https://github.com/smessmer/binary-layout) ([4.0.2](https://github.com/smessmer/binary-layout/releases/tag/4.0.2), 5 days ago) - The binary-layout library allows type-safe, inplace, zero-copy access to structured binary data. You define a custom data layout and give it a slice of binary data, and it will allow you to read and write the fields defined in the layout from the binary data without having to copy any of the data. It&#39;s similar to transmuting to/from a #[repr(packed)] struct, but much safer.
+- [offsetting/offsetting](https://github.com/offsetting/offsetting) ([v0.2.0](https://github.com/offsetting/offsetting/releases/tag/v0.2.0), 3 days ago) - A collection of modding tools based on the libraries created by Team Offsetting.
+- [smessmer/binary-layout](https://github.com/smessmer/binary-layout) ([4.0.2](https://github.com/smessmer/binary-layout/releases/tag/4.0.2), 6 days ago) - The binary-layout library allows type-safe, inplace, zero-copy access to structured binary data. You define a custom data layout and give it a slice of binary data, and it will allow you to read and write the fields defined in the layout from the binary data without having to copy any of the data. It&#39;s similar to transmuting to/from a #[repr(packed)] struct, but much safer.
 - [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) ([v0.1.16](https://github.com/MarcelCoding/bszet-mind/releases/tag/v0.1.16), 1 month ago) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes.
 
 ### 🔨 Latest Pull Requests I published
 
-- [Add indctive dct support](https://github.com/offsetting/offsetting/pull/3) on [offsetting/offsetting](https://github.com/offsetting/offsetting) (2 days ago)
+- [Add indctive dct support](https://github.com/offsetting/offsetting/pull/3) on [offsetting/offsetting](https://github.com/offsetting/offsetting) (3 days ago)
 - [Fixing no-std support by making thiserror optional and added test](https://github.com/smessmer/binary-layout/pull/28) on [smessmer/binary-layout](https://github.com/smessmer/binary-layout) (1 week ago)
 - [no-std support](https://github.com/offsetting/jenkins_hash/pull/2) on [offsetting/jenkins_hash](https://github.com/offsetting/jenkins_hash) (4 months ago)
 - [Implement `send_break` support](https://github.com/TKFRvisionOfficial/rp-hal/pull/2) on [TKFRvisionOfficial/rp-hal](https://github.com/TKFRvisionOfficial/rp-hal) (5 months ago)
