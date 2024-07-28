@@ -17,7 +17,7 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 
 ### 🥴 Check out what I'm currently messing with
 
-- [offsetting/offsetting](https://github.com/offsetting/offsetting) - A collection of modding tools based on the libraries created by Team Offsetting. (1 day ago)
+- [offsetting/offsetting](https://github.com/offsetting/offsetting) - A collection of modding tools based on the libraries created by Team Offsetting. (2 days ago)
 - [TKFRvisionOfficial/dmx-rdm-rs](https://github.com/TKFRvisionOfficial/dmx-rdm-rs) - Rust library for communicating DMX512 (ANSI E1.11) and DMX-RDM (ANSI E1.20) over a RS485 bus by using interchangeable drivers. (1 month ago)
 - [tlm-solutions/strasi](https://github.com/tlm-solutions/strasi) - tracks your, bus and trams every move (2 months ago)
 - [TKFRvisionOfficial/Cars2TheVideoGameModding](https://github.com/TKFRvisionOfficial/Cars2TheVideoGameModding) - Tools for modding Cars 2: The Video Game and other Avalanche games like Toy Story 3 or Disney Infinity. (3 months ago)
@@ -33,7 +33,7 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 
 ### 🔭 Latest releases I've contributed to
 
-- [offsetting/offsetting](https://github.com/offsetting/offsetting) ([v0.2.1](https://github.com/offsetting/offsetting/releases/tag/v0.2.1), 1 day ago) - A collection of modding tools based on the libraries created by Team Offsetting.
+- [offsetting/offsetting](https://github.com/offsetting/offsetting) ([v0.2.1](https://github.com/offsetting/offsetting/releases/tag/v0.2.1), 2 days ago) - A collection of modding tools based on the libraries created by Team Offsetting.
 - [smessmer/binary-layout](https://github.com/smessmer/binary-layout) ([4.0.2](https://github.com/smessmer/binary-layout/releases/tag/4.0.2), 3 months ago) - The binary-layout library allows type-safe, inplace, zero-copy access to structured binary data. You define a custom data layout and give it a slice of binary data, and it will allow you to read and write the fields defined in the layout from the binary data without having to copy any of the data. It&#39;s similar to transmuting to/from a #[repr(packed)] struct, but much safer.
 - [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) ([v0.1.16](https://github.com/MarcelCoding/bszet-mind/releases/tag/v0.1.16), 4 months ago) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes.
 
@@ -47,7 +47,7 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 
 ### ⭐ Recent stars
 
-- [Synide/010-Editor-Templates](https://github.com/Synide/010-Editor-Templates) - Sweetscape 010 Hex Editor templates. Modo, Games etc. (7 months ago)
+- [Synide/010-Editor-Templates](https://github.com/Synide/010-Editor-Templates) - Sweetscape 010 Hex Editor templates. Modo, Games etc. (8 months ago)
 - [tlm-solutions/strasi](https://github.com/tlm-solutions/strasi) - tracks your, bus and trams every move (2 years ago)
 - [NCDyson/RareView](https://github.com/NCDyson/RareView) - Model Viewer / Editor for Xbox360 games by Rare(ware) (2 years ago)
 - [itsmeft24/cars-research](https://github.com/itsmeft24/cars-research) - Researching the Cars games developed by Rainbow Studios and Incinerator Studios. (2 years ago)
