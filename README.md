@@ -35,7 +35,7 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 
 - [offsetting/offsetting](https://github.com/offsetting/offsetting) ([v0.2.1](https://github.com/offsetting/offsetting/releases/tag/v0.2.1), 1 month ago) - A collection of modding tools based on the libraries created by Team Offsetting.
 - [smessmer/binary-layout](https://github.com/smessmer/binary-layout) ([4.0.2](https://github.com/smessmer/binary-layout/releases/tag/4.0.2), 4 months ago) - The binary-layout library allows type-safe, inplace, zero-copy access to structured binary data. You define a custom data layout and give it a slice of binary data, and it will allow you to read and write the fields defined in the layout from the binary data without having to copy any of the data. It&#39;s similar to transmuting to/from a #[repr(packed)] struct, but much safer.
-- [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) ([v0.1.16](https://github.com/MarcelCoding/bszet-mind/releases/tag/v0.1.16), 5 months ago) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes.
+- [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) ([v0.1.16](https://github.com/MarcelCoding/bszet-mind/releases/tag/v0.1.16), 6 months ago) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes.
 
 ### 🔨 Latest Pull Requests I published
 
