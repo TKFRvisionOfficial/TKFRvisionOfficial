@@ -17,11 +17,11 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 
 ### 🥴 Check out what I'm currently messing with
 
-- [TKFRvisionOfficial/dmx-rdm-rs](https://github.com/TKFRvisionOfficial/dmx-rdm-rs) - Rust library for communicating DMX512 (ANSI E1.11) and DMX-RDM (ANSI E1.20) over a RS485 bus by using interchangeable drivers. (1 day ago)
-- [TKFRvisionOfficial/dmx-rdm-rs-drivers](https://github.com/TKFRvisionOfficial/dmx-rdm-rs-drivers) (1 day ago)
+- [TKFRvisionOfficial/dmx-rdm-rs](https://github.com/TKFRvisionOfficial/dmx-rdm-rs) - Rust library for communicating DMX512 (ANSI E1.11) and DMX-RDM (ANSI E1.20) over a RS485 bus by using interchangeable drivers. (2 days ago)
+- [TKFRvisionOfficial/dmx-rdm-rs-drivers](https://github.com/TKFRvisionOfficial/dmx-rdm-rs-drivers) (2 days ago)
 - [TKFRvisionOfficial/rp2040-flip-link-bug](https://github.com/TKFRvisionOfficial/rp2040-flip-link-bug) (2 months ago)
 - [offsetting/offsetting](https://github.com/offsetting/offsetting) - A collection of modding tools based on the libraries created by Team Offsetting. (4 months ago)
-- [tlm-solutions/strasi](https://github.com/tlm-solutions/strasi) - tracks your, bus and trams every move (6 months ago)
+- [tlm-solutions/strasi](https://github.com/tlm-solutions/strasi) - tracks your, bus and trams every move (7 months ago)
 
 ### ☠ My latest junk
 
@@ -40,7 +40,7 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 
 - [Add indctive dct support](https://github.com/offsetting/offsetting/pull/3) on [offsetting/offsetting](https://github.com/offsetting/offsetting) (7 months ago)
 - [Fixing no-std support by making thiserror optional and added test](https://github.com/smessmer/binary-layout/pull/28) on [smessmer/binary-layout](https://github.com/smessmer/binary-layout) (7 months ago)
-- [no-std support](https://github.com/offsetting/jenkins_hash/pull/2) on [offsetting/jenkins_hash](https://github.com/offsetting/jenkins_hash) (11 months ago)
+- [no-std support](https://github.com/offsetting/jenkins_hash/pull/2) on [offsetting/jenkins_hash](https://github.com/offsetting/jenkins_hash) (1 year ago)
 - [Implement `send_break` support](https://github.com/TKFRvisionOfficial/rp-hal/pull/2) on [TKFRvisionOfficial/rp-hal](https://github.com/TKFRvisionOfficial/rp-hal) (1 year ago)
 - [Properly report break conditions](https://github.com/TKFRvisionOfficial/rp-hal/pull/1) on [TKFRvisionOfficial/rp-hal](https://github.com/TKFRvisionOfficial/rp-hal) (1 year ago)
 
