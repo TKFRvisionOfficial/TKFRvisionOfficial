@@ -17,7 +17,7 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 
 ### 🥴 Check out what I'm currently messing with
 
-- [PBahner/LF17-Sensoranwendung](https://github.com/PBahner/LF17-Sensoranwendung) (1 day ago)
+- [PBahner/LF17-Sensoranwendung](https://github.com/PBahner/LF17-Sensoranwendung) - bloß so nen Ding für die Schule (1 day ago)
 - [TKFRvisionOfficial/dmx-rdm-rs](https://github.com/TKFRvisionOfficial/dmx-rdm-rs) - Rust library for communicating DMX512 (ANSI E1.11) and DMX-RDM (ANSI E1.20) over a RS485 bus by using interchangeable drivers. (2 months ago)
 - [TKFRvisionOfficial/dmx-rdm-rs-drivers](https://github.com/TKFRvisionOfficial/dmx-rdm-rs-drivers) (2 months ago)
 - [TKFRvisionOfficial/rp2040-flip-link-bug](https://github.com/TKFRvisionOfficial/rp2040-flip-link-bug) (4 months ago)
