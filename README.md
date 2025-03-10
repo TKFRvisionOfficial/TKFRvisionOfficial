@@ -34,11 +34,11 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 ### 🔭 Latest releases I've contributed to
 
 - [offsetting/offsetting](https://github.com/offsetting/offsetting) ([v0.2.1](https://github.com/offsetting/offsetting/releases/tag/v0.2.1), 7 months ago) - A collection of modding tools based on the libraries created by Team Offsetting.
-- [smessmer/binary-layout](https://github.com/smessmer/binary-layout) ([4.0.2](https://github.com/smessmer/binary-layout/releases/tag/4.0.2), 10 months ago) - The binary-layout library allows type-safe, inplace, zero-copy access to structured binary data. You define a custom data layout and give it a slice of binary data, and it will allow you to read and write the fields defined in the layout from the binary data without having to copy any of the data. It&#39;s similar to transmuting to/from a #[repr(packed)] struct, but much safer.
+- [smessmer/binary-layout](https://github.com/smessmer/binary-layout) ([4.0.2](https://github.com/smessmer/binary-layout/releases/tag/4.0.2), 11 months ago) - The binary-layout library allows type-safe, inplace, zero-copy access to structured binary data. You define a custom data layout and give it a slice of binary data, and it will allow you to read and write the fields defined in the layout from the binary data without having to copy any of the data. It&#39;s similar to transmuting to/from a #[repr(packed)] struct, but much safer.
 
 ### 🔨 Latest Pull Requests I published
 
-- [Implemented octane zips with whynow](https://github.com/offsetting/offsetting/pull/4) on [offsetting/offsetting](https://github.com/offsetting/offsetting) (today)
+- [Implemented octane zips with whynow](https://github.com/offsetting/offsetting/pull/4) on [offsetting/offsetting](https://github.com/offsetting/offsetting) (1 day ago)
 - [Add indctive dct support](https://github.com/offsetting/offsetting/pull/3) on [offsetting/offsetting](https://github.com/offsetting/offsetting) (10 months ago)
 - [Fixing no-std support by making thiserror optional and added test](https://github.com/smessmer/binary-layout/pull/28) on [smessmer/binary-layout](https://github.com/smessmer/binary-layout) (11 months ago)
 - [no-std support](https://github.com/offsetting/jenkins_hash/pull/2) on [offsetting/jenkins_hash](https://github.com/offsetting/jenkins_hash) (1 year ago)
@@ -46,7 +46,7 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 
 ### ⭐ Recent stars
 
-- [hedge-dev/UnleashedRecomp](https://github.com/hedge-dev/UnleashedRecomp) - An unofficial PC port of the Xbox 360 version of Sonic Unleashed created through the process of static recompilation. (3 days ago)
+- [hedge-dev/UnleashedRecomp](https://github.com/hedge-dev/UnleashedRecomp) - An unofficial PC port of the Xbox 360 version of Sonic Unleashed created through the process of static recompilation. (4 days ago)
 - [Synide/010-Editor-Templates](https://github.com/Synide/010-Editor-Templates) - Sweetscape 010 Hex Editor templates. Modo, Games etc. (1 year ago)
 - [tlm-solutions/strasi](https://github.com/tlm-solutions/strasi) - tracks your, bus and trams every move (2 years ago)
 - [NCDyson/RareView](https://github.com/NCDyson/RareView) - Model Viewer / Editor for Xbox360 games by Rare(ware) (3 years ago)
