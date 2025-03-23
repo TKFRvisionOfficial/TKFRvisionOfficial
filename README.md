@@ -21,7 +21,7 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 - [TKFRvisionOfficial/dmx-rdm-rs](https://github.com/TKFRvisionOfficial/dmx-rdm-rs) - Rust library for communicating DMX512 (ANSI E1.11) and DMX-RDM (ANSI E1.20) over a RS485 bus by using interchangeable drivers. (3 months ago)
 - [TKFRvisionOfficial/dmx-rdm-rs-drivers](https://github.com/TKFRvisionOfficial/dmx-rdm-rs-drivers) (3 months ago)
 - [TKFRvisionOfficial/rp2040-flip-link-bug](https://github.com/TKFRvisionOfficial/rp2040-flip-link-bug) (6 months ago)
-- [offsetting/offsetting](https://github.com/offsetting/offsetting) - A collection of modding tools based on the libraries created by Team Offsetting. (7 months ago)
+- [offsetting/offsetting](https://github.com/offsetting/offsetting) - A collection of modding tools based on the libraries created by Team Offsetting. (8 months ago)
 
 ### ☠ My latest junk
 
@@ -33,12 +33,12 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 
 ### 🔭 Latest releases I've contributed to
 
-- [offsetting/offsetting](https://github.com/offsetting/offsetting) ([v0.2.1](https://github.com/offsetting/offsetting/releases/tag/v0.2.1), 7 months ago) - A collection of modding tools based on the libraries created by Team Offsetting.
+- [offsetting/offsetting](https://github.com/offsetting/offsetting) ([v0.2.1](https://github.com/offsetting/offsetting/releases/tag/v0.2.1), 8 months ago) - A collection of modding tools based on the libraries created by Team Offsetting.
 - [smessmer/binary-layout](https://github.com/smessmer/binary-layout) ([4.0.2](https://github.com/smessmer/binary-layout/releases/tag/4.0.2), 11 months ago) - The binary-layout library allows type-safe, inplace, zero-copy access to structured binary data. You define a custom data layout and give it a slice of binary data, and it will allow you to read and write the fields defined in the layout from the binary data without having to copy any of the data. It&#39;s similar to transmuting to/from a #[repr(packed)] struct, but much safer.
 
 ### 🔨 Latest Pull Requests I published
 
-- [Implemented octane zips with whynow](https://github.com/offsetting/offsetting/pull/4) on [offsetting/offsetting](https://github.com/offsetting/offsetting) (1 week ago)
+- [Implemented octane zips with whynow](https://github.com/offsetting/offsetting/pull/4) on [offsetting/offsetting](https://github.com/offsetting/offsetting) (2 weeks ago)
 - [Add indctive dct support](https://github.com/offsetting/offsetting/pull/3) on [offsetting/offsetting](https://github.com/offsetting/offsetting) (11 months ago)
 - [Fixing no-std support by making thiserror optional and added test](https://github.com/smessmer/binary-layout/pull/28) on [smessmer/binary-layout](https://github.com/smessmer/binary-layout) (11 months ago)
 - [no-std support](https://github.com/offsetting/jenkins_hash/pull/2) on [offsetting/jenkins_hash](https://github.com/offsetting/jenkins_hash) (1 year ago)
