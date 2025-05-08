@@ -37,7 +37,7 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 
 ### 🔨 Latest Pull Requests I published
 
-- [Implemented octane zips with whynow](https://github.com/offsetting/offsetting/pull/4) on [offsetting/offsetting](https://github.com/offsetting/offsetting) (1 month ago)
+- [Implemented octane zips with whynow](https://github.com/offsetting/offsetting/pull/4) on [offsetting/offsetting](https://github.com/offsetting/offsetting) (2 months ago)
 - [Add indctive dct support](https://github.com/offsetting/offsetting/pull/3) on [offsetting/offsetting](https://github.com/offsetting/offsetting) (1 year ago)
 - [Fixing no-std support by making thiserror optional and added test](https://github.com/smessmer/binary-layout/pull/28) on [smessmer/binary-layout](https://github.com/smessmer/binary-layout) (1 year ago)
 - [no-std support](https://github.com/offsetting/jenkins_hash/pull/2) on [offsetting/jenkins_hash](https://github.com/offsetting/jenkins_hash) (1 year ago)
