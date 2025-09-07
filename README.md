@@ -21,7 +21,6 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 - [high-octane-dev/rre](https://github.com/high-octane-dev/rre) - An attempt to reimplement the Rhythm Racing Engine (1.0), brought to you by a bunch of clever folks. (7 months ago)
 - [TKFRvisionOfficial/dmx-rdm-rs-drivers](https://github.com/TKFRvisionOfficial/dmx-rdm-rs-drivers) (9 months ago)
 - [TKFRvisionOfficial/dmx-rdm-rs](https://github.com/TKFRvisionOfficial/dmx-rdm-rs) - Rust library for communicating DMX512 (ANSI E1.11) and DMX-RDM (ANSI E1.20) over a RS485 bus by using interchangeable drivers. (9 months ago)
-- [TKFRvisionOfficial/rp2040-flip-link-bug](https://github.com/TKFRvisionOfficial/rp2040-flip-link-bug) (1 year ago)
 
 ### ☠ My latest junk
 
