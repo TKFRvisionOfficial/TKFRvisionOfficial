@@ -18,6 +18,7 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 ### 🥴 Check out what I'm currently messing with
 
 - [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOS deployments of DD-IX (3 months ago)
+- [offsetting/offsetting](https://github.com/offsetting/offsetting) - A collection of modding tools based on the libraries created by Team Offsetting. (9 months ago)
 - [PBahner/LF17-Sensoranwendung](https://github.com/PBahner/LF17-Sensoranwendung) - bloß so nen Ding für die Schule (11 months ago)
 - [high-octane-dev/rre](https://github.com/high-octane-dev/rre) - An attempt to reimplement the Rhythm Racing Engine (1.0), brought to you by a bunch of clever folks. (11 months ago)
 
@@ -31,6 +32,7 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 
 ### 🔭 Latest releases I've contributed to
 
+- [offsetting/offsetting](https://github.com/offsetting/offsetting) ([v0.3.0](https://github.com/offsetting/offsetting/releases/tag/v0.3.0), 1 day ago) - A collection of modding tools based on the libraries created by Team Offsetting.
 
 ### 🔨 Latest Pull Requests I published
 
