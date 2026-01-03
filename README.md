@@ -18,7 +18,7 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 ### 🥴 Check out what I'm currently messing with
 
 - [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOS deployments of DD-IX (3 months ago)
-- [offsetting/offsetting](https://github.com/offsetting/offsetting) - A collection of modding tools based on the libraries created by Team Offsetting. (9 months ago)
+- [offsetting/offsetting](https://github.com/offsetting/offsetting) - A collection of modding tools based on the libraries created by Team Offsetting. (10 months ago)
 - [PBahner/LF17-Sensoranwendung](https://github.com/PBahner/LF17-Sensoranwendung) - bloß so nen Ding für die Schule (11 months ago)
 - [high-octane-dev/rre](https://github.com/high-octane-dev/rre) - An attempt to reimplement the Rhythm Racing Engine (1.0), brought to you by a bunch of clever folks. (11 months ago)
 
@@ -32,11 +32,11 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 
 ### 🔭 Latest releases I've contributed to
 
-- [offsetting/offsetting](https://github.com/offsetting/offsetting) ([v0.3.0](https://github.com/offsetting/offsetting/releases/tag/v0.3.0), 1 day ago) - A collection of modding tools based on the libraries created by Team Offsetting.
+- [offsetting/offsetting](https://github.com/offsetting/offsetting) ([v0.3.0](https://github.com/offsetting/offsetting/releases/tag/v0.3.0), 2 days ago) - A collection of modding tools based on the libraries created by Team Offsetting.
 
 ### 🔨 Latest Pull Requests I published
 
-- [Implemented octane zips with whynow](https://github.com/offsetting/offsetting/pull/4) on [offsetting/offsetting](https://github.com/offsetting/offsetting) (9 months ago)
+- [Implemented octane zips with whynow](https://github.com/offsetting/offsetting/pull/4) on [offsetting/offsetting](https://github.com/offsetting/offsetting) (10 months ago)
 - [Add indctive dct support](https://github.com/offsetting/offsetting/pull/3) on [offsetting/offsetting](https://github.com/offsetting/offsetting) (2 years ago)
 - [Fixing no-std support by making thiserror optional and added test](https://github.com/smessmer/binary-layout/pull/28) on [smessmer/binary-layout](https://github.com/smessmer/binary-layout) (2 years ago)
 - [no-std support](https://github.com/offsetting/jenkins_hash/pull/2) on [offsetting/jenkins_hash](https://github.com/offsetting/jenkins_hash) (2 years ago)
