@@ -17,9 +17,9 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 
 ### 🥴 Check out what I'm currently messing with
 
-- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOS deployments of DD-IX (3 months ago)
+- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOS deployments of DD-IX (4 months ago)
 - [offsetting/offsetting](https://github.com/offsetting/offsetting) - A collection of modding tools based on the libraries created by Team Offsetting. (10 months ago)
-- [PBahner/LF17-Sensoranwendung](https://github.com/PBahner/LF17-Sensoranwendung) - bloß so nen Ding für die Schule (11 months ago)
+- [PBahner/LF17-Sensoranwendung](https://github.com/PBahner/LF17-Sensoranwendung) - bloß so nen Ding für die Schule (1 year ago)
 
 ### ☠ My latest junk
 
@@ -31,7 +31,7 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 
 ### 🔭 Latest releases I've contributed to
 
-- [offsetting/offsetting](https://github.com/offsetting/offsetting) ([v0.3.0](https://github.com/offsetting/offsetting/releases/tag/v0.3.0), 2 weeks ago) - A collection of modding tools based on the libraries created by Team Offsetting.
+- [offsetting/offsetting](https://github.com/offsetting/offsetting) ([v0.3.0](https://github.com/offsetting/offsetting/releases/tag/v0.3.0), 3 weeks ago) - A collection of modding tools based on the libraries created by Team Offsetting.
 
 ### 🔨 Latest Pull Requests I published
 
