@@ -31,7 +31,7 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 
 ### 🔭 Latest releases I've contributed to
 
-- [offsetting/offsetting](https://github.com/offsetting/offsetting) ([v0.3.0](https://github.com/offsetting/offsetting/releases/tag/v0.3.0), 4 weeks ago) - A collection of modding tools based on the libraries created by Team Offsetting.
+- [offsetting/offsetting](https://github.com/offsetting/offsetting) ([v0.3.0](https://github.com/offsetting/offsetting/releases/tag/v0.3.0), 1 month ago) - A collection of modding tools based on the libraries created by Team Offsetting.
 
 ### 🔨 Latest Pull Requests I published
 
