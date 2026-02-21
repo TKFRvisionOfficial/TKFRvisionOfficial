@@ -17,7 +17,7 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 
 ### 🥴 Check out what I'm currently messing with
 
-- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOS deployments of DD-IX (4 months ago)
+- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOS deployments of DD-IX (5 months ago)
 - [offsetting/offsetting](https://github.com/offsetting/offsetting) - A collection of modding tools based on the libraries created by Team Offsetting. (11 months ago)
 
 ### ☠ My latest junk
