@@ -17,16 +17,17 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 
 ### 🥴 Check out what I'm currently messing with
 
+- [TKFRvisionOfficial/TTTKmenz](https://github.com/TKFRvisionOfficial/TTTKmenz) (today)
 - [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOS deployments of DD-IX (5 months ago)
 - [offsetting/offsetting](https://github.com/offsetting/offsetting) - A collection of modding tools based on the libraries created by Team Offsetting. (1 year ago)
 
 ### ☠ My latest junk
 
+- [TKFRvisionOfficial/TTTKmenz](https://github.com/TKFRvisionOfficial/TTTKmenz)
 - [TKFRvisionOfficial/dmx-rdm-rs-drivers](https://github.com/TKFRvisionOfficial/dmx-rdm-rs-drivers)
 - [TKFRvisionOfficial/rp2040-flip-link-bug](https://github.com/TKFRvisionOfficial/rp2040-flip-link-bug)
 - [TKFRvisionOfficial/dmx-rdm-rs](https://github.com/TKFRvisionOfficial/dmx-rdm-rs) - Rust library for communicating DMX512 (ANSI E1.11) and DMX-RDM (ANSI E1.20) over a RS485 bus by using interchangeable drivers.
 - [TKFRvisionOfficial/pi-tables](https://github.com/TKFRvisionOfficial/pi-tables)
-- [TKFRvisionOfficial/allpalmsarebeautiful](https://github.com/TKFRvisionOfficial/allpalmsarebeautiful) - Minecraft Mod for adding Tropicraft Coconuts to BYG Palm Trees
 
 ### 🔭 Latest releases I've contributed to
 
