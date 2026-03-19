@@ -17,7 +17,7 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 
 ### 🥴 Check out what I'm currently messing with
 
-- [TKFRvisionOfficial/TTTKmenz](https://github.com/TKFRvisionOfficial/TTTKmenz) (3 days ago)
+- [TKFRvisionOfficial/TTTKmenz](https://github.com/TKFRvisionOfficial/TTTKmenz) (4 days ago)
 - [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOS deployments of DD-IX (5 months ago)
 
 ### ☠ My latest junk
