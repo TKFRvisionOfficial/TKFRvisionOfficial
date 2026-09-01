@@ -33,7 +33,7 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 
 ### 🔨 Latest Pull Requests I published
 
-- [Added gcc compatibility](https://github.com/itsmeft24/sunset/pull/4) on [itsmeft24/sunset](https://github.com/itsmeft24/sunset) (5 days ago)
+- [Added gcc compatibility](https://github.com/itsmeft24/sunset/pull/4) on [itsmeft24/sunset](https://github.com/itsmeft24/sunset) (6 days ago)
 - [Implemented octane zips with whynow](https://github.com/offsetting/offsetting/pull/4) on [offsetting/offsetting](https://github.com/offsetting/offsetting) (2 years ago)
 - [Add indctive dct support](https://github.com/offsetting/offsetting/pull/3) on [offsetting/offsetting](https://github.com/offsetting/offsetting) (2 years ago)
 - [Fixing no-std support by making thiserror optional and added test](https://github.com/smessmer/binary-layout/pull/28) on [smessmer/binary-layout](https://github.com/smessmer/binary-layout) (2 years ago)
