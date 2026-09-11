@@ -18,7 +18,7 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 ### 🥴 Check out what I'm currently messing with
 
 - [itsmeft24/ArcadeEssentials](https://github.com/itsmeft24/ArcadeEssentials) - A set of patches for version 1.42 of the arcade port of Cars 2: The Video Game that restores critical base game functionality. (1 week ago)
-- [TKFRvisionOfficial/TTTKmenz](https://github.com/TKFRvisionOfficial/TTTKmenz) (5 months ago)
+- [TKFRvisionOfficial/TTTKmenz](https://github.com/TKFRvisionOfficial/TTTKmenz) (6 months ago)
 - [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - Migrated to Elbforge (11 months ago)
 
 ### ☠ My latest junk
