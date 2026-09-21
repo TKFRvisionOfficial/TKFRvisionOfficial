@@ -31,7 +31,7 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 
 ### 🔭 Latest releases I've contributed to
 
-- [itsmeft24/ArcadeEssentials](https://github.com/itsmeft24/ArcadeEssentials) ([v3.0.1](https://github.com/itsmeft24/ArcadeEssentials/releases/tag/v3.0.1), 2 months ago) - A set of patches for version 1.42 of the arcade port of Cars 2: The Video Game that restores critical base game functionality.
+- [itsmeft24/ArcadeEssentials](https://github.com/itsmeft24/ArcadeEssentials) ([v3.0.1](https://github.com/itsmeft24/ArcadeEssentials/releases/tag/v3.0.1), 3 months ago) - A set of patches for version 1.42 of the arcade port of Cars 2: The Video Game that restores critical base game functionality.
 
 ### 🔨 Latest Pull Requests I published
 
