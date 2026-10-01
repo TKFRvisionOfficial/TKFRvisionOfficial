@@ -17,7 +17,7 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 
 ### 🥴 Check out what I'm currently messing with
 
-- [itsmeft24/ArcadeEssentials](https://github.com/itsmeft24/ArcadeEssentials) - A set of patches for version 1.42 of the arcade port of Cars 2: The Video Game that restores critical base game functionality. (4 weeks ago)
+- [itsmeft24/ArcadeEssentials](https://github.com/itsmeft24/ArcadeEssentials) - A set of patches for version 1.42 of the arcade port of Cars 2: The Video Game that restores critical base game functionality. (1 month ago)
 - [TKFRvisionOfficial/TTTKmenz](https://github.com/TKFRvisionOfficial/TTTKmenz) (6 months ago)
 
 ### ☠ My latest junk
@@ -34,7 +34,7 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 
 ### 🔨 Latest Pull Requests I published
 
-- [fix: using correct deconstructor for WindowsSystemInputDriver](https://github.com/itsmeft24/ArcadeEssentials/pull/19) on [itsmeft24/ArcadeEssentials](https://github.com/itsmeft24/ArcadeEssentials) (4 weeks ago)
+- [fix: using correct deconstructor for WindowsSystemInputDriver](https://github.com/itsmeft24/ArcadeEssentials/pull/19) on [itsmeft24/ArcadeEssentials](https://github.com/itsmeft24/ArcadeEssentials) (1 month ago)
 - [Added gcc compatibility](https://github.com/itsmeft24/sunset/pull/4) on [itsmeft24/sunset](https://github.com/itsmeft24/sunset) (1 month ago)
 - [Implemented octane zips with whynow](https://github.com/offsetting/offsetting/pull/4) on [offsetting/offsetting](https://github.com/offsetting/offsetting) (2 years ago)
 - [Add indctive dct support](https://github.com/offsetting/offsetting/pull/3) on [offsetting/offsetting](https://github.com/offsetting/offsetting) (2 years ago)
