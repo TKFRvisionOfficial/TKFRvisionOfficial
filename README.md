@@ -35,11 +35,11 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 
 ### 🔨 Latest Pull Requests I published
 
+- [Fixed scheduledRandomTick nbt conflict with corgilib](https://github.com/CorgiTaco-MC/Oh-The-Trees-Youll-Grow/pull/38) on [CorgiTaco-MC/Oh-The-Trees-Youll-Grow](https://github.com/CorgiTaco-MC/Oh-The-Trees-Youll-Grow) (today)
 - [Updated to 1.20.1](https://github.com/TKFRvisionOfficial/allpalmsarebeautiful/pull/1) on [TKFRvisionOfficial/allpalmsarebeautiful](https://github.com/TKFRvisionOfficial/allpalmsarebeautiful) (5 days ago)
 - [fix: using correct deconstructor for WindowsSystemInputDriver](https://github.com/itsmeft24/ArcadeEssentials/pull/19) on [itsmeft24/ArcadeEssentials](https://github.com/itsmeft24/ArcadeEssentials) (1 month ago)
 - [Added gcc compatibility](https://github.com/itsmeft24/sunset/pull/4) on [itsmeft24/sunset](https://github.com/itsmeft24/sunset) (1 month ago)
 - [Implemented octane zips with whynow](https://github.com/offsetting/offsetting/pull/4) on [offsetting/offsetting](https://github.com/offsetting/offsetting) (2 years ago)
-- [Add indctive dct support](https://github.com/offsetting/offsetting/pull/3) on [offsetting/offsetting](https://github.com/offsetting/offsetting) (2 years ago)
 
 ### ⭐ Recent stars
 
