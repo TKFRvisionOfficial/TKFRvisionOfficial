@@ -17,7 +17,7 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 
 ### 🥴 Check out what I'm currently messing with
 
-- [TKFRvisionOfficial/allpalmsarebeautiful](https://github.com/TKFRvisionOfficial/allpalmsarebeautiful) - Minecraft Mod for adding Tropicraft Coconuts to BYG Palm Trees (6 days ago)
+- [TKFRvisionOfficial/allpalmsarebeautiful](https://github.com/TKFRvisionOfficial/allpalmsarebeautiful) - Minecraft Mod for adding Tropicraft Coconuts to BYG Palm Trees (1 week ago)
 - [itsmeft24/ArcadeEssentials](https://github.com/itsmeft24/ArcadeEssentials) - A set of patches for version 1.42 of the arcade port of Cars 2: The Video Game that restores critical base game functionality. (1 month ago)
 - [TKFRvisionOfficial/TTTKmenz](https://github.com/TKFRvisionOfficial/TTTKmenz) (7 months ago)
 
@@ -35,10 +35,10 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 
 ### 🔨 Latest Pull Requests I published
 
-- [Fixed scheduledRandomTick nbt conflict with corgilib](https://github.com/CorgiTaco-MC/Oh-The-Trees-Youll-Grow/pull/38) on [CorgiTaco-MC/Oh-The-Trees-Youll-Grow](https://github.com/CorgiTaco-MC/Oh-The-Trees-Youll-Grow) (1 day ago)
-- [Updated to 1.20.1](https://github.com/TKFRvisionOfficial/allpalmsarebeautiful/pull/1) on [TKFRvisionOfficial/allpalmsarebeautiful](https://github.com/TKFRvisionOfficial/allpalmsarebeautiful) (6 days ago)
+- [Fixed scheduledRandomTick nbt conflict with corgilib](https://github.com/CorgiTaco-MC/Oh-The-Trees-Youll-Grow/pull/38) on [CorgiTaco-MC/Oh-The-Trees-Youll-Grow](https://github.com/CorgiTaco-MC/Oh-The-Trees-Youll-Grow) (2 days ago)
+- [Updated to 1.20.1](https://github.com/TKFRvisionOfficial/allpalmsarebeautiful/pull/1) on [TKFRvisionOfficial/allpalmsarebeautiful](https://github.com/TKFRvisionOfficial/allpalmsarebeautiful) (1 week ago)
 - [fix: using correct deconstructor for WindowsSystemInputDriver](https://github.com/itsmeft24/ArcadeEssentials/pull/19) on [itsmeft24/ArcadeEssentials](https://github.com/itsmeft24/ArcadeEssentials) (1 month ago)
-- [Added gcc compatibility](https://github.com/itsmeft24/sunset/pull/4) on [itsmeft24/sunset](https://github.com/itsmeft24/sunset) (1 month ago)
+- [Added gcc compatibility](https://github.com/itsmeft24/sunset/pull/4) on [itsmeft24/sunset](https://github.com/itsmeft24/sunset) (2 months ago)
 - [Implemented octane zips with whynow](https://github.com/offsetting/offsetting/pull/4) on [offsetting/offsetting](https://github.com/offsetting/offsetting) (2 years ago)
 
 ### ⭐ Recent stars
