@@ -37,7 +37,6 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 
 - [Fixed scheduledRandomTick nbt conflict with corgilib](https://github.com/CorgiTaco-MC/Oh-The-Trees-Youll-Grow/pull/38) on [CorgiTaco-MC/Oh-The-Trees-Youll-Grow](https://github.com/CorgiTaco-MC/Oh-The-Trees-Youll-Grow) (1 week ago)
 - [Updated to 1.20.1](https://github.com/TKFRvisionOfficial/allpalmsarebeautiful/pull/1) on [TKFRvisionOfficial/allpalmsarebeautiful](https://github.com/TKFRvisionOfficial/allpalmsarebeautiful) (2 weeks ago)
-- [fix: using correct deconstructor for WindowsSystemInputDriver](https://github.com/itsmeft24/ArcadeEssentials/pull/19) on [itsmeft24/ArcadeEssentials](https://github.com/itsmeft24/ArcadeEssentials) (2 months ago)
 
 ### ⭐ Recent stars
 
