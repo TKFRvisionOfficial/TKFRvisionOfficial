@@ -35,7 +35,7 @@ If you want to follow me on other sites just go through my [<img alt="linktree" 
 
 ### 🔨 Latest Pull Requests I published
 
-- [Fixed scheduledRandomTick nbt conflict with corgilib](https://github.com/CorgiTaco-MC/Oh-The-Trees-Youll-Grow/pull/38) on [CorgiTaco-MC/Oh-The-Trees-Youll-Grow](https://github.com/CorgiTaco-MC/Oh-The-Trees-Youll-Grow) (1 week ago)
+- [Fixed scheduledRandomTick nbt conflict with corgilib](https://github.com/CorgiTaco-MC/Oh-The-Trees-Youll-Grow/pull/38) on [CorgiTaco-MC/Oh-The-Trees-Youll-Grow](https://github.com/CorgiTaco-MC/Oh-The-Trees-Youll-Grow) (2 weeks ago)
 
 ### ⭐ Recent stars
 
